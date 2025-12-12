@@ -14220,24 +14220,101 @@
         }
       },
       {
-        "date": "20250315",
+        "date": [
+          20250315,
+          20251211
+        ],
         "id": 156,
         "text": "かくて船人のうたふ歌を聞きて、",
         "kana": "かくてふなびとのうたふうたをききて、",
         "koutei-yamagen": "かくて船人の歌う歌を聞きて、",
         "translation-ja": "船人たちが歌う歌を聞いて、",
         "translation-en": "Listening to the song sung by the boatmen,",
+        "phrase-gloss": [
+          {
+            "phrase": "かくて船人の歌う歌を聞きて、",
+            "gloss": "thus boatman GEN sing.ATTR poem ACC hear.ADV",
+            "words": [
+              {
+                "word": "かくて",
+                "gloss": "thus"
+              },
+              {
+                "word": "船人",
+                "gloss": "boatman"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "歌う",
+                "gloss": "sing.ATTR"
+              },
+              {
+                "word": "歌",
+                "gloss": "poem"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "聞き",
+                "gloss": "hear.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ATTR": "attributive form",
+          "ACC": "accusative particle",
+          "ADV": "adverbial form",
+          "CONJ": "conjunctive particle",
+          "GEN": "genitive"
+        },
         "translation-ja-natural": "船人たちが歌う歌を聞いて、",
         "translation-en-natural": "Listening to the song sung by the boatmen,"
       },
       {
-        "date": "20250315",
+        "date": [
+          20250315,
+          20251212
+        ],
         "id": 157,
         "text": "かく思へば、",
         "kana": "かくおもへば、",
         "koutei-yamagen": "かく思えば、",
         "translation-ja": "こう思えば、",
         "translation-en": "Thinking thus,",
+        "phrase-gloss": [
+          {
+            "phrase": "かく思えば、",
+            "gloss": "thus think.COND",
+            "words": [
+              {
+                "word": "かく",
+                "gloss": "thus"
+              },
+              {
+                "word": "思え",
+                "gloss": "think.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "COND"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "REALIS": "realis form",
+          "COND": "conditional particle"
+        },
         "translation-ja-natural": "こう思えば、",
         "translation-en-natural": "Thinking thus,"
       },
