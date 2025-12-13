@@ -14319,13 +14319,53 @@
         "translation-en-natural": "Thinking thus,"
       },
       {
-        "date": "20250316",
+        "date": [
+          20250316,
+          20251213
+        ],
         "id": 158,
         "text": "これならず多かれども書かず。",
         "kana": "これならずおほかれどもかかず。",
         "koutei-yamagen": "これならず多かれども書かず。",
         "translation-ja": "これだけでなく、多くあったが、書かない。",
         "translation-en": "Not only these, but there were many more, yet I will not write them.",
+        "phrase-gloss": [
+          {
+            "phrase": "これならず多かれども書かず。",
+            "gloss": "this COP.NEG many.CONJ write.NEG",
+            "words": [
+              {
+                "word": "これ",
+                "gloss": "this"
+              },
+              {
+                "word": "ならず",
+                "gloss": "COP.NEG"
+              },
+              {
+                "word": "多かれ",
+                "gloss": "many.REALIS"
+              },
+              {
+                "word": "ども",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "書か",
+                "gloss": "write.IRR"
+              },
+              {
+                "word": "ず",
+                "gloss": "NEG"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "NEG": "negation particle",
+          "CONJ": "conjunctive particle",
+          "IRR": "irrealis form"
+        },
         "translation-ja-natural": "これだけの歌だけでなく、他にも多くあったけれど、もう書きません。",
         "translation-en-natural": "There were many other poems besides these, but I will not write them.",
         "notes-ja": {
