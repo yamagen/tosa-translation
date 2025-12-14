@@ -14397,14 +14397,108 @@
         }
       },
       {
-        "date": "20250316",
+        "date": [
+          20250316,
+          20251214
+        ],
         "id": 159,
         "text": "これらを人の笑ふを聞きて、海は荒るれども心は少しなぎぬ。",
         "kana": "これらをひとのわらふをききて、うみはあられどもこころはすこしなぎぬ。",
         "koutei-yamagen": "これらを人の笑ふを聞きて、海は荒るれども心は少し凪ぎぬ。",
         "translation-ja": "これらを人々が笑うのを聞いて、海は荒れているが、心は少し穏やかになった。",
         "translation-en": "Hearing people laugh at these, although the sea is rough, my heart has calmed a little.",
-        "translation-ja-natural": "人々の笑い声を聞いて、海は荒れていても、少し気持ちが落ち着きました。",
+        "phrase-gloss": [
+          {
+            "phrase": "これらを人の笑ふを聞きて、",
+            "gloss": "these ACC people GEN laugh.ACC hear.ADV",
+            "words": [
+              {
+                "word": "これら",
+                "gloss": "these"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "人",
+                "gloss": "people"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "笑ふ",
+                "gloss": "laugh.ACC"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "聞き",
+                "gloss": "hear.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "海は荒るれども心は少し凪ぎぬ。",
+            "gloss": "sea TOP rough CONJ heart TOP little calm.PAST",
+            "words": [
+              {
+                "word": "海",
+                "gloss": "sea"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "荒るれ",
+                "gloss": "rough.REALIS"
+              },
+              {
+                "word": "ども",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "心",
+                "gloss": "heart"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "少し",
+                "gloss": "little"
+              },
+              {
+                "word": "凪ぎ",
+                "gloss": "calm.ADV"
+              },
+              {
+                "word": "ぬ",
+                "gloss": "PERF"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ACC": "accusative particle",
+          "GEN": "genitive",
+          "ADV": "adverbial form",
+          "CONJ": "conjunctive particle",
+          "TOP": "topic particle",
+          "PERF": "perfective aspect",
+          "REALIS": "realis form"
+        },
+        "translation-ja-natural": "人々の笑い声を聞いて、海は荒れていても、少し気持ちが落ち着いた。",
         "translation-en-natural": "Hearing the laughter of others, even though the sea was rough, I felt a bit more at ease."
       },
       {
