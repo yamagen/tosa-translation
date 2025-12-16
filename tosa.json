@@ -14502,44 +14502,38 @@
         "translation-en-natural": "Hearing the laughter of others, even though the sea was rough, I felt a bit more at ease."
       },
       {
-        "date": "20250316",
+        "date": [
+          20250316,
+          20251215
+        ],
         "id": 160,
         "text": "かくゆきくらして泊にいたりて、おきな人ひとり、たうめ一人あるがなかに、心ちあしみしてものも物し給はでひそまりぬ。",
         "kana": "かくゆきくらしてとまりにいたりて、おきなひとひとり、たうめひとりあるがなかに、こころちあしみしてものもものしはでひそまりぬ。",
         "koutei-yamagen": "かく行き暮して泊に至りて、翁人一人、専女一人、あるが中に、心地悪しみして、ものもものし給はで、ひそまりぬ。",
-        "translation-ja": "このようにして行き、暮して、泊まり場に至り、翁が一人、専女が一人いる中で、気分が悪くなり、食事をすることもなく、寝てしまった。",
-        "translation-en": "Thus, as they traveled until nightfall and reached the harbor, among them were one old man and one young woman, but feeling unwell, they ate nothing and fell asleep.",
-        "translation-ja-natural": "こうして日が暮れるまで進み、港に着いたが、たまたま乗り合わせた老人と女性がいて、お二人は気分が悪くなり、食事もお取りにならずにそのまま眠ってしまいました。",
-        "translation-en-natural": "As they traveled until nightfall and arrived at the harbor, there was an old man and a woman who had happened to be on board. Feeling unwell, they ate nothing and soon fell asleep.",
-        "notes-ja": {
-          "「専女（とうめ）」の意味を確認": [
-            "『源氏物語』では「とうめ」が「童女（わらわ）」の意味で使われている例がある。",
-            "『伊勢物語』では「とうめ」が「年若い女性」の意味で使われることがある。",
-            "「専」の漢字が「専ら＝一つのことに専念する」から「仕える女性」と解釈される場合もある。"
-          ],
-          "「専女＝老女」には確実な根拠がない": [
-            "菊地の訳が「老女」としている理由は明確ではなく、従来の解釈と異なる。",
-            "「専女＝若い女性」という例は多いため、意図的に老女と訳した可能性が高い。",
-            "貫之の文脈では「仕える女性」の可能性があるが、年齢までは明言できない。",
-            "したがって、「女性」としておくのが最も安全な訳となる。"
-          ],
-          "「あるがなかに」は「たまたま乗り合わせた人」": [
-            "この二人は「たまたま乗り合わせた人」である可能性が高い。",
-            "名前が書かれず、単に「翁」「専女」と記されているのは、貫之にとって重要な人物ではないから。",
-            "もし従者なら、具体的な関係や名前が出るはず。",
-            "「あるが中に」は「船にいる人々の中で」というニュアンスになり、「一行の中で」ではなく「船に乗り合わせた人々の中で」が適切。",
-            "菊地の「皮肉」説には、根拠はあるが確定的ではない。",
-            "実際には、「敬語＝皮肉」ではなく、「敬語＝他人行儀」だった可能性が高い。",
-            "たまたま乗り合わせた人だから、貫之は距離を置くために敬語を使ったと考えるのが自然。"
-          ],
-          "There was": [
-            "「There was an old man and a woman」は、即時文法的な選択！",
-            "話し手が発話のスムーズさを優先し、「There was」をそのまま使った結果！",
-            "「There were an old man and a woman」は、調整文法的な選択！",
-            "話し始める前に文全体の統語的一致を考慮し、調整して発話するため！",
-            "「There was」と「There were」の選択には、即時文法と調整文法の違いが明確に表れている！"
-          ]
-        }
+        "translation-ja": "このように行き、暮して、泊に至って、翁が一人、専女が一人いる中で、気分が悪くなり、食事をすることもなく、寝込んでしまった。",
+        "translation-en": "Thus, after traveling until dusk and arriving at the harbor, among the group with an man and a woman, they felt unwell and quietly lay down without eating.",
+        "translation-ja-natural": "このように行き、暮して、泊に至って、翁が一人、女が一人いる中で、気分が悪くなり、食事をすることもなく、寝込んでしまった。",
+        "translation-en-natural": "Thus, after traveling until dusk and arriving at the harbor, among the group with an old man and a woman, they felt unwell and quietly lay down without eating.",
+        "notes-ja": [
+          {
+            "ttitle": "「専女（とうめ）」の解釈について",
+            "note": "菊地訳では「専女」を「老女」としていますが、これは確実な根拠がないため、注意が必要。『源氏物語』や『伊勢物語』などの古典文学では、「専女」が「若い女性」や「仕える女性」を指す場合が多く、必ずしも「老女」とは限らない。したがって、ここでは「専女」を「女性」と訳すのが最も安全。『源氏物語』では「とうめ」が「童女（わらわ）」の意味で使われている例がある。『伊勢物語』では「とうめ」が「年若い女性」の意味で使われることがある。「専」の漢字が「専ら＝一つのことに専念する」から「仕える女性」と解釈される場合もある。"
+          },
+          {
+            "ttitle": "「あるがなかに」の解釈について",
+            "note": "「あるがなかに」は「船にいる人々の中で」というニュアンスであり、「一行の中で」ではなく「船に乗り合わせた人々の中で」が適切。菊地訳の「皮肉」説には根拠はあるが確定的ではない。実際には、「敬語＝皮肉」ではなく、「敬語＝他人行儀」だった可能性が高い。たまたま乗り合わせた人だから、貫之は距離を置くために敬語を使ったと考えるのが自然。"
+          }
+        ],
+        "notes-en": [
+          {
+            "ttitle": "Interpretation of '専女 (toume)'",
+            "note": "In Kikuchi's translation, '専女' is rendered as 'old', but this lacks definitive evidence. In classical literature such as 'The Tale of Genji' and 'The Tales of Ise,' '専女' often refers to 'a young woman' or 'a serving woman,' and does not necessarily mean 'old'. Therefore, it is safest to translate '専女' as 'woman' here. In 'The Tale of Genji,' 'toume' is used to mean 'child (warawa).' In 'The Tales of Ise,' 'toume' is used to mean 'a young woman.' The kanji '専' can be interpreted as 'devoted to one thing,' leading to the interpretation of 'a serving woman.'"
+          },
+          {
+            "ttitle": "Interpretation of 'あるがなかに'",
+            "note": "'あるがなかに' conveys the nuance of 'among the people on the ship,' rather than 'among the group.' Kikuchi's interpretation of it as 'ironic' lacks definitive evidence. In reality, 'honorific language = irony' is unlikely; it was probably used as 'formal language = distant.' Since they happened to be on the same ship, it is natural to think that Kakinomoto no Hitomaro used honorifics to maintain distance."
+          }
+        ]
       },
       {
         "date": "20250317",
