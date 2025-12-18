@@ -14613,14 +14613,99 @@
         "translation-en-natural": "On the tenth. Today, we anchored at the harbor of Naha."
       },
       {
-        "date": "20250317",
+        "date": [
+          20250317,
+          20251217
+        ],
         "id": 162,
         "text": "十一日、曉に船を出して室津をおふ。",
         "kana": "とおか、あかつきにふねをいだしてむろつをおふ。",
         "koutei-yamagen": "十一日、暁に船を出して室津を追ふ。",
         "translation-ja": "十一日、夜明けに船を出して、室津へ向かう。",
         "translation-en": "On the eleventh, we set sail at dawn and head toward Murotsu.",
-        "translation-ja-natural": "十一日、夜明けに船を出して、室津へ向かいました。",
+        "phrase-gloss": [
+          {
+            "phrase": "十一日。まだ夜の明けないうちに",
+            "gloss": "eleven.day still night GEN dawn.NEG within",
+            "words": [
+              {
+                "word": "十一日",
+                "gloss": "eleven.day"
+              },
+              {
+                "word": "。",
+                "gloss": "PUNCT"
+              },
+              {
+                "word": "まだ",
+                "gloss": "still"
+              },
+              {
+                "word": "夜",
+                "gloss": "night"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "明け",
+                "gloss": "dawn.IRR"
+              },
+              {
+                "word": "ない",
+                "gloss": "NEG.ATTR"
+              },
+              {
+                "word": "うちに",
+                "gloss": "within"
+              }
+            ]
+          },
+          {
+            "phrase": "船を出だして室津を追ふ。",
+            "gloss": "ship ACC depart.ADV Murotsu ACC head.for.VOL",
+            "words": [
+              {
+                "word": "船",
+                "gloss": "ship"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "出だし",
+                "gloss": "depart.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "室津",
+                "gloss": "Murotsu.PN"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "追ふ",
+                "gloss": "head.for"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "PN": "proper noun",
+          "GEN": "genitive",
+          "ACC": "accusative particle",
+          "ADV": "adverbial form",
+          "NEG": "negation particle",
+          "PUNCT": "punctuation"
+        },
+        "translation-ja-natural": "十一日、夜明けに船を出して、室津へ向う。",
         "translation-en-natural": "On the eleventh, we set sail before dawn to head for Murotsu."
       },
       {
