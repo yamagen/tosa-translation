@@ -14709,13 +14709,130 @@
         "translation-en-natural": "On the eleventh, we set sail before dawn to head for Murotsu."
       },
       {
-        "date": "20250317",
+        "date": [
+          20250317,
+          20251218
+        ],
         "id": 163,
         "text": "人皆まだねたれば海のありやうも見えず、唯月を見てぞ西東をば知りける。",
         "kana": "ひとみなまだねたればうみのありやうもみえず、ただつきをみてぞにしひむがしをばしりける。",
         "koutei-yamagen": "人皆まだ寝たれば海のありやうも見えず、唯月を見てぞ西東をば知りける。",
         "translation-ja": "皆がまだ寝ていたので、海のありさまも見えず、ただ月を見て西と東を知った。",
         "translation-en": "As everyone was still asleep, I could not see the state of the sea, but I could tell west and east only by looking at the moon.",
+        "phrase-gloss": [
+          {
+            "phrase": "人みなまだ寝たれば海のありやうも見えず。",
+            "gloss": "people all still sleep.CAUS sea GEN state also see.NEG",
+            "words": [
+              {
+                "word": "人",
+                "gloss": "people"
+              },
+              {
+                "word": "みな",
+                "gloss": "all"
+              },
+              {
+                "word": "まだ",
+                "gloss": "still"
+              },
+              {
+                "word": "寝",
+                "gloss": "sleep.ADV"
+              },
+              {
+                "word": "たれ",
+                "gloss": "PERF.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "COND"
+              },
+              {
+                "word": "海",
+                "gloss": "sea"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "ありやう",
+                "gloss": "state"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "見え",
+                "gloss": "see.IRR"
+              },
+              {
+                "word": "ず",
+                "gloss": "NEG"
+              }
+            ]
+          },
+          {
+            "phrase": "ただ月を見てぞ西東をば知りける。",
+            "gloss": "only moon ACC look.ADV EMP west.east ACC know.PAST",
+            "words": [
+              {
+                "word": "ただ",
+                "gloss": "only"
+              },
+              {
+                "word": "月",
+                "gloss": "moon"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "見",
+                "gloss": "look.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "ぞ",
+                "gloss": "EMP"
+              },
+              {
+                "word": "西東",
+                "gloss": "west.east"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "知り",
+                "gloss": "know.ADV"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ACC": "accusative particle",
+          "GEN": "genitive",
+          "ADV": "adverbial form",
+          "IRR": "irrealis form",
+          "PERF": "perfective aspect",
+          "REALIS": "realis form",
+          "NEG": "negation particle",
+          "COND": "conditional particle",
+          "EMP": "emphatic particle",
+          "PST": "past tense"
+        },
         "translation-ja-natural": "人々はまだ眠っていて、海の様子も見えず、ただ月を見て西や東を見分けた。",
         "translation-en-natural": "As everyone was still asleep, I couldn't see the state of the sea and could only discern east and west by looking at the moon.",
         "notes-ja": {
