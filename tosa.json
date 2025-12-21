@@ -14840,25 +14840,170 @@
         }
       },
       {
-        "date": "20250317",
+        "date": [
+          20250317,
+          20251219
+        ],
         "id": 164,
         "text": "かゝる間に皆夜明けて手あらひ例の事どもして晝になりぬ。",
         "kana": "かかるあひだにみなよあけててあらひれいのことどもしてひるになりぬ。",
         "koutei-yamagen": "かかる間に皆夜明けて手洗ひ例の事どもして昼になりぬ。",
-        "translation-ja": "このようにしているうちに、すっかり夜が明けて、手を洗い、いつもの事をいろいろとして、昼になった。",
-        "translation-en": "While we were doing this, it completely became dawn, we washed our hands, did various usual things, and it became noon.",
+        "translation-ja": "このようにしているうちに、みな夜が明けて、手を洗い、例の事どもをして、昼になった。",
+        "translation-en": "In this way, as time passed, dawn broke, everyone washed their hands, performed their usual routines, and it became noon.",
+        "phrase-gloss": [
+          {
+            "phrase": "かかる間に皆夜明けて",
+            "gloss": "such interval LOC all night.break CONJ",
+            "words": [
+              {
+                "word": "かかる",
+                "gloss": "such"
+              },
+              {
+                "word": "間に",
+                "gloss": "interval LOC"
+              },
+              {
+                "word": "皆",
+                "gloss": "all"
+              },
+              {
+                "word": "夜明け",
+                "gloss": "night.break.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "手洗ひ例のことどもして昼になりぬ。",
+            "gloss": "hand.washing usual GEN things also do CONJ noon become PERF",
+            "words": [
+              {
+                "word": "手洗ひ",
+                "gloss": "hand.washing"
+              },
+              {
+                "word": "例",
+                "gloss": "usual"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "ことども",
+                "gloss": "things also"
+              },
+              {
+                "word": "し",
+                "gloss": "do.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "昼",
+                "gloss": "noon"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "なり",
+                "gloss": "become.ADV"
+              },
+              {
+                "word": "ぬ",
+                "gloss": "PERF"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "LOC": "locative particle",
+          "ADV": "adverbial form",
+          "GEN": "genitive",
+          "PERF": "perfective aspect",
+          "CONJ": "conjunctive particle"
+        },
         "translation-ja-natural": "こうしているうちに夜が明け、手を洗ったり、いつものことをしたりしているうちに昼になった。",
         "translation-en-natural": "In the meantime, the dawn broke, and as people washed their hands and did their usual things, it became noon."
       },
       {
-        "date": "20250318",
+        "date": [
+          20250318,
+          20251220
+        ],
         "id": 165,
         "text": "いましはねといふ所にきぬ。",
         "kana": "いましはねといふところにきぬ。",
         "koutei-yamagen": "今し、羽根と言ふ所に来ぬ。",
         "translation-ja": "今、羽根という所に来た。",
         "translation-en": "Now, I have come to a place called Hane.",
-        "translation-ja-natural": "今、羽根という所に着きました。",
+        "phrase-gloss": [
+          {
+            "phrase": "今し、羽根と言ふ所に来ぬ。",
+            "gloss": "now EMP Hane GEN call place LOC come PERF",
+            "words": [
+              {
+                "word": "今",
+                "gloss": "now"
+              },
+              {
+                "word": "し",
+                "gloss": "EMP"
+              },
+              {
+                "word": "、",
+                "gloss": "PUNCT"
+              },
+              {
+                "word": "羽根",
+                "gloss": "Hane.PN"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "言ふ",
+                "gloss": "call.ATTR"
+              },
+              {
+                "word": "所",
+                "gloss": "place"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "来",
+                "gloss": "come.ADV"
+              },
+              {
+                "word": "ぬ",
+                "gloss": "PERF"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "PN": "proper noun",
+          "GEN": "genitive",
+          "LOC": "locative particle",
+          "ADV": "adverbial form",
+          "PERF": "perfective aspect",
+          "EMP": "emphatic particle",
+          "QUOT": "quotative particle",
+          "PUNCT": "punctuation"
+        },
+        "translation-ja-natural": "今、羽根という所に着いた。",
         "translation-en-natural": "Now, I've arrived at a place called Hane."
       },
       {
