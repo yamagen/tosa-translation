@@ -15007,58 +15007,431 @@
         "translation-en-natural": "Now, I've arrived at a place called Hane."
       },
       {
-        "date": "20250318",
+        "date": [
+          20250318,
+          20251223
+        ],
         "id": 166,
         "text": "わかき童この所の名を聞きて「はねといふ所は鳥の羽のやうにやある」といふ。",
         "kana": "わかきわらわこのところのなをききて「はねといふところはとりのはねのやうにやある」といふ。",
         "koutei-yamagen": "若き童この所の名を聞きて、「羽と言ふ所は鳥の羽のようにやある」と言ふ。",
         "translation-ja": "若い子がこの所の名前を聞いて、「羽根という所は鳥の羽のようにあるのか？」と言う。",
         "translation-en": "A young child heard the name of this place and said, 'Is Hane like a bird's feather?'",
-        "translation-ja-natural": "子どもがこの場所の名前を聞いて、「羽根って、鳥の羽みたいなところなの？」と言いました。",
+        "phrase-gloss": [
+          {
+            "phrase": "若き童この所の名を聞きて、",
+            "gloss": "young child this place GEN name ACC hear.ADV",
+            "words": [
+              {
+                "word": "若き",
+                "gloss": "young"
+              },
+              {
+                "word": "童",
+                "gloss": "child"
+              },
+              {
+                "word": "この",
+                "gloss": "this"
+              },
+              {
+                "word": "所",
+                "gloss": "place"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "名",
+                "gloss": "name"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "聞き",
+                "gloss": "hear.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "「羽と言ふ所は鳥の羽のようにやある」と言ふ。",
+            "gloss": "Hane QUOT call place TOP bird GEN feather GEN like EMP exist QUOT say",
+            "words": [
+              {
+                "word": "羽",
+                "gloss": "Hane.PN"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "言ふ",
+                "gloss": "call.ATTR"
+              },
+              {
+                "word": "所",
+                "gloss": "place"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "鳥",
+                "gloss": "bird"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "羽",
+                "gloss": "feather"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "ように",
+                "gloss": "like"
+              },
+              {
+                "word": "や",
+                "gloss": "EMP"
+              },
+              {
+                "word": "ある",
+                "gloss": "exist"
+              },
+              {
+                "word": "言ふ",
+                "gloss": "say"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "PN": "proper noun",
+          "GEN": "genitive",
+          "ACC": "accusative particle",
+          "ADV": "adverbial form",
+          "CONJ": "conjunctive particle",
+          "TOP": "topic particle",
+          "QUOT": "quotative particle",
+          "EMP": "emphatic particle"
+        },
+        "translation-ja-natural": "子どもがこの場所の名前を聞いて、「羽根って、鳥の羽みたいなところなの？」と言った。",
         "translation-en-natural": "A child heard the name of this place and asked, 'Is Hane a place that looks like a bird's feather?'"
       },
       {
-        "date": "20250318",
+        "date": [
+          20250318,
+          20251224
+        ],
         "id": 167,
         "text": "まだ幼き童のことなれば人々笑ふ。",
         "kana": "まだおさなきわらはのことなればひとびとわらふ。",
         "koutei-yamagen": "まだ幼き童のことなれば人々笑ふ。",
-        "translation-ja": "まだ幼い子の言うことなので、人々は笑う。",
+        "translation-ja": "まだ幼い子の言うことなので、人々、笑う。",
         "translation-en": "Since it is something a young child says, people laugh.",
+        "phrase-gloss": [
+          {
+            "phrase": "まだ幼き童のことなれば",
+            "gloss": "still young child GEN thing COP.REALIS",
+            "words": [
+              {
+                "word": "まだ",
+                "gloss": "still"
+              },
+              {
+                "word": "幼き",
+                "gloss": "young"
+              },
+              {
+                "word": "童",
+                "gloss": "child"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "こと",
+                "gloss": "thing"
+              },
+              {
+                "word": "なれ",
+                "gloss": "COP.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "COND"
+              }
+            ]
+          },
+          {
+            "phrase": "人々笑ふ。",
+            "gloss": "people laugh",
+            "words": [
+              {
+                "word": "人々",
+                "gloss": "people"
+              },
+              {
+                "word": "笑ふ",
+                "gloss": "laugh"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "GEN": "genitive",
+          "COP": "copula",
+          "REALIS": "realis form",
+          "COND": "conditional particle"
+        },
         "translation-ja-natural": "幼い子がそんなことを言うので、人々は笑った。",
         "translation-en-natural": "Since a little child said that, people laughed."
       },
       {
-        "date": "20250318",
+        "date": [
+          20250318,
+          20251225
+        ],
         "id": 168,
         "text": "時にありける女の童なむこの歌をよめる、",
         "kana": "ときにありけるをんなのわらはなむこのうたをよめる、",
         "koutei-yamagen": "時にありける女の童なむ、この歌を詠める、",
         "translation-ja": "その時にいた女の子どもが、この歌を詠んだ。",
         "translation-en": "At that time, a girl who was there composed this poem.",
+        "phrase-gloss": [
+          {
+            "phrase": "時にありける女童なむ、",
+            "gloss": "time LOC exist.PST female.child EMP",
+            "words": [
+              {
+                "word": "時",
+                "gloss": "time"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "あり",
+                "gloss": "exist.ADV"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST"
+              },
+              {
+                "word": "女",
+                "gloss": "female"
+              },
+              {
+                "word": "童",
+                "gloss": "child"
+              },
+              {
+                "word": "なむ",
+                "gloss": "EMP"
+              }
+            ]
+          },
+          {
+            "phrase": "この歌を詠める、",
+            "gloss": "this poem ACC compose.PRES",
+            "words": [
+              {
+                "word": "この",
+                "gloss": "this"
+              },
+              {
+                "word": "歌",
+                "gloss": "poem"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "詠め",
+                "gloss": "compose.REALIS"
+              },
+              {
+                "word": "る",
+                "gloss": "PERF.ATTR"
+              }
+            ]
+          }
+        ],
         "translation-ja-natural": "そのとき、そこにいた女の子がこの歌を詠んだ。",
         "translation-en-natural": "At that moment, a little girl there composed this poem."
       },
       {
-        "date": "20250319",
+        "date": [
+          20250319,
+          20251226
+        ],
         "id": 169,
         "poem": "まことにて/名に聞く所/はねならば/飛ぶがごとくに/みやこへもがな",
         "kana": "まことにて/なにきくところ/はねならば/とぶがごとくに/みやこへもがな",
         "koutei-yamagen": "まことにて名に聞く所はねならば飛ぶがごとくに都へもがな",
-        "translation-ja": "本当に名の通りの場所が羽根であるならば、飛ぶように都へ行きたいものだ。",
+        "translation-ja": "本当に名の通りの場所が羽根であるならば、飛ぶように都へ行きたいものです。",
         "translation-en": "If this place truly corresponds to its name, Hane, I wish I could fly to the capital.",
+        "phrase-gloss": [
+          {
+            "phrase": "まことにて名に聞く所はねならば",
+            "gloss": "truly name LOC hear place Hane.PN COP.IRR COND",
+            "words": [
+              {
+                "word": "まこと",
+                "gloss": "truth"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "名",
+                "gloss": "name"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "聞く",
+                "gloss": "hear.ATTR"
+              },
+              {
+                "word": "所",
+                "gloss": "place"
+              },
+              {
+                "word": "はね",
+                "gloss": "Hane.PN"
+              },
+              {
+                "word": "なら",
+                "gloss": "COP.IRR"
+              },
+              {
+                "word": "ば",
+                "gloss": "CONF"
+              }
+            ]
+          },
+          {
+            "phrase": "飛ぶがごとくに都へもがな",
+            "gloss": "fly NOM like LOC capital ACC wish.VOL",
+            "words": [
+              {
+                "word": "飛ぶ",
+                "gloss": "fly.ATTR"
+              },
+              {
+                "word": "が",
+                "gloss": "NOM"
+              },
+              {
+                "word": "ごとく",
+                "gloss": "like"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "都",
+                "gloss": "capital"
+              },
+              {
+                "word": "へ",
+                "gloss": "LOC"
+              },
+              {
+                "word": "も",
+                "gloss": "ACC"
+              },
+              {
+                "word": "がな",
+                "gloss": "wish"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "COP": "copula",
+          "LOC": "locative particle",
+          "ATTR": "attributive form",
+          "DAT": "dative particle",
+          "CONJ": "conjunctive particle",
+          "IRR": "irrealis form",
+          "CONF": "confirmatory particle",
+          "PN": "proper noun",
+          "NOM": "nominative particle",
+          "ACC": "accusative particle"
+        },
         "translation-ja-natural": "本当に「羽根」という名の通りなら、羽ばたくように都へ飛んで行きたいものです。",
         "translation-en-natural": "If this place truly lives up to its name, Hane, I wish I could soar to the capital."
       },
       {
-        "date": "20250319",
+        "date": [
+          20250319,
+          20251227
+        ],
         "id": 170,
         "text": "とぞいへる。",
         "kana": "とぞいへる。",
         "koutei-yamagen": "とぞいへる。",
         "translation-ja": "と言った。",
         "translation-en": "So it was said.",
-        "translation-ja-natural": "と言ったのです。",
+        "phrase-gloss": [
+          {
+            "phrase": "とぞいへる。",
+            "gloss": "QUOT EMP say.PAST",
+            "words": [
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "ぞ",
+                "gloss": "EMP"
+              },
+              {
+                "word": "いへ",
+                "gloss": "say.REALIS"
+              },
+              {
+                "word": "る",
+                "gloss": "PERF.ATTR"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "QUOT": "quotative particle",
+          "EMP": "emphatic particle",
+          "REALIS": "realis form",
+          "PERF": "perfective aspect"
+        },
+        "translation-ja-natural": "と言った。",
         "translation-en-natural": "That's what was said."
       },
       {
