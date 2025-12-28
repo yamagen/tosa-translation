@@ -15435,13 +15435,164 @@
         "translation-en-natural": "That's what was said."
       },
       {
-        "date": "20250319",
+        "date": [
+          20250319,
+          20251228
+        ],
         "id": 171,
         "text": "男も女もいかで疾く都へもがなと思ふ心あれば、この歌よしとにはあらねどげにと思ひて人々わすれず。",
         "kana": "をとこもをむなもいかでとくみやこへもがなとおもふこころあれば、このうたよしとにはあらねどげにとおもひてひとびとわすれず。",
         "koutei-yamagen": "男も女もいかで疾く都へもがなと思ふ心あれば、この歌良しとにはあらねど、げにと思ひて人々忘れず。",
         "translation-ja": "男も女も、どうしても早く都へと願う心があるので、この歌がいいのではないが、確かに、と思って、人々は忘れない。",
         "translation-en": "Both men and women have a heart that wishes to go quickly to the capital, so while this poem is not a good one, they think, 'Certainly,' and do not forget it.",
+        "phrase-gloss": [
+          {
+            "phrase": "男も女もいかで疾く都へもがなと思ふ心あれば、",
+            "gloss": "man also woman also somehow quickly capital ACC wish QUOT think heart exist CONJ",
+            "words": [
+              {
+                "word": "男",
+                "gloss": "man"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "女",
+                "gloss": "woman"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "いかで",
+                "gloss": "somehow"
+              },
+              {
+                "word": "疾く",
+                "gloss": "quickly"
+              },
+              {
+                "word": "都",
+                "gloss": "capital"
+              },
+              {
+                "word": "へ",
+                "gloss": "LOC"
+              },
+              {
+                "word": "もがな",
+                "gloss": "wish"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "思ふ",
+                "gloss": "think.ATTR"
+              },
+              {
+                "word": "心",
+                "gloss": "heart"
+              },
+              {
+                "word": "あれ",
+                "gloss": "exist.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "この歌良しとにはあらねど、げにと思ひて人々忘れず。",
+            "gloss": "this poem good QUOT DAT TOP COP NEG CONJ truly think CONJ people forget NEG",
+            "words": [
+              {
+                "word": "この",
+                "gloss": "this"
+              },
+              {
+                "word": "歌",
+                "gloss": "poem"
+              },
+              {
+                "word": "良し",
+                "gloss": "good"
+              },
+              {
+                "word": "と",
+                "gloss": "TOP"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "あら",
+                "gloss": "COP.IRR"
+              },
+              {
+                "word": "ね",
+                "gloss": "NEG"
+              },
+              {
+                "word": "ど",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "げに",
+                "gloss": "truly"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "思ひ",
+                "gloss": "think.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "人々",
+                "gloss": "people"
+              },
+              {
+                "word": "忘れ",
+                "gloss": "forget.IRR"
+              },
+              {
+                "word": "ず",
+                "gloss": "NEG"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ACC": "accusative particle",
+          "ADV": "adverbial form",
+          "DAT": "dative particle",
+          "CONJ": "conjunctive particle",
+          "REALIS": "realis form",
+          "IRR": "irrealis form",
+          "ATTR": "attributive form",
+          "LOC": "locative particle",
+          "QUOT": "quotative particle",
+          "TOP": "topic particle",
+          "COP": "copula",
+          "NEG": "negation particle"
+        },
         "translation-ja-natural": "男も女も、なんとかして早く都へ帰りたいと願っていたので、この歌が特に優れているわけではないが、確かにその通りだと思い、皆が心に留めた。",
         "translation-en-natural": "Both men and women longed to return to the capital as soon as possible, so while this poem was not particularly outstanding, they felt it truly resonated and kept it in their hearts."
       },
