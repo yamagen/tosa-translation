@@ -15597,14 +15597,144 @@
         "translation-en-natural": "Both men and women longed to return to the capital as soon as possible, so while this poem was not particularly outstanding, they felt it truly resonated and kept it in their hearts."
       },
       {
-        "date": "20250319",
+        "date": [
+          20250319,
+          20251229
+        ],
         "id": 172,
         "text": "このはねといふ所問ふ童の序にて（ぞイ）、又昔の人を思ひ出でゝいづれの時にか忘るゝ。",
         "kana": "このはねといふところとふわらはのついでにて、またむかしのひとをおもひいでていづれのときにかわするる。",
         "koutei-yamagen": "この、羽根といふ所問ふ童のついでにぞ、また昔の人を思ひ出でて、いづれの時にか忘るる",
-        "translation-ja": "この羽根という所の名を問うた子をきっかけに、また亡くなった子のことを思い出し、いつになったら忘れられようか。",
+        "translation-ja": "この羽根という所の名を問うた子をきっかけに、また亡くなった子のことを思い出し、いつになったら忘れるのか。",
         "translation-en": "Taking the opportunity of the child who asked the name of this place called Hane, I remembered again the child who passed away, and when would I ever be able to forget?",
-        "translation-ja-natural": "この羽根という地名を尋ねた子をきっかけに、亡くなった子のことを思い出してしまいましたが、いつになったら忘れられるのでしょうか。",
+        "phrase-gloss": [
+          {
+            "phrase": "この、羽根といふ所問う童の序にぞ、",
+            "gloss": "this Hane QUOT call place ask child GEN preface EMP",
+            "words": [
+              {
+                "word": "この",
+                "gloss": "this"
+              },
+              {
+                "word": "、",
+                "gloss": "PUNCT"
+              },
+              {
+                "word": "羽根",
+                "gloss": "Hane.PN"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "いふ",
+                "gloss": "call.ATTR"
+              },
+              {
+                "word": "所",
+                "gloss": "place"
+              },
+              {
+                "word": "問う",
+                "gloss": "ask.ATTR"
+              },
+              {
+                "word": "童",
+                "gloss": "child"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "序",
+                "gloss": "preface"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "ぞ",
+                "gloss": "EMP"
+              }
+            ]
+          },
+          {
+            "phrase": "また昔の人を思ひ出でて、いづれの時にか忘るる",
+            "gloss": "again old GEN person ACC think.out CONJ which GEN time DAT EMP forget.FUT",
+            "words": [
+              {
+                "word": "また",
+                "gloss": "again"
+              },
+              {
+                "word": "昔",
+                "gloss": "old"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "思ひ出で",
+                "gloss": "think.out.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "いづれ",
+                "gloss": "which"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "時",
+                "gloss": "time"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "か",
+                "gloss": "Q"
+              },
+              {
+                "word": "忘るる",
+                "gloss": "forget.ATTR"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "PN": "proper noun",
+          "QUOT": "quotative particle",
+          "GEN": "genitive",
+          "ATTR": "attributive form",
+          "LOC": "locative particle",
+          "EMP": "emphatic particle",
+          "ACC": "accusative particle",
+          "ADV": "adverbial form",
+          "CONJ": "conjunctive particle",
+          "DAT": "dative particle",
+          "FUT": "future tense"
+        },
+        "translation-ja-natural": "この羽根という地名を尋ねた子をきっかけに、亡くなった子のことを思い出してしまいましたが、いつになったら忘れるのだろうか。",
         "translation-en-natural": "Hearing the child ask about the name of this place, Hane, I couldn't help but remember the child who passed away. But when will I ever be able to forget?"
       },
       {
