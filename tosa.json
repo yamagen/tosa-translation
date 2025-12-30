@@ -15738,14 +15738,214 @@
         "translation-en-natural": "Hearing the child ask about the name of this place, Hane, I couldn't help but remember the child who passed away. But when will I ever be able to forget?"
       },
       {
-        "date": "20250320",
+        "date": [
+          20250320,
+          20251230
+        ],
         "id": 173,
         "text": "今日はまして母の悲しがらるゝ事は、くだりし時の人の數足らねば、ふるき歌に「數はたらでぞかへるべらなる」といふことを思ひ出でゝ人のよめる、",
         "kana": "けふはましてははのかなしがらるることは、くだりしときのひとのかずたらねば、ふるきうたに「かずはたらでぞかへるべらなる」といふことをおもいいでてひとのよめる、",
         "koutei-yamagen": "今日はまして母の悲しがらるることは、くだりし時の人の数足らねば、古き歌に「数は足らでぞ帰るべらなる」と言ふ事を思い出でて人の詠める、",
         "translation-ja": "今日はまして、お母様が悲しがってらっしゃることは、下った時の人の数が足りないので、古い歌に「数が足らずに帰るようだ」ということを思い出して、人が詠んだのは、",
         "translation-en": "Today, all the more, the mother is grieving, because the number of people who went down from the capital is insufficient. Recalling the old song, 'It seems they are returning while the number remains insufficient,' a poem someone recited was...",
-        "translation-ja-natural": "今日は、お母様がことさら悲しんでいらっしゃるのは、都を出発した時よりも帰る人の数が少ないからでしょう。古歌にある「出発時よりも少ない人数で帰るようだ」ということばを思い出し、ある人が詠んだ歌は、",
+        "phrase-gloss": [
+          {
+            "phrase": "今日はまして母の悲しがらるることは、",
+            "gloss": "today EMP mother GEN grieve.NOM thing TOP",
+            "words": [
+              {
+                "word": "今日",
+                "gloss": "today"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "まして",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "母",
+                "gloss": "mother"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "悲しがら",
+                "gloss": "grieve.IRR"
+              },
+              {
+                "word": "るる",
+                "gloss": "PASS.ATTR"
+              },
+              {
+                "word": "こと",
+                "gloss": "thing"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              }
+            ]
+          },
+          {
+            "phrase": "くだりし時の人の数足らねば、",
+            "gloss": "descend.PST time GEN person GEN number insufficient CONJ",
+            "words": [
+              {
+                "word": "くだり",
+                "gloss": "descend.ADV"
+              },
+              {
+                "word": "し",
+                "gloss": "PST.ATTR"
+              },
+              {
+                "word": "時",
+                "gloss": "time"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "数",
+                "gloss": "number"
+              },
+              {
+                "word": "足ら",
+                "gloss": "insufficient.IRR"
+              },
+              {
+                "word": "ね",
+                "gloss": "NEG.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "古き歌に「数は足らでぞ帰るべらなる」と言ふ事を思い出でて人の詠める、",
+            "gloss": "old poem DAT number TOP insufficient NEG EMP return VOL COP QUOT say thing ACC think.out CONJ person GEN compose.PRES",
+            "words": [
+              {
+                "word": "古き",
+                "gloss": "old"
+              },
+              {
+                "word": "歌",
+                "gloss": "poem"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "数",
+                "gloss": "number"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "足ら",
+                "gloss": "insufficient.IRR"
+              },
+              {
+                "word": "で",
+                "gloss": "NEG.ADV"
+              },
+              {
+                "word": "ぞ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "帰る",
+                "gloss": "return.ATTR"
+              },
+              {
+                "word": "べら",
+                "gloss": "FUT.IRR"
+              },
+              {
+                "word": "なる",
+                "gloss": "COP.ATTR"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "言ふ",
+                "gloss": "say.ATTR"
+              },
+              {
+                "word": "事",
+                "gloss": "thing"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "思い出で",
+                "gloss": "think.out.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "詠め",
+                "gloss": "compose.REALIS"
+              },
+              {
+                "word": "る",
+                "gloss": "PERF"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "EMPH": "emphatic particle",
+          "GEN": "genitive",
+          "NOM": "nominative particle",
+          "TOP": "topic particle",
+          "PST": "past tense",
+          "CONJ": "conjunctive particle",
+          "IRR": "irrealis form",
+          "NEG": "negation particle",
+          "DAT": "dative particle",
+          "FUT": "future tense",
+          "COP": "copula",
+          "QUOT": "quotative particle",
+          "ACC": "accusative particle",
+          "ADV": "adverbial form",
+          "REALIS": "realis form"
+        },
+        "translation-ja-natural": "今日は、お母様がことさら悲しんでいらっしゃるのは、都を出発した時よりも帰る人の数が少ないからだろう。古歌にある「出発時よりも少ない人数で帰るようだ」ということばを思い出し、ある人が詠んだ歌は、",
         "translation-en-natural": "Today, the mother grieves even more, as the number of people returning from the capital is fewer than when they left. Remembering the old song, 'It seems they are returning with fewer than they departed with,' someone recited the following poem..."
       },
       {
