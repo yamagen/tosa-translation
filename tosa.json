@@ -15949,13 +15949,95 @@
         "translation-en-natural": "Today, the mother grieves even more, as the number of people returning from the capital is fewer than when they left. Remembering the old song, 'It seems they are returning with fewer than they departed with,' someone recited the following poem..."
       },
       {
-        "date": "20250320",
+        "date": [
+          20250320,
+          20251231
+        ],
         "id": 174,
         "poem": "世の中に/おもひあれども/子を戀ふる/思ひにまさる/思ひなきかな",
         "kana": "よのなかに/おもひやあれども/こをこふる/おもひにまさる/おもひなきかな",
         "koutei-yamagen": "世の中に思ひあれども子を恋ふる思ひに勝る思ひなきかな",
         "translation-ja": "世の中に思いはあるけれども、子を恋しく思う気持ちに勝る思いはない。",
         "translation-en": "Although there are many emotions in this world, none surpass the love a parent feels for their child.",
+        "phrase-gloss": [
+          {
+            "phrase": "世の中に思ひあれども",
+            "gloss": "world LOC think exist.CONTRASTIVE",
+            "words": [
+              {
+                "word": "世の中",
+                "gloss": "world"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "思ひ",
+                "gloss": "think.ADV"
+              },
+              {
+                "word": "あれ",
+                "gloss": "exist.REALIS"
+              },
+              {
+                "word": "ども",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "子を恋ふる思ひに勝る思ひなきかな",
+            "gloss": "child ACC love.ATTR think DAT surpass think NEG EMP",
+            "words": [
+              {
+                "word": "子",
+                "gloss": "child"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "恋ふる",
+                "gloss": "love.ATTR"
+              },
+              {
+                "word": "思ひ",
+                "gloss": "think.ADV"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "勝る",
+                "gloss": "surpass.ATTR"
+              },
+              {
+                "word": "思ひ",
+                "gloss": "think.ADV"
+              },
+              {
+                "word": "なき",
+                "gloss": "NEG.ATTR"
+              },
+              {
+                "word": "かな",
+                "gloss": "EMPH"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "LOC": "locative particle",
+          "ADV": "adverbial form",
+          "REALIS": "realis form",
+          "CONJ": "conjunctive particle",
+          "ACC": "accusative particle",
+          "DAT": "dative particle",
+          "EMPH": "emphatic particle"
+        },
         "translation-ja-natural": "世の中にはいろいろな思いがあるけれど、子どもを恋しく思う気持ちほど強いものはない。",
         "translation-en-natural": "There are many emotions in this world, but nothing is stronger than a parent's love for their child.",
         "notes-ja": {
