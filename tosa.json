@@ -16045,13 +16045,46 @@
         }
       },
       {
-        "date": "20250320",
+        "date": [
+          20250320,
+          20260101
+        ],
         "id": 175,
         "text": "といひつゝなむ。",
         "kana": "といひつゝなむ。",
         "koutei-yamagen": "といひつつなむ。",
         "translation-ja": "と言いながら...。",
         "translation-en": "Saying this, saying that...",
+        "phrase-gloss": [
+          {
+            "phrase": "といひつつなむ。",
+            "gloss": "QUOT say.CONT EMP",
+            "words": [
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "いひ",
+                "gloss": "say.ADV"
+              },
+              {
+                "word": "つつ",
+                "gloss": "CONT"
+              },
+              {
+                "word": "なむ",
+                "gloss": "EMP"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "QUOT": "quotative particle",
+          "ADV": "adverbial form",
+          "CONT": "continuative form",
+          "EMP": "emphatic particle"
+        },
         "translation-ja-natural": "と言いながら...。",
         "translation-en-natural": "Saying this, saying that..."
       },
