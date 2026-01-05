@@ -15988,7 +15988,7 @@
           },
           {
             "phrase": "子を恋ふる思ひに勝る思ひなきかな",
-            "gloss": "child ACC love.ATTR think DAT surpass think NEG EMP",
+            "gloss": "child ACC love think DAT surpass think NEG EMPH",
             "words": [
               {
                 "word": "子",
@@ -16089,13 +16089,48 @@
         "translation-en-natural": "Saying this, saying that..."
       },
       {
-        "date": "20250320",
+        "date": [
+          20250320,
+          20260102
+        ],
         "id": 176,
         "text": "十二日、雨降らず。",
         "kana": "とおかあまりふつか、あめふらず。",
         "koutei-yamagen": "十二日、雨降らず。",
         "translation-ja": "十二日、雨は降らない。",
         "translation-en": "On the twelfth, rain does not fall.",
+        "phrase-gloss": [
+          {
+            "phrase": "十二日、雨降らず。",
+            "gloss": "twelfth.day rain fall.NEG",
+            "words": [
+              {
+                "word": "十二日",
+                "gloss": "twelfth.day"
+              },
+              {
+                "word": "、",
+                "gloss": "PUNCT"
+              },
+              {
+                "word": "雨",
+                "gloss": "rain"
+              },
+              {
+                "word": "降ら",
+                "gloss": "fall.IRR"
+              },
+              {
+                "word": "ず",
+                "gloss": "NEG"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "NEG": "negation particle",
+          "IRR": "irrealis form"
+        },
         "translation-ja-natural": "十二日、雨は降りませんでした。",
         "translation-en-natural": "On the twelfth, it didn't rain."
       },
