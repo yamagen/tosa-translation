@@ -16253,14 +16253,58 @@
         "translation-en-natural": "They arrived at Murotsu from Narashitsu."
       },
       {
-        "date": "20250321",
+        "date": [
+          20250321,
+          20260105
+        ],
         "id": 179,
         "text": "十三日の曉にいさか小雨ふる。",
         "kana": "とおかあまりみかのあかつきにいさかこあめふる。",
         "koutei-yamagen": "十三日の暁にいさか小雨降る。",
         "translation-ja": "十三日の暁に、わずかに小雨が降る。",
         "translation-en": "At dawn on the thirteenth day, a slight drizzle falls.",
-        "translation-ja-natural": "十三日の夜明けに小雨が降っていました。",
+        "phrase-gloss": [
+          {
+            "phrase": "十三日の暁にいさか小雨降る。",
+            "gloss": "thirteenth.day GEN dawn LOC somewhat light.rain fall",
+            "words": [
+              {
+                "word": "十三日",
+                "gloss": "thirteenth.day"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "暁",
+                "gloss": "dawn"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "いさか",
+                "gloss": "somewhat"
+              },
+              {
+                "word": "小雨",
+                "gloss": "light.rain"
+              },
+              {
+                "word": "降る",
+                "gloss": "fall.ATTR"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "GEN": "genitive",
+          "LOC": "locative particle",
+          "ATTR": "attributive form"
+        },
+        "translation-ja-natural": "十三日の夜明けに小雨が降る。",
         "translation-en-natural": "On the thirteenth, light rain fell at dawn.",
         "notes-ja": [
           {
