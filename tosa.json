@@ -16148,7 +16148,7 @@
         "phrase-gloss": [
           {
             "phrase": "文時、維茂の船の遅れたりし、",
-            "gloss": "Funtoki Koremochi GEN ship GEN delay.PERF COP.PAST",
+            "gloss": "Funtoki Koremochi GEN ship GEN delay PERF PST",
             "words": [
               {
                 "word": "文時",
@@ -16190,25 +16190,67 @@
           }
         ],
         "abbreviations": {
+          "PN": "proper noun",
           "GEN": "genitive",
           "IRR": "irrealis form",
           "PERF": "perfective aspect",
-          "COP": "copula",
-          "PAST": "past tense"
+          "ADV": "adverbial form",
+          "PST": "past tense"
         },
         "translation-ja-natural": "文時、維茂の船が遅れていた。",
         "translation-en-natural": "Funtoki, Koremochi's ship was delayed."
       },
       {
-        "date": "20250320",
+        "date": [
+          20250320,
+          20260104
+        ],
         "id": 178,
         "text": "ならしつより室津に（つイ有）きぬ。",
         "kana": "ならしつよりむろつにつきぬ。",
         "koutei-yamagen": "奈良志津より室津に着きぬ。",
         "translation-ja": "奈良志津から室津に着いた。",
-        "translation-en": "They arrived at Murotsu from Narashi.",
-        "translation-ja-natural": "ならしの港から室津に到着しました。",
-        "translation-en-natural": "They arrived at Murotsu from Narashi."
+        "translation-en": "They arrived at Murotsu from Narashitsu.",
+        "phrase-gloss": [
+          {
+            "phrase": "奈良志津より室津に着きぬ。",
+            "gloss": "Narashitsu.PN from Murotsu.PN LOC arrive PERF",
+            "words": [
+              {
+                "word": "奈良志津",
+                "gloss": "Narashitsu.PN"
+              },
+              {
+                "word": "より",
+                "gloss": "from"
+              },
+              {
+                "word": "室津",
+                "gloss": "Murotsu.PN"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "着き",
+                "gloss": "arrive.ADV"
+              },
+              {
+                "word": "ぬ",
+                "gloss": "PERF"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ADV": "adverbial form",
+          "PN": "proper noun",
+          "LOC": "locative particle",
+          "PERF": "perfective aspect"
+        },
+        "translation-ja-natural": "ならしつの港から室津に到着した。",
+        "translation-en-natural": "They arrived at Murotsu from Narashitsu."
       },
       {
         "date": "20250321",
@@ -18795,7 +18837,7 @@
               },
               {
                 "word": "ぬ",
-                "gloss": "PFV"
+                "gloss": "PERF"
               }
             ]
           }
@@ -20790,7 +20832,7 @@
               },
               {
                 "word": "ぬ",
-                "gloss": "PFV"
+                "gloss": "PERF"
               }
             ]
           }
@@ -21034,7 +21076,7 @@
               },
               {
                 "word": "ぬ",
-                "gloss": "PFV"
+                "gloss": "PERF"
               }
             ]
           }
