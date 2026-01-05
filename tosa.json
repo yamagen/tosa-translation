@@ -16135,14 +16135,68 @@
         "translation-en-natural": "On the twelfth, it didn't rain."
       },
       {
-        "date": "20250320",
+        "date": [
+          20250320,
+          20260103
+        ],
         "id": 177,
         "text": "文時、維茂が船のおくれたりし。",
         "kana": "ふむどき、これもちのふねのおくれたりし。",
         "koutei-yamagen": "文時、維茂の船の遅れたりし。",
         "translation-ja": "文時、維茂の船が遅れていた。",
         "translation-en": "Funtoki, Koremochi's ship had been delayed.",
-        "translation-ja-natural": "文時、維茂の船が遅れていました。",
+        "phrase-gloss": [
+          {
+            "phrase": "文時、維茂の船の遅れたりし、",
+            "gloss": "Funtoki Koremochi GEN ship GEN delay.PERF COP.PAST",
+            "words": [
+              {
+                "word": "文時",
+                "gloss": "Funtoki.PN"
+              },
+              {
+                "word": "、",
+                "gloss": "PUNCT"
+              },
+              {
+                "word": "維茂",
+                "gloss": "Koremochi.PN"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "船",
+                "gloss": "ship"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "遅れ",
+                "gloss": "delay.ADV"
+              },
+              {
+                "word": "たり",
+                "gloss": "PERF.ADV"
+              },
+              {
+                "word": "し",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "GEN": "genitive",
+          "IRR": "irrealis form",
+          "PERF": "perfective aspect",
+          "COP": "copula",
+          "PAST": "past tense"
+        },
+        "translation-ja-natural": "文時、維茂の船が遅れていた。",
         "translation-en-natural": "Funtoki, Koremochi's ship was delayed."
       },
       {
