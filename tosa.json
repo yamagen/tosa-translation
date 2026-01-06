@@ -16318,14 +16318,50 @@
         ]
       },
       {
-        "date": "20250321",
+        "date": [
+          20250321,
+          20260106
+        ],
         "id": 180,
         "text": "しばしありて止みぬ。",
         "kana": "しばしありてやみぬ。",
         "koutei-yamagen": "しばしありて止みぬ。",
         "translation-ja": "しばらくして止んだ。",
         "translation-en": "It lasted for a while and then stopped.",
-        "translation-ja-natural": "しばらく降りましたが、ほどなく雨はやみました。",
+        "phrase-gloss": [
+          {
+            "phrase": "しばしありて止みぬ。",
+            "gloss": "for.a.while exist CONJ stop PERF",
+            "words": [
+              {
+                "word": "しばし",
+                "gloss": "for.a.while"
+              },
+              {
+                "word": "あり",
+                "gloss": "exist.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "止み",
+                "gloss": "stop.ADV"
+              },
+              {
+                "word": "ぬ",
+                "gloss": "PERF"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "CONJ": "conjunctive particle",
+          "ADV": "adverbial form",
+          "PERF": "perfective aspect"
+        },
+        "translation-ja-natural": "しばらくして、止んだ。",
         "translation-en-natural": "It rained for a while, but then it stopped."
       },
       {
