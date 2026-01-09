@@ -16365,13 +16365,103 @@
         "translation-en-natural": "It rained for a while, but then it stopped."
       },
       {
-        "date": "20250321",
+        "date": [
+          20250321,
+          20260107
+        ],
         "id": 181,
         "text": "男女これかれ、ゆあみなどせむとてあたりのよろしき所におりて行く。",
         "kana": "をとこをむなこれかれ、ゆあみなどせむとてあたりのよろしきところにおりてゆく。",
         "koutei-yamagen": "男女これかれ、湯浴みなどせむとて、あたりの良しき所に降りて行く。",
         "translation-ja": "男女の誰彼が、湯に入ろうとして、周囲の良い場所に降りて行く。",
         "translation-en": "Some men and women go down to a good place nearby to bathe.",
+        "phrase-gloss": [
+          {
+            "phrase": "男女これかれ、湯浴みなどせむとて、",
+            "gloss": "men.and.women this.or.that bath.ADV etc do.FUT CONJ",
+            "words": [
+              {
+                "word": "男女",
+                "gloss": "men.and.women"
+              },
+              {
+                "word": "これかれ",
+                "gloss": "this.or.that"
+              },
+              {
+                "word": "、",
+                "gloss": "PUNCT"
+              },
+              {
+                "word": "湯浴み",
+                "gloss": "bath.ADV"
+              },
+              {
+                "word": "など",
+                "gloss": "etc"
+              },
+              {
+                "word": "せむ",
+                "gloss": "do.FUT"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "あたりの良しき所に降りて行く。",
+            "gloss": "surroundings GEN good place LOC descend.CONJ go",
+            "words": [
+              {
+                "word": "あたり",
+                "gloss": "surroundings"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "良しき",
+                "gloss": "good.ATTR"
+              },
+              {
+                "word": "所",
+                "gloss": "place"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "降り",
+                "gloss": "descend.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "行く",
+                "gloss": "go"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "CONJ": "conjunctive particle",
+          "ADV": "adverbial form",
+          "FUT": "future tense",
+          "GEN": "genitive",
+          "QUOT": "quotative particle",
+          "LOC": "locative particle",
+          "ATTR": "attributive form"
+        },
         "translation-ja-natural": "男女はおのおの湯に入ろうとして、周囲の良い場所に降りて行った。",
         "translation-en-natural": "Men and women went down to a suitable spot nearby to bathe."
       },
