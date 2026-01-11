@@ -16675,13 +16675,58 @@
         "translation-en-natural": "So a poem was recited."
       },
       {
-        "date": "20250322",
+        "date": [
+          20250322,
+          20260109
+        ],
         "id": 185,
         "text": "さて十日あまりなれば月おもしろし。",
         "kana": "さてとおかあまりなればつきおもしろし。",
         "koutei-yamagen": "さて十日あまりなれば、月おもしろし。",
         "translation-ja": "さて、一月十日を過ぎたので、月が趣深い。",
         "translation-en": "Now, as the tenth day of the month has passed, the moon is delightful.",
+        "phrase-gloss": [
+          {
+            "phrase": "さて十日あまりなれば、月おもしろし。",
+            "gloss": "now ten.day over COP moon interesting",
+            "words": [
+              {
+                "word": "さて",
+                "gloss": "now"
+              },
+              {
+                "word": "十日",
+                "gloss": "ten.day"
+              },
+              {
+                "word": "あまり",
+                "gloss": "remainder"
+              },
+              {
+                "word": "なれ",
+                "gloss": "COP.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "月",
+                "gloss": "moon"
+              },
+              {
+                "word": "おもしろし",
+                "gloss": "interesting"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "REALIS": "realis form",
+          "COP": "copula",
+          "ATTR": "attributive form",
+          "CONJ": "conjunctive particle"
+        },
         "translation-ja-natural": "さて、一月十日を過ぎたころで、月がとても美しく感じられました。",
         "translation-en-natural": "Now that it's past the tenth day of the month, the moon looked especially beautiful.",
         "notes-ja": {
