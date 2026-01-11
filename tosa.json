@@ -16734,14 +16734,105 @@
         }
       },
       {
-        "date": "20250322",
+        "date": [
+          20250322,
+          20260110
+        ],
         "id": 186,
         "text": "船に乘り始めし日より船には紅こくよききぬ着ず。",
         "kana": "ふねにのりはじめしひよりふねにはくれないこくよききぬきず。",
         "koutei-yamagen": "船に乗り始めし日より、船には紅濃くよききぬ着ず。",
         "translation-ja": "船に乗り始めた日から、船には紅の濃い良い着物を着て出ない。",
         "translation-en": "From the day we boarded the ship, no one wears a deep crimson, fine kimono on the boat.",
-        "translation-ja-natural": "船に乗ってからは、海の上では濃い紅の立派な着物は身につけないことになっていました。",
+        "phrase-gloss": [
+          {
+            "phrase": "船に乗り始めし日より、",
+            "gloss": "ship LOC board.begin.PST day from",
+            "words": [
+              {
+                "word": "船",
+                "gloss": "ship"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "乗り",
+                "gloss": "board.ADV"
+              },
+              {
+                "word": "始め",
+                "gloss": "begin.ADV"
+              },
+              {
+                "word": "し",
+                "gloss": "PST.ATTR"
+              },
+              {
+                "word": "日",
+                "gloss": "day"
+              },
+              {
+                "word": "より",
+                "gloss": "from"
+              }
+            ]
+          },
+          {
+            "phrase": "船には紅濃くよききぬ着ず。",
+            "gloss": "ship LOC EMPH crimson deep good garment wear.NEG",
+            "words": [
+              {
+                "word": "船",
+                "gloss": "ship"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "紅",
+                "gloss": "crimson"
+              },
+              {
+                "word": "濃く",
+                "gloss": "deep.ADV"
+              },
+              {
+                "word": "よき",
+                "gloss": "good.ATTR"
+              },
+              {
+                "word": "きぬ",
+                "gloss": "garment"
+              },
+              {
+                "word": "着",
+                "gloss": "wear.IRR"
+              },
+              {
+                "word": "ず",
+                "gloss": "NEG"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "LOC": "locative particle",
+          "ADV": "adverbial form",
+          "PST": "past tense",
+          "TOP": "topic particle",
+          "IRR": "irrealis form",
+          "EMPH": "emphatic particle",
+          "NEG": "negation particle",
+          "ATTR": "attributive form"
+        },
+        "translation-ja-natural": "船に乗ってからは、海の上では濃い紅の立派な着物は身につけないことになっていた。",
         "translation-en-natural": "Ever since we set sail, no one has worn fine crimson robes on the boat.",
         "notes-ja": {
           "紅こくよき衣の意味": "「紅こくよき衣」は、鮮やかな紅色で上等な衣服を指す。視認性が高く、船上で目立つ装いであることを意味している。",
