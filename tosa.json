@@ -16627,14 +16627,49 @@
         }
       },
       {
-        "date": "20250322",
+        "date": [
+          20250322,
+          20260108
+        ],
         "id": 184,
         "text": "となむ歌よめる。",
         "kana": "となむうたよめる。",
         "koutei-yamagen": "となむ歌詠める。",
         "translation-ja": "となむ歌を詠んだ。",
         "translation-en": "So a poem was recited.",
-        "translation-ja-natural": "と歌を詠んだのでした。",
+        "phrase-gloss": [
+          {
+            "phrase": "となむ歌詠める。",
+            "gloss": "QUOT EMPH poem compose.PERF",
+            "words": [
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "なむ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "歌",
+                "gloss": "poem"
+              },
+              {
+                "word": "詠め",
+                "gloss": "compose.REALIS"
+              },
+              {
+                "word": "る",
+                "gloss": "PERF"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "EMPH": "emphatic particle",
+          "PERF": "perfective aspect"
+        },
+        "translation-ja-natural": "と歌を詠んだ。",
         "translation-en-natural": "So a poem was recited."
       },
       {
