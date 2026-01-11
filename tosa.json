@@ -16666,6 +16666,8 @@
           }
         ],
         "abbreviations": {
+          "QUOT": "quotative particle",
+          "REALIS": "realis form",
           "EMPH": "emphatic particle",
           "PERF": "perfective aspect"
         },
