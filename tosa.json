@@ -16843,13 +16843,179 @@
         }
       },
       {
-        "date": "20250324",
+        "date": [
+          20250324,
+          20260111
+        ],
         "id": 187,
         "text": "それは海の神に怖ぢてといひて、何の蘆蔭にことづけてほやのつまのいずしすしあはびをぞ心にもあらぬはぎにあげて見せける。",
         "kana": "それはうみのかみにおぢてといひて、なにのあしかげにことづけてほやのつまのいずしすしあはびをぞこころにもあらぬはぎにあげてみせける。",
         "koutei-yamagen": "それは海の神に怖ぢてと言ひて、何の葦影にことづけて、ほやのつまのいずしすしあはびを心にもあらぬはぎにあげて見せける。",
         "translation-ja": "それは海の神を恐れてと言って、どの葦の陰にか隠れて、海鼠の妻のいずし・すしあわびを、心にもなくはぎにあげて見せた。",
-        "translation-en": "Saying it was out of fear of the sea god, they hid in some reed’s shadow, and, not even meaning to, raised up the pickled sea cucumber’s wife’s sushi and abalone to their shins and showed it.",
+        "translation-en": "Saying it was out of fear of the sea god, they hid in some reed’s shadow, and, not even meaning to, raised up the pickled sea cucumber's wife's sushi and abalone to their shins and showed it.",
+        "phrase-gloss": [
+          {
+            "phrase": "それは海の神に怖ぢてと言ひて、",
+            "gloss": "that TOP sea GEN god LOC fear.SAY CONJ",
+            "words": [
+              {
+                "word": "それ",
+                "gloss": "that"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "海",
+                "gloss": "sea"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "神",
+                "gloss": "god"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "怖ぢ",
+                "gloss": "fear.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "いひ",
+                "gloss": "say.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "何の葦影にことづけて、",
+            "gloss": "what GEN reed.shadow LOC excuse CONJ",
+            "words": [
+              {
+                "word": "何",
+                "gloss": "what"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "葦影",
+                "gloss": "reed.shadow"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "ことづけ",
+                "gloss": "excuse.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "ほやのつまのいずしすしあはびを心にもあらぬはぎにあげて見せける。",
+            "gloss": "sea.cucumber GEN wife GEN pickled.sushi.sushi.abalone ACC mind also not.shin LOC raise.CONJ show.PST",
+            "words": [
+              {
+                "word": "ほや",
+                "gloss": "sea.cucumber"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "つま",
+                "gloss": "wife"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "いずしすしあはび",
+                "gloss": "pickled.sushi.sushi.abalone"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "心",
+                "gloss": "mind"
+              },
+              {
+                "word": "に",
+                "gloss": "also"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "あらぬ",
+                "gloss": "not"
+              },
+              {
+                "word": "はぎ",
+                "gloss": "shin"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "あげ",
+                "gloss": "raise.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "見せ",
+                "gloss": "show.ADV"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "TOP": "topic particle",
+          "GEN": "genitive",
+          "LOC": "locative particle",
+          "SAY": "saying form",
+          "QUOT": "quotative particle",
+          "CONJ": "conjunctive particle",
+          "ACC": "accusative particle",
+          "ATTR": "attributive form",
+          "PST": "past tense"
+        },
         "translation-ja-natural": "それは、海の神にさらわれるのを恐れてと言い、どこかの葦の陰に隠れて、恥ずかしいとも思わずに、老いた海女のように、身につけたものをまくし上げて見せたのです。",
         "translation-en-natural": "They said it was out of fear of the sea god, and, hiding in some reed’s shade, shamelessly lifted their garments like an old fisherwoman and showed themselves.",
         "notes-ja": [
