@@ -16367,7 +16367,7 @@
       {
         "date": [
           20250321,
-          20260107
+          20260106
         ],
         "id": 181,
         "text": "男女これかれ、ゆあみなどせむとてあたりのよろしき所におりて行く。",
@@ -16466,24 +16466,156 @@
         "translation-en-natural": "Men and women went down to a suitable spot nearby to bathe."
       },
       {
-        "date": "20250321",
+        "date": [
+          20250321,
+          20260106
+        ],
         "id": 182,
         "text": "海を見やれば、",
         "kana": "うみをみやれば、",
         "koutei-yamagen": "海を見やれば、",
-        "translation-ja": "海を見ると、",
+        "translation-ja": "海を見やれば、",
         "translation-en": "When I look at the sea,",
-        "translation-ja-natural": "海を見ると、",
+        "phrase-gloss": [
+          {
+            "phrase": "海を見やれば、",
+            "gloss": "sea ACC look.if",
+            "words": [
+              {
+                "word": "海",
+                "gloss": "sea"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "見",
+                "gloss": "look.ADV"
+              },
+              {
+                "word": "やれ",
+                "gloss": "over.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "CONJ"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "REALIS": "realis form",
+          "ADV": "adverbial form",
+          "ACC": "accusative particle",
+          "CONJ": "conjunctive particle"
+        },
+        "translation-ja-natural": "海を見やれば、",
         "translation-en-natural": "When I look at the sea,"
       },
       {
-        "date": "20250322",
+        "date": [
+          20250322,
+          20260107
+        ],
         "id": 183,
         "poem": "雲もみな/浪とぞ見ゆる/海士もがな/いづれか海と/問ひて知るべく",
         "kana": "くももみな/なみとぞみゆる/あまもがな/いづれかうみと/とひてしるべく",
         "koutei-yamagen": "雲も皆波とぞ見ゆる、海士もがな、いづれか海と問いて知るべく",
         "translation-ja": "雲もみな波と見える。海士がいればなあ。どちらが海かと尋ねて知りたい。",
         "translation-en": "Clouds all look like waves. I wish there were a fisherman...to ask which is the sea.",
+        "phrase-gloss": [
+          {
+            "phrase": "雲も皆波とぞ見ゆる、",
+            "gloss": "clouds also all wave QUOT look.like",
+            "words": [
+              {
+                "word": "雲",
+                "gloss": "clouds"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "皆",
+                "gloss": "all"
+              },
+              {
+                "word": "波",
+                "gloss": "wave"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "ぞ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "見ゆる",
+                "gloss": "look.like.ATTR"
+              }
+            ]
+          },
+          {
+            "phrase": "海女もがな、",
+            "gloss": "fisherman EMPH.WISH",
+            "words": [
+              {
+                "word": "海士",
+                "gloss": "fisherman"
+              },
+              {
+                "word": "もがな",
+                "gloss": "EMPH.WISH"
+              }
+            ]
+          },
+          {
+            "phrase": "いづれか海と問いて知るべく",
+            "gloss": "which.sea QUOT ask.CONJ know.FUT",
+            "words": [
+              {
+                "word": "いづれか",
+                "gloss": "which"
+              },
+              {
+                "word": "海",
+                "gloss": "sea"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "問い",
+                "gloss": "ask.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "知る",
+                "gloss": "know.ATTR"
+              },
+              {
+                "word": "べく",
+                "gloss": "FUT"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "QUOT": "quotative particle",
+          "EMPH": "emphatic particle",
+          "ATTR": "attributive form",
+          "EMPH.WISH": "emphatic wish particle",
+          "CONJ": "conjunctive particle",
+          "FUT": "future tense"
+        },
         "translation-ja-natural": "雲もみな波のように見えるので、どちらが本当の海かを尋ねて知りたくなりました。",
         "translation-en-natural": "Since all the clouds looked like waves, I wanted to ask a fisherman which one was the real sea.",
         "notes-ja": {
