@@ -17026,14 +17026,85 @@
         ]
       },
       {
-        "date": "20250324",
+        "date": [
+          20250324,
+          20260112
+        ],
         "id": 188,
         "text": "十四日、曉より雨降れば同じ所に泊れり。",
         "kana": "とおかあまりよっか、あかつきよりあめふればおなじところにとまれり。",
         "koutei-yamagen": "十四日、暁より雨降れば、同じ所にとまれり。",
         "translation-ja": "十四日、夜明けから雨が降ったので、同じ所に泊まった。",
         "translation-en": "On the fourteenth, rain fell at dawn, so we stayed at the same place.",
-        "translation-ja-natural": "十四日は、夜明けから雨が降り出したので、同じ場所に留まりました。",
+        "phrase-gloss": [
+          {
+            "phrase": "十四日、暁より雨降れば、",
+            "gloss": "fourteenth.day dawn from rain fall.IF",
+            "words": [
+              {
+                "word": "十四日",
+                "gloss": "fourteenth.day"
+              },
+              {
+                "word": "、",
+                "gloss": "PUNCT"
+              },
+              {
+                "word": "暁",
+                "gloss": "dawn"
+              },
+              {
+                "word": "より",
+                "gloss": "from"
+              },
+              {
+                "word": "雨",
+                "gloss": "rain"
+              },
+              {
+                "word": "降れ",
+                "gloss": "fall.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "同じ所にとまれり。",
+            "gloss": "same place LOC stay.PST",
+            "words": [
+              {
+                "word": "同じ",
+                "gloss": "same"
+              },
+              {
+                "word": "所",
+                "gloss": "place"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "とまれ",
+                "gloss": "stay.REALIS"
+              },
+              {
+                "word": "り",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "REALIS": "realis form",
+          "LOC": "locative particle",
+          "CONJ": "conjunctive particle",
+          "PST": "past tense"
+        },
+        "translation-ja-natural": "十四日は、夜明けから雨が降り出したので、同じ所に泊まった。",
         "translation-en-natural": "On the morning of the fourteenth, it started raining at dawn, so we stayed where we were."
       },
       {
