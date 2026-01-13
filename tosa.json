@@ -17108,14 +17108,44 @@
         "translation-en-natural": "On the morning of the fourteenth, it started raining at dawn, so we stayed where we were."
       },
       {
-        "date": "20250324",
+        "date": [
+          20250324,
+          20260113
+        ],
         "id": 189,
         "text": "船君せちみす。",
         "kana": "ふねぎみせちみす。",
         "koutei-yamagen": "船君せちみす。",
         "translation-ja": "船君が節忌をする。",
         "translation-en": "The ship's master is performing a ritual.",
-        "translation-ja-natural": "船の主人が節忌を行いました。",
+        "phrase-gloss": [
+          {
+            "phrase": "船君、節忌す。",
+            "gloss": "ship.master purification.rite do",
+            "words": [
+              {
+                "word": "船君",
+                "gloss": "ship.master"
+              },
+              {
+                "word": "、",
+                "gloss": "PUNCT"
+              },
+              {
+                "word": "節忌",
+                "gloss": "purification.rite"
+              },
+              {
+                "word": "す",
+                "gloss": "do"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "IRR": "irrealis form"
+        },
+        "translation-ja-natural": "船の主人が節忌をする。",
         "translation-en-natural": "The ship's master performed a purification rite.",
         "notes-ja": {
           "節忌の意味": "「節忌」は、節分や彼岸などの節目に行う儀式や供養のことを指す。船君が節忌をするとは、船旅の途中で特別な儀式を行うことを意味している。"
