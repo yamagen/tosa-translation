@@ -17128,10 +17128,6 @@
                 "gloss": "ship.master"
               },
               {
-                "word": "、",
-                "gloss": "PUNCT"
-              },
-              {
                 "word": "節忌",
                 "gloss": "purification.rite"
               },
@@ -17155,14 +17151,156 @@
         }
       },
       {
-        "date": "20250325",
+        "date": [
+          20250325,
+          20260115
+        ],
         "id": 190,
         "text": "さうじものなければ午の時より後に楫取の昨日釣りたりし鯛に、錢なければよねをとりかけておちられぬ。",
         "kana": "さうじものなければうまのときよりのちにかぢとりのきのふつりたりしたひに、ぜになければ、よねをとりかけて、おちられぬ。",
         "koutei-yamagen": "精進物なければ、午の時より後に楫取の昨日釣りたりし鯛に、錢なければ、米をとりかけて、落ちられぬ。",
         "translation-ja": "精進物がないので、正午以降に楫取りが昨日釣った鯛に、銭がないので、米を代価にして、落しができた。",
         "translation-en": "Since there were no side dishes, after noon, the oarsman used the sea bream he had caught the day before. As there was no money, rice was given as payment, and they were able to break the abstinence.",
-        "translation-ja-natural": "精進物がなかったので、昼を過ぎてから、楫取りが昨日釣った鯛を米と引き換えに、精進落しとすることができました。",
+        "phrase-gloss": [
+          {
+            "phrase": "精進物なければ、午の時より後に",
+            "gloss": "side.dish NEG.IF noon GEN time from after LOC",
+            "words": [
+              {
+                "word": "精進物",
+                "gloss": "Buddhist.vegetarian.dishes"
+              },
+              {
+                "word": "なけれ",
+                "gloss": "NEG.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "午",
+                "gloss": "noon"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "時",
+                "gloss": "time"
+              },
+              {
+                "word": "より",
+                "gloss": "from"
+              },
+              {
+                "word": "後",
+                "gloss": "after"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              }
+            ]
+          },
+          {
+            "phrase": "楫取の昨日釣りたりし鯛に、",
+            "gloss": "oarsman GEN yesterday catch PERF PST ATTR sea.bream LOC",
+            "words": [
+              {
+                "word": "楫取",
+                "gloss": "oarsman"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "昨日",
+                "gloss": "yesterday"
+              },
+              {
+                "word": "釣り",
+                "gloss": "catch.ADV"
+              },
+              {
+                "word": "たり",
+                "gloss": "PERF.ATTR"
+              },
+              {
+                "word": "し",
+                "gloss": "PST"
+              },
+              {
+                "word": "鯛",
+                "gloss": "sea.bream"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              }
+            ]
+          },
+          {
+            "phrase": "銭なければ、米をとりかけて、落ちられぬ。",
+            "gloss": "money NEG because rice ACC exchange CONJ break POT PERF",
+            "words": [
+              {
+                "word": "錢",
+                "gloss": "money"
+              },
+              {
+                "word": "なけれ",
+                "gloss": "NEG.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "よね",
+                "gloss": "rice"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "とりかけ",
+                "gloss": "exchange.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "おち",
+                "gloss": "break..ADV"
+              },
+              {
+                "word": "られ",
+                "gloss": "POT.ADV"
+              },
+              {
+                "word": "ぬ",
+                "gloss": "PERF"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "NEG": "negation particle",
+          "REALIS": "realis form",
+          "CONJ": "conjunctive particle",
+          "GEN": "genitive",
+          "LOC": "locative particle",
+          "PERF": "perfective aspect",
+          "ATTR": "attributive form",
+          "ACC": "accusative particle",
+          "POT": "potential form"
+        },
+        "translation-ja-natural": "精進物がなかったので、昼を過ぎてから、楫取りが昨日釣った鯛を米と引き換えに、精進落しとすることができた。",
         "translation-en-natural": "Since there were no side dishes, after midday, they were able to break their fast with a sea bream the oarsman had caught the day before, exchanging it for rice.",
         "notes-ja": {
           "オリジナルの校訂": "さうじものなければ午の時より後に※(「楫＋戈」、第3水準1-86-21)取の昨日釣りたりし鯛に、錢なければよねをとりかけておちられぬ。",
