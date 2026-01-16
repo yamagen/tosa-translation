@@ -17313,14 +17313,52 @@
         }
       },
       {
-        "date": "20250325",
+        "date": [
+          20250325,
+          20260116
+        ],
         "id": 191,
         "text": "かゝる事なほありぬ。",
         "kana": "かかることなほありぬ。",
         "koutei-yamagen": "かかること、なおありぬ。",
         "translation-ja": "このようなことが、まだあった。",
         "translation-en": "There were still things like this.",
-        "translation-ja-natural": "まだまだこんなことが続きます。",
+        "phrase-gloss": [
+          {
+            "phrase": "かかること、なおありぬ。",
+            "gloss": "such.thing still exist.PERF",
+            "words": [
+              {
+                "word": "かかる",
+                "gloss": "such"
+              },
+              {
+                "word": "こと",
+                "gloss": "thing"
+              },
+              {
+                "word": "、",
+                "gloss": "PUNCT"
+              },
+              {
+                "word": "なお",
+                "gloss": "still"
+              },
+              {
+                "word": "あり",
+                "gloss": "exist.ADV"
+              },
+              {
+                "word": "ぬ",
+                "gloss": "PERF"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "PERF": "perfective aspect"
+        },
+        "translation-ja-natural": "こんなことがまだ続いた。",
         "translation-en-natural": "There are still things like this."
       },
       {
