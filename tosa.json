@@ -17362,29 +17362,106 @@
         "translation-en-natural": "There are still things like this."
       },
       {
-        "date": "20250325",
+        "date": [
+          20250325,
+          20260117
+        ],
         "id": 192,
         "text": "楫取又鯛もてきたり。",
         "kana": "かぢとりまたたいもてきたり。",
         "koutei-yamagen": "楫取又鯛もてきたり。",
         "translation-ja": "楫取りがまた鯛を持ってきた。",
         "translation-en": "The oarsman brought a sea bream again.",
-        "translation-ja-natural": "楫取りが再び鯛を持ってきました。",
+        "phrase-gloss": [
+          {
+            "phrase": "楫取、また鯛持って来たり。",
+            "gloss": "oarsman again sea.bream hold.and come.PST",
+            "words": [
+              {
+                "word": "楫取",
+                "gloss": "oarsman"
+              },
+              {
+                "word": "、",
+                "gloss": "PUNCT"
+              },
+              {
+                "word": "また",
+                "gloss": "again"
+              },
+              {
+                "word": "鯛",
+                "gloss": "sea.bream"
+              },
+              {
+                "word": "持っ",
+                "gloss": "hold.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "来",
+                "gloss": "come.ADV"
+              },
+              {
+                "word": "たり",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "IRR": "irrealis form",
+          "PST": "past tense"
+        },
+        "translation-ja-natural": "楫取りが再び鯛を持ってきた。",
         "translation-en-natural": "The oarsman brought a sea bream again.",
         "notes-ja": {
           "オリジナルの校訂": "※(「楫＋戈」、第3水準1-86-21)取又鯛もてきたり。"
         }
       },
       {
-        "date": "20250325",
+        "date": [
+          20250325,
+          20260118
+        ],
         "id": 193,
         "text": "よね酒しばしばくる。",
         "kana": "よねさけしばしばくる。",
         "koutei-yamagen": "米酒、しばしばくる。",
         "translation-ja": "よねさけ、しばしばあたえる。",
         "translation-en": "We frequently gave him rice and sake.",
-        "translation-ja-natural": "そのうち、米酒、しょっちゅうあたえた。",
-        "translation-en-natural": "Before long, we often gave the oarsman rice and sake."
+        "phrase-gloss": [
+          {
+            "phrase": "米酒、しばしばくる。",
+            "gloss": "rice.sake frequently come",
+            "words": [
+              {
+                "word": "米酒",
+                "gloss": "rice.sake"
+              },
+              {
+                "word": "、",
+                "gloss": "PUNCT"
+              },
+              {
+                "word": "しばしば",
+                "gloss": "frequently"
+              },
+              {
+                "word": "くる",
+                "gloss": "give"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ADV": "adverbial form"
+        },
+        "translation-ja-natural": "米酒、しばしばあたえる。",
+        "translation-en-natural": "We often give the oarsman rice and sake."
       },
       {
         "date": "20250325",
