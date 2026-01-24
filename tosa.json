@@ -17598,18 +17598,112 @@
         "translation-en-natural": "On the fifteenth, we did not cook red bean porridge today."
       },
       {
-        "date": "20250326",
+        "date": [
+          20250326,
+          20260121
+        ],
         "id": 196,
         "text": "口をしくなほ日のあしければゐざるほどにぞ今日廿日あまり經ぬる。",
         "kana": "くちをしくなほひのあしければゐざるほどにぞけふはつかあまりへぬる。",
-        "koutei-yamagen": "口をしくなほ日の足ければ、居ざるほどに、今日廿日あまり経ぬる。",
-        "translation-ja": "残念で、さらに天気が悪いので、のろのろ進行で、今日で二十日以上が過ぎた。",
-        "translation-en": "Regretful, and additionally the weather is bad, so with sluggish progress, today more than twenty days have passed.",
-        "translation-ja-natural": "天気は相変わらず悪いし、進みも遅いし、なんだかんだでもう二十日以上たってしまいました。",
+        "koutei-yamagen": "口をしくなほ日のあしければ、ゐざるほどに、今日廿日あまり経ぬる。",
+        "translation-ja": "口惜しく、なおも天候が悪いので、膝を擦って進むほどに、今日、二十日以上経ってしまった。",
+        "translation-en": "It's regrettable, but since the weather is still bad, as we slowly make our way, today marks more than twenty days since we set out.",
+        "phrase-gloss": [
+          {
+            "phrase": "口をしくなほ日のあしければ、",
+            "gloss": "regret.ADV still day GEN bad.IF",
+            "words": [
+              {
+                "word": "口をしく",
+                "gloss": "regret.ADV"
+              },
+              {
+                "word": "なほ",
+                "gloss": "still"
+              },
+              {
+                "word": "日",
+                "gloss": "day"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "あしけれ",
+                "gloss": "bad.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "ゐざるほどにぞ、今日廿日あまり経ぬる。",
+            "gloss": "move.little extent CONJ today twenty.day more than exist.PERF",
+            "words": [
+              {
+                "word": "ゐざる",
+                "gloss": "move.little"
+              },
+              {
+                "word": "ほど",
+                "gloss": "extent"
+              },
+              {
+                "word": "に",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "ぞ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "今日",
+                "gloss": "today"
+              },
+              {
+                "word": "廿日",
+                "gloss": "twenty.day"
+              },
+              {
+                "word": "あまり",
+                "gloss": "more than"
+              },
+              {
+                "word": "経",
+                "gloss": "exist.ADV"
+              },
+              {
+                "word": "ぬる",
+                "gloss": "PERF.ATTR"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ADV": "adverbial form",
+          "GEN": "genitive",
+          "REALIS": "realis form",
+          "CONJ": "conjunctive particle",
+          "EMPH": "emphatic particle",
+          "PERF": "perfective aspect"
+        },
+        "translation-ja-natural": "天気は相変わらず悪いし、進みも遅いし、なんだかんだでもう二十日以上たってしまった。",
         "translation-en-natural": "The weather's still bad, the progress is slow, and somehow it's already been more than twenty days.",
-        "notes-ja": {
-          "「居ざるほどに」": "「居ざる」は、動作動詞「ゐざる」（座ったまま少しずつ進む）を用いた表現であり、この文では旅の進行が極めて遅い様子を表している。「不在」ではなく、進まない旅路を身体的な動きにたとえている用法である。"
-        }
+        "notes-ja": [
+          {
+            "title": "「居ざるほどに」",
+            "note": "「居ざる」は、動作動詞「ゐざる」（座ったまま少しずつ進む）を用いた表現であり、この文では旅の進行が極めて遅い様子を表している。「不在」ではなく、進まない旅路を身体的な動きにたとえている用法である。"
+          }
+        ],
+        "notes-en": [
+          {
+            "title": "'居ざるほどに'",
+            "note": "'居ざる' uses the verb 'ゐざる' (to sit and move little by little) to express the extremely slow progress of the journey. It is not about 'absence,' but rather a metaphor for the lack of movement in the journey using physical motion."
+          }
+        ]
       },
       {
         "date": "20250326",
