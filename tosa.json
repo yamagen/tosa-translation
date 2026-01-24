@@ -17464,36 +17464,137 @@
         "translation-en-natural": "We often give the oarsman rice and sake."
       },
       {
-        "date": "20250325",
+        "date": [
+          20250325,
+          20260119
+        ],
         "id": 194,
         "text": "楫取けしきあしからず。",
         "kana": "かぢとりけしきあしからず。",
         "koutei-yamagen": "楫取、けしきあしからず。",
-        "translation-ja": "楫取は、様子が悪くない。",
+        "translation-ja": "楫取は、機嫌、悪くない。",
         "translation-en": "The oarsman's demeanor is not bad.",
-        "translation-ja-natural": "楫取りは、どことなく機嫌がよさそうでした。",
-        "translation-en-natural": "The oarsman seemed to be in unusually good spirits.",
-        "notes-ja": {
-          "楫取の様子": "『楫取』は船を漕ぐ人を指し、ここでは舵取りの様子を表している。『けしき』は『様子』『機嫌』を意味し、『あしからず』は『悪くない』『気色が悪くない』という意味である。",
-          "楫取の機嫌の良さ": "この一文は、楫取りが機嫌が良いことを示しており、前文の『米酒』の頻繁な訪問に対して、楫取りが好意的に応じていることを示唆している。",
-          "語順と主語の解釈": "この文の主語は『よねさけ（米・酒）』ではなく、むしろ『それを目当てに来る人物』であると解釈される。頻繁にやってくる様子から、『米酒さん』のような仇名的な呼び方と見るのが自然であり、貫之の皮肉交じりの観察眼がうかがえる。",
-          "動詞『くる』の意味": "ここでの『くる』は物がやって来るのではなく、人が話し手のもとに『やって来る』ことを意味する。動作主体が明示されていなくても、文脈から『楫取』が主語と推定される。",
-          "菊地訳の問題点": "菊地は『くれてやる』と訳しているが、これは動詞の取り違えであるばかりでなく、現代語では強い蔑視のニュアンスを持つため不適切である。原文にそのような敵意はなく、語り手の呆れや皮肉が含まれているにすぎない。",
-          "語用論的誤解": "現代語の『くれてやる』は、拒絶や見下しの含みが強く、日常的な贈与表現としては用いられない。土佐日記の語り手の語り口から逸脱する語調であり、文体・時代背景・人間関係を踏まえても妥当ではない。",
-          "文体の含み": "この一文には、何度も物をもらいに来る舵取りに対するやや呆れたまなざしと、旅の生活の現実味がにじみ出ている。敵意ではなく、日常の一場面としての滑稽さがユーモラスに表現されていると見るべきである。",
-          "人物像の補足": "『米酒さん』とあだ名されていることを楫取り自身が承知していた可能性は高く、それでも悪びれることなく、むしろ笑顔で鯛を持って現れる姿から、人柄のよさや憎めなさがうかがえる。貫之の筆致も、単なる皮肉ではなく、そんな人物への好意的なまなざしを含んでいる。",
-          "オリジナルの校訂": "※(「楫＋戈」、第3水準1-86-21)取けしきあしからず。"
-        }
+        "translation-ja-natural": "楫取りは、機嫌は悪くはない。",
+        "translation-en-natural": "The oarsman doesn't seem to be in a bad mood.",
+        "notes-ja": [
+          {
+            "title": "楫取の様子",
+            "note": "『楫取』は船を漕ぐ人を指し、ここでは舵取りの様子を表している。『けしき』は『様子』『機嫌』を意味し、『あしからず』は『悪くない』『気色が悪くない』という意味である。"
+          },
+          {
+            "title": "楫取の機嫌の良さ",
+            "note": "この一文は、楫取りが機嫌が良いことを示しており、前文の『米酒』の頻繁な訪問に対して、楫取りが好意的に応じていることを示唆している。"
+          },
+          {
+            "title": "語順と主語の解釈",
+            "note": "この文の主語は『よねさけ（米・酒）』ではなく、むしろ『それを目当てに来る人物』であると解釈される。頻繁にやってくる様子から、『米酒さん』のような仇名的な呼び方と見るのが自然であり、貫之の皮肉交じりの観察眼がうかがえる。"
+          },
+          {
+            "title": "動詞『くる』の意味",
+            "": "ここでの『くる』は物がやって来るのではなく、人が話し手のもとに『やって来る』ことを意味する。動作主体が明示されていなくても、文脈から『楫取』が主語と推定される。"
+          },
+          {
+            "title": "菊地訳の問題点",
+            "note": "菊地は『くれてやる』と訳しているが、これは動詞の取り違えであるばかりでなく、現代語では強い蔑視のニュアンスを持つため不適切である。原文にそのような敵意はなく、語り手の呆れや皮肉が含まれているにすぎない。"
+          },
+          {
+            "title": "語用論的誤解",
+            "note": "現代語の『くれてやる』は、拒絶や見下しの含みが強く、日常的な贈与表現としては用いられない。土佐日記の語り手の語り口から逸脱する語調であり、文体・時代背景・人間関係を踏まえても妥当ではない。"
+          },
+          {
+            "title": "文体の含み",
+            "note": "この一文には、何度も物をもらいに来る舵取りに対するやや呆れたまなざしと、旅の生活の現実味がにじみ出ている。敵意ではなく、日常の一場面としての滑稽さがユーモラスに表現されていると見るべきである。"
+          }
+        ],
+        "notes-en": [
+          {
+            "title": "Oarsman's Demeanor",
+            "note": "'Oarsman' refers to the person rowing the boat, and here it describes the demeanor of the helmsman. 'けしき' means 'appearance' or 'mood,' and 'あしからず' means 'not bad' or 'not unpleasant.'"
+          },
+          {
+            "title": "Oarsman's Good Mood",
+            "note": "This sentence indicates that the oarsman is in a good mood, suggesting that he is responding favorably to the frequent visits mentioned in the previous sentence about 'rice and sake.'"
+          },
+          {
+            "title": "Interpretation of Word Order and Subject",
+            "note": "The subject of this sentence is not 'rice and sake,' but rather 'the person who comes for them.' Given the context of frequent visits, it is natural to interpret it as a nickname like 'Rice and Sake-san,' reflecting Kanenori's somewhat sarcastic observational tone."
+          },
+          {
+            "title": "Meaning of the Verb 'くる'",
+            "note": "Here, 'くる' does not mean that things are coming, but rather that a person is 'coming' to the speaker. Although the subject of the action is not explicitly stated, it is inferred from the context that 'the oarsman' is the subject."
+          },
+          {
+            "title": "Problems with Kikuchi's Translation",
+            "note": "Kikuchi translates it as 'give him,' which is not only a misinterpretation of the verb but also inappropriate due to its strong connotation of disdain in modern language. The original text does not convey such hostility; it merely contains the narrator's exasperation or sarcasm."
+          },
+          {
+            "title": "Pragmatic Misunderstanding",
+            "note": "In modern language, 'give him' carries strong implications of rejection or condescension and is not used as a casual expression of giving. It deviates from the narrator's tone in the Tosa Diary and is inappropriate when considering the literary style, historical context, and interpersonal relationships."
+          },
+          {
+            "title": "Nuance of Literary Style",
+            "note": "This sentence conveys a somewhat exasperated gaze at the oarsman who repeatedly comes to ask for things, reflecting the reality of travel life. It should be seen as humorously expressing the comedic aspect of everyday scenes rather than hostility."
+          }
+        ]
       },
       {
-        "date": "20250326",
+        "date": [
+          20250326,
+          20260120
+        ],
         "id": 195,
         "text": "十五日、今日小豆粥煮ず。",
         "kana": "とほかあまりいつか、けふあづきがゆにず。",
         "koutei-yamagen": "十五日、今日、小豆粥煮ず。",
         "translation-ja": "十五日、今日は小豆粥を煮ない。",
         "translation-en": "On the fifteenth, today we did not cook red bean porridge.",
-        "translation-ja-natural": "十五日、今日は小豆粥を煮ませんでした。",
+        "phrase-gloss": [
+          {
+            "phrase": "十五日、今日、",
+            "gloss": "fifteenth.day today",
+            "words": [
+              {
+                "word": "十五日",
+                "gloss": "fifteenth.day"
+              },
+              {
+                "word": "、",
+                "gloss": "PUNCT"
+              },
+              {
+                "word": "今日",
+                "gloss": "today"
+              },
+              {
+                "word": "、",
+                "gloss": "PUNCT"
+              }
+            ]
+          },
+          {
+            "phrase": "小豆粥煮ず。",
+            "gloss": "red.bean.porridge cook.NEG",
+            "words": [
+              {
+                "word": "小豆粥",
+                "gloss": "red.bean.porridge"
+              },
+              {
+                "word": "煮",
+                "gloss": "cook.IRR"
+              },
+              {
+                "word": "ず",
+                "gloss": "NEG"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "NEG": "negation particle",
+          "IRR": "irrealis form"
+        },
+        "translation-ja-natural": "十五日、今日、小豆粥は煮ない。",
         "translation-en-natural": "On the fifteenth, we did not cook red bean porridge today."
       },
       {
