@@ -17970,14 +17970,84 @@
         }
       },
       {
-        "date": "20250327",
+        "date": [
+          20250327,
+          20260125
+        ],
         "id": 200,
         "text": "いふかひなきものゝいへるにはいと似つかはし。",
         "kana": "いふかひなきもののいへるにはいとにつかはし。",
         "koutei-yamagen": "言ふかひなき者の言へるには、いと似つかはし。",
         "translation-ja": "幼い子どもが言ったこととしては、実に似つかわしい。",
         "translation-en": "That which was said by a small child is, indeed, fitting.",
-        "translation-ja-natural": "幼い子が言ったことばとしては、とてもふさわしいものでした。",
+        "phrase-gloss": [
+          {
+            "phrase": "言ふかひなき者の言へるには、",
+            "gloss": "say worth nothing person GEN say PERF DAT TOP",
+            "words": [
+              {
+                "word": "言う",
+                "gloss": "say.ATTR"
+              },
+              {
+                "word": "かひ",
+                "gloss": "worth"
+              },
+              {
+                "word": "なき",
+                "gloss": "nothing.ATTR"
+              },
+              {
+                "word": "者",
+                "gloss": "person"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "言え",
+                "gloss": "say.REALIS"
+              },
+              {
+                "word": "る",
+                "gloss": "PERF.ATTR"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              }
+            ]
+          },
+          {
+            "phrase": "いと似つかはし。",
+            "gloss": "very befitting",
+            "words": [
+              {
+                "word": "いと",
+                "gloss": "very"
+              },
+              {
+                "word": "似つかはし",
+                "gloss": "befitting"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "GEN": "genitive",
+          "PERF": "perfective aspect",
+          "REALIS": "realis form",
+          "ATTR": "attributive form",
+          "QUOT": "quotative particle",
+          "DAT": "dative particle",
+          "TOP": "topic particle"
+        },
+        "translation-ja-natural": "幼い子が言ったことばとしては、実に似つかわしい。",
         "translation-en-natural": "What the child said was very fitting for a child."
       },
       {
