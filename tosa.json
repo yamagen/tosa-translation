@@ -17706,35 +17706,263 @@
         ]
       },
       {
-        "date": "20250326",
+        "date": [
+          20250326,
+          20260122
+        ],
         "id": 197,
         "text": "徒に日をふれば人々海をながめつゝぞある。",
         "kana": "いたづらにひをふればひとびとうみをながめつつぞある。",
         "koutei-yamagen": "いたづらに日を経れば、人々海を眺めつつぞある。",
-        "translation-ja": "無為に日を過ごしていると、人々はただ海を眺めている。",
+        "translation-ja": "無為に日を経るので、人々はただ海を眺めつついる。",
         "translation-en": "Passing the days idly, people are simply gazing at the sea.",
-        "translation-ja-natural": "何をするでもなく日々が過ぎ、人々はただ海を眺めて過ごしているだけでした。",
+        "phrase-gloss": [
+          {
+            "phrase": "いたづらに日を経れば、",
+            "gloss": "idly day ACC pass.IF",
+            "words": [
+              {
+                "word": "いたづらに",
+                "gloss": "idly"
+              },
+              {
+                "word": "日",
+                "gloss": "day"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "経れ",
+                "gloss": "pass.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "人々、海を眺めつつぞある。",
+            "gloss": "people sea ACC gaze.ADV EMPH exist",
+            "words": [
+              {
+                "word": "人々",
+                "gloss": "people"
+              },
+              {
+                "word": "、",
+                "gloss": "PUNCT"
+              },
+              {
+                "word": "海",
+                "gloss": "sea"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "眺め",
+                "gloss": "gaze.ADV"
+              },
+              {
+                "word": "つつ",
+                "gloss": "while.CONJ"
+              },
+              {
+                "word": "ぞ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "ある",
+                "gloss": "exist"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ACC": "accusative particle",
+          "CONJ": "conjunctive particle",
+          "REALIS": "realis form",
+          "ADV": "adverbial form",
+          "EMPH": "emphatic particle"
+        },
+        "translation-ja-natural": "何をするでもなく日々が過ぎ、人々はただ海を眺めているだけだった。",
         "translation-en-natural": "The days passed with nothing in particular to do, and people spent their time just gazing out at the sea."
       },
       {
-        "date": "20250326",
+        "date": [
+          20250326,
+          20260123
+        ],
         "id": 198,
         "text": "めの童のいへる、",
         "kana": "めのわらはのいへる、",
         "koutei-yamagen": "女の童の言へる、",
         "translation-ja": "女の子が言った。",
         "translation-en": "One little girl said,...",
-        "translation-ja-natural": "小さな女の子がこう言いました。",
+        "phrase-gloss": [
+          {
+            "phrase": "女の童の言へる、",
+            "gloss": "girl GEN child GEN say.PST",
+            "words": [
+              {
+                "word": "女",
+                "gloss": "girl"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "童",
+                "gloss": "child"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "言え",
+                "gloss": "say.REALIS"
+              },
+              {
+                "word": "る",
+                "gloss": "PERF.ATTR"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "GEN": "genitive",
+          "PERF": "perfective aspect"
+        },
+        "translation-ja-natural": "女の子がこう言った。",
         "translation-en-natural": "One little girl said,..."
       },
       {
-        "date": "20250326",
+        "date": [
+          20250326,
+          20260124
+        ],
         "id": 199,
         "poem": "立てばたつ/ゐれば又ゐる/吹く風と/浪とは思ふ/どちにやあるらむ",
         "kana": "たてばたつ/ゐればまたゐる/ふくかぜと/なみとはおもふ/どちにやあるらむ",
         "koutei-yamagen": "立てば立つ、いればまた立つ、吹く風と浪とは思うどちにやあるらむ。",
         "translation-ja": "立てば立つ、ゐればまたゐる、吹く風と波のことを思う。仲間なのだろうか。",
         "translation-en": "If one stands, the other stands; if one sits, the other sits. Thinking of the blowing wind and the waves, I wonder...are they companions?",
+        "phrase-gloss": [
+          {
+            "phrase": "立てば立つ、いればまた立つ、",
+            "gloss": "stand CONJ stand.PST sit CONJ again stand",
+            "words": [
+              {
+                "word": "立て",
+                "gloss": "stand.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "立つ",
+                "gloss": "stand"
+              },
+              {
+                "word": "、",
+                "gloss": "PUNCT"
+              },
+              {
+                "word": "いれ",
+                "gloss": "sit.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "また",
+                "gloss": "again"
+              },
+              {
+                "word": "立つ",
+                "gloss": "stand"
+              },
+              {
+                "word": "、",
+                "gloss": "PUNCT"
+              }
+            ]
+          },
+          {
+            "phrase": "吹く風と波とは思うどちにやあるらむ。",
+            "gloss": "blow wind and wave QUOT TOP think companion LOC Q CONJ be FUT",
+            "words": [
+              {
+                "word": "吹く",
+                "gloss": "blow.ATTR"
+              },
+              {
+                "word": "風",
+                "gloss": "wind"
+              },
+              {
+                "word": "と",
+                "gloss": "and"
+              },
+              {
+                "word": "波",
+                "gloss": "wave"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "思う",
+                "gloss": "think.ATTR"
+              },
+              {
+                "word": "どち",
+                "gloss": "companion"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "や",
+                "gloss": "Q"
+              },
+              {
+                "word": "ある",
+                "gloss": "be.ATTR"
+              },
+              {
+                "word": "らむ",
+                "gloss": "FUT"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "PST": "past tense",
+          "CONJ": "conjunctive particle",
+          "ADV": "adverbial form",
+          "Q": "question particle",
+          "TOP": "topic particle",
+          "ATTR": "attributive form",
+          "LOC": "locative particle",
+          "QUOT": "quotative particle",
+          "REALIS": "realis form",
+          "FUT": "future tense"
+        },
         "translation-ja-natural": "風が立てば波も立ち、風がおさまれば波も静かになる。まるで親しい友だちみたいだ。",
         "translation-en-natural": "When the wind rises, the waves rise too. When the wind calms, so do the waves. Aren’t they just like close friends?",
         "notes-ja": {
