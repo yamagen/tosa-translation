@@ -18051,7 +18051,10 @@
         "translation-en-natural": "What the child said was very fitting for a child."
       },
       {
-        "date": "20250327",
+        "date": [
+          20250327,
+          20260126
+        ],
         "id": 201,
         "text": "十六日、風浪やまねば猶同じ所にとまれり。",
         "kana": "とおかあまりむいか、かぜなみやまねばなほおなじところにとまれり。",
@@ -18062,15 +18065,118 @@
         "translation-en-natural": "On the sixteenth, since the wind and waves hadn't calmed down, we remained at the same place."
       },
       {
-        "date": "20250327",
+        "date": [
+          20250327,
+          20260127
+        ],
         "id": 202,
         "text": "たゞ海に浪なくしていつしかみさきといふ所渡らむとのみなむおもふ。",
         "kana": "ただうみになみなくしていつしかみさきといふところわたらむとのみなむおもふ。",
         "koutei-yamagen": "ただ、海に浪なくして、いつしか岬という所渡らむとのみなむ思ふ。",
-        "translation-ja": "ただ、海に波がなくなり、いつになったら岬という所を渡るのだろうとばかり思う。",
-        "translation-en": "Simply, the waves not having calmed down on the sea, we thought only about when we might cross the place called Misaki.",
-        "translation-ja-natural": "ただただ、海が穏やかになって、いつになったら岬という場所を渡れるのか、そればかりが気にかかっていた。",
-        "translation-en-natural": "All we could think about was when the sea would calm down enough to cross Misaki, the cape.",
+        "translation-ja": "ただ、海に波なくして、いつしか岬という所を渡るのだろうとのみ思う。",
+        "translation-en": "Simply, we only thought about when the sea would be calm enough to cross the place called Misaki.",
+        "phrase-gloss": [
+          {
+            "phrase": "ただ、海に波なくして、",
+            "gloss": "simply sea LOC wave without.CONJ",
+            "words": [
+              {
+                "word": "ただ",
+                "gloss": "simply"
+              },
+              {
+                "word": "、",
+                "gloss": "PUNCT"
+              },
+              {
+                "word": "海",
+                "gloss": "sea"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "波",
+                "gloss": "wave"
+              },
+              {
+                "word": "なく",
+                "gloss": "no.exist.ADV"
+              },
+              {
+                "word": "し",
+                "gloss": "do.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "いつしか岬という所渡らむとのみなむ思う。",
+            "gloss": "someday Misaki called place cross.FUT QUOT EMPH EMPH think",
+            "words": [
+              {
+                "word": "いつしか",
+                "gloss": "someday"
+              },
+              {
+                "word": "岬",
+                "gloss": "Misaki"
+              },
+              {
+                "word": "と",
+                "gloss": "called"
+              },
+              {
+                "word": "いう",
+                "gloss": "say.ATTR"
+              },
+              {
+                "word": "所",
+                "gloss": "place"
+              },
+              {
+                "word": "渡ら",
+                "gloss": "cross.IRR"
+              },
+              {
+                "word": "む",
+                "gloss": "FUT"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "のみ",
+                "gloss": "only"
+              },
+              {
+                "word": "なむ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "思う",
+                "gloss": "think"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "LOC": "locative particle",
+          "IRR": "irrealis form",
+          "CONJ": "conjunctive particle",
+          "ADV": "adverbial form",
+          "FUT": "future tense",
+          "QUOT": "quotative particle",
+          "EMPH": "emphatic particle",
+          "ATTR": "attributive form"
+        },
+        "translation-ja-natural": "ただ、海が穏やかになって、いつになったら岬という所を渡るのだろうかと、そればかり思っていた。",
+        "translation-en-natural": "We simply kept thinking about when the sea would calm down enough for us to cross the place called Misaki.",
         "notes-ja": {
           "「みさき」": "「みさき」は具体的には「室戸岬」のことで、菊地の注釈によると「ここを回ればもう土佐は見えない」とのこと。"
         },
