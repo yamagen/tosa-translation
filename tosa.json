@@ -17784,8 +17784,8 @@
         ],
         "abbreviations": {
           "ACC": "accusative particle",
-          "CONJ": "conjunctive particle",
           "REALIS": "realis form",
+          "CONJ": "conjunctive particle",
           "ADV": "adverbial form",
           "EMPH": "emphatic particle"
         },
