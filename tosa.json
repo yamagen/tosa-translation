@@ -18185,15 +18185,65 @@
         }
       },
       {
-        "date": "20250327",
+        "date": [
+          20250327,
+          20260128
+        ],
         "id": 203,
         "text": "風浪ともにやむべくもあらず。",
         "kana": "かぜなみともにやむべくもあらず。",
         "koutei-yamagen": "風浪ともにやむべくもあらず。",
-        "translation-ja": "風も波もともに止みそうもない。",
+        "translation-ja": "風波ともに止みそうもない。",
         "translation-en": "The wind and waves are not likely to die down.",
-        "translation-ja-natural": "風も波も止みそうもありません。",
-        "translation-en-natural": "The wind and waves show no sign of letting up."
+        "phrase-gloss": [
+          {
+            "phrase": "風波、とににやむべくもあらず。",
+            "gloss": "wind.wave together EMPH stop.ADV also NEG",
+            "words": [
+              {
+                "word": "風波",
+                "gloss": "wind.wave"
+              },
+              {
+                "word": "、",
+                "gloss": "PUNCT"
+              },
+              {
+                "word": "ともに",
+                "gloss": "together"
+              },
+              {
+                "word": "やむ",
+                "gloss": "stop.ATTR"
+              },
+              {
+                "word": "べく",
+                "gloss": "POT.ADV"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "あら",
+                "gloss": "be.IRR"
+              },
+              {
+                "word": "ず",
+                "gloss": "NEG"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "POT": "potential form",
+          "IRR": "irrealis form",
+          "ADV": "adverbial form",
+          "EMPH": "emphatic particle",
+          "NEG": "negation"
+        },
+        "translation-ja-natural": "風波もともに止みそうもない。",
+        "translation-en-natural": "Both the wind and waves show no sign of letting up."
       },
       {
         "date": "20250328",
