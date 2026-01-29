@@ -18246,13 +18246,80 @@
         "translation-en-natural": "Both the wind and waves show no sign of letting up."
       },
       {
-        "date": "20250328",
+        "date": [
+          20250328,
+          20260129
+        ],
         "id": 204,
         "text": "ある人のこの浪立つを見て詠めるうた、",
         "kana": "あるひとのこのなみたつをみてうためるうた、",
         "koutei-yamagen": "ある人のこの浪立つを見て詠める歌、",
         "translation-ja": "ある人が、この波が立つのを見て詠んだ歌、",
         "translation-en": "A song composed by someone who saw these waves rise.",
+        "phrase-gloss": [
+          {
+            "phrase": "ある人のこの波立つを見て詠める歌、",
+            "gloss": "certain person GEN this wave rise ACC see compose PERF song",
+            "words": [
+              {
+                "word": "ある",
+                "gloss": "certain"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "この",
+                "gloss": "this"
+              },
+              {
+                "word": "波",
+                "gloss": "wave"
+              },
+              {
+                "word": "立つ",
+                "gloss": "rise.ATTR"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "見",
+                "gloss": "see.ADJ"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "詠め",
+                "gloss": "compose.ADV"
+              },
+              {
+                "word": "る",
+                "gloss": "PERF.ATTR"
+              },
+              {
+                "word": "歌",
+                "gloss": "song"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ACC": "accusative particle",
+          "ADJ": "adjective form",
+          "CONJ": "conjunctive particle",
+          "PERF": "perfective aspect",
+          "GEN": "genitive",
+          "ATTR": "attributive form"
+        },
         "translation-ja-natural": "ある人が、この波が立つのを見て詠んだ歌は、",
         "translation-en-natural": "A song composed by someone who saw these waves rise."
       },
