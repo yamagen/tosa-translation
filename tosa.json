@@ -18324,13 +18324,115 @@
         "translation-en-natural": "A song composed by someone who saw these waves rise."
       },
       {
-        "date": "20250328",
+        "date": [
+          20250328,
+          20260130
+        ],
         "id": 205,
         "poem": "霜だにも/おかぬかたぞと/いふなれど/浪の中には/ゆきぞ降りける",
         "kana": "しもだにも/おかぬかたぞと/いふなれど/なみのなかには/ゆきぞふりける",
         "koutei-yamagen": "霜だにもおかぬかたぞと言ふなれど浪の中には雪ぞ降りける",
         "translation-ja": "霜すら置かない地方だと言うけれど、波の中には雪が降ったのだった。",
         "translation-en": "They say it is a place where not even frost settles, but within the waves, snow did fall.",
+        "phrase-gloss": [
+          {
+            "phrase": "霜だにもおかぬかたぞと言ふなれど",
+            "gloss": "frost even settle.NEG way EMPH say.CONJ but",
+            "words": [
+              {
+                "word": "霜",
+                "gloss": "frost"
+              },
+              {
+                "word": "だに",
+                "gloss": "even"
+              },
+              {
+                "word": "おか",
+                "gloss": "settle.IRR"
+              },
+              {
+                "word": "ぬ",
+                "gloss": "NEG.ATTR"
+              },
+              {
+                "word": "かた",
+                "gloss": "way"
+              },
+              {
+                "word": "ぞ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "いふ",
+                "gloss": "say.ATTR"
+              },
+              {
+                "word": "なれ",
+                "gloss": "COP.REALIS"
+              },
+              {
+                "word": "ど",
+                "gloss": "but"
+              }
+            ]
+          },
+          {
+            "phrase": "波の中には雪ぞ降りける",
+            "gloss": "wave GEN inside LOC TOP snow EMPH fall.PST",
+            "words": [
+              {
+                "word": "波",
+                "gloss": "wave"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "中",
+                "gloss": "inside"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "雪",
+                "gloss": "snow"
+              },
+              {
+                "word": "ぞ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "降り",
+                "gloss": "fall.REALIS"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST.ATTR"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "LOC": "locative particle",
+          "NEG": "negation",
+          "CONJ": "conjunctive particle",
+          "EMPH": "emphatic particle",
+          "PST": "past tense",
+          "ATTR": "attributive form",
+          "IRR": "irrealis form"
+        },
         "translation-ja-natural": "霜すら降らない暖かい地方だと言われていますが、波の中には雪が降っていました。",
         "translation-en-natural": "They say not even frost falls here, and yet—there was snow falling in the waves.",
         "notes-ja": {
