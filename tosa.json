@@ -18465,21 +18465,112 @@
         "koutei-yamagen": "十七日、曇れる雲なくなりて、曉月夜、いとおもしろければ、船を出だして漕ぎ行く。",
         "translation-ja": "十七日、曇っていた雲がなくなり、曉月夜がたいそう趣深かったので、船を出して漕ぎ行く。",
         "translation-en": "On the seventeenth, the clouds that had made the sky overcast disappeared, and because the dawn moonlit night was very delightful, we set out and rowed on.",
-        "translation-ja-natural": "十七日、雲が晴れて夜明けの月がとてもきれいだったので、船を出して漕ぎ出した。",
+        "translation-ja-natural": "十七日、雲が晴れて夜明けの月がとてもきれいだったので、船を出して漕ぎ出しした。",
         "translation-en-natural": "On the seventeenth, the clouds cleared and the dawn moon was so beautiful that we set out and began to row.",
         "notes-ja": {
           "漕ぎ行く": "「漕ぎ行く」とあるので、港を出航したのかと思うと実はまた戻ることになる"
         }
       },
       {
-        "date": "20250329",
+        "date": [
+          20250329,
+          20260202
+        ],
         "id": 208,
         "text": "このあひだに雲のうへも海の底も同じ如くになむありける。",
         "kana": "このあひだにくものうへもうみのそこもおなじごとくになむありける。",
         "koutei-yamagen": "このあひだに、雲の上も海の底も同じ如くになむありける。",
         "translation-ja": "この間、雲の上も海の底も同じようだった。",
         "translation-en": "In the meantime, the clouds above and the sea below were the same.",
-        "translation-ja-natural": "この間、雲の上も海の底も同じようになっていました。",
+        "phrase-gloss": [
+          {
+            "phrase": "このあひだに、雲の上も海の底も同じ如くになむありける。",
+            "gloss": "this meantime LOC cloud GEN above also sea GEN bottom also same like becode EMPH exist.PST",
+            "words": [
+              {
+                "word": "この",
+                "gloss": "this"
+              },
+              {
+                "word": "あひだ",
+                "gloss": "meantime"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "、",
+                "gloss": "PUNCT"
+              },
+              {
+                "word": "雲",
+                "gloss": "cloud"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "上",
+                "gloss": "above"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "海",
+                "gloss": "sea"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "底",
+                "gloss": "bottom"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "同じ",
+                "gloss": "same"
+              },
+              {
+                "word": "如く",
+                "gloss": "like.ADV"
+              },
+              {
+                "word": "に",
+                "gloss": "become.ADV"
+              },
+              {
+                "word": "なむ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "あり",
+                "gloss": "exist.ADV"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST.ATTR"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "LOC": "locative particle",
+          "GEN": "genitive",
+          "EMPH": "emphatic particle",
+          "PST": "past tense",
+          "ATTR": "attributive form",
+          "REALIS": "realis form"
+        },
+        "translation-ja-natural": "この間、雲の上も海の底も同じようだった。",
         "translation-en-natural": "During that time, the clouds above and the sea below blended into one."
       },
       {
