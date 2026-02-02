@@ -18441,7 +18441,10 @@
         }
       },
       {
-        "date": "20250328",
+        "date": [
+          20250328,
+          20260131
+        ],
         "id": 206,
         "text": "さて船に乘りし日よりけふまでに廿日あまり五日になりにけり。",
         "kana": "さてふねにのりしひよりけふまでにはつかあまりいつかになりにけり。",
@@ -18452,14 +18455,17 @@
         "translation-en-natural": "From the day we boarded the ship until today, it has been twenty-five days."
       },
       {
-        "date": "20250328",
+        "date": [
+          20250328,
+          20260201
+        ],
         "id": 207,
         "text": "十七日、曇れる雲なくなりて曉月夜いとおもしろければ、船を出して漕ぎ行く。",
         "kana": "とおかあまりなぬか、くもれるくもなくなりてあかつきづくよいとおもしろければ、ふねをいだしてこぎゆく。",
         "koutei-yamagen": "十七日、曇れる雲なくなりて、曉月夜、いとおもしろければ、船を出だして漕ぎ行く。",
         "translation-ja": "十七日、曇っていた雲がなくなり、曉月夜がたいそう趣深かったので、船を出して漕ぎ行く。",
         "translation-en": "On the seventeenth, the clouds that had made the sky overcast disappeared, and because the dawn moonlit night was very delightful, we set out and rowed on.",
-        "translation-ja-natural": "十七日、雲が晴れて夜明けの月がとてもきれいだったので、船を出して漕ぎ出しました。",
+        "translation-ja-natural": "十七日、雲が晴れて夜明けの月がとてもきれいだったので、船を出して漕ぎ出した。",
         "translation-en-natural": "On the seventeenth, the clouds cleared and the dawn moon was so beautiful that we set out and began to row.",
         "notes-ja": {
           "漕ぎ行く": "「漕ぎ行く」とあるので、港を出航したのかと思うと実はまた戻ることになる"
