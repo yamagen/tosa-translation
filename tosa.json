@@ -18574,14 +18574,154 @@
         "translation-en-natural": "During that time, the clouds above and the sea below blended into one."
       },
       {
-        "date": "20250329",
+        "date": [
+          20250329,
+          20260203
+        ],
         "id": 209,
         "text": "うべも昔のをのこは「棹は穿つ波の上の月を、船は襲ふ海のうちの空を」とはいひけむ。",
         "kana": "うべもむかしのをのこは「さおはうがつなみのうへのつきを、ふねはおそふうみのうちのそらを」とはいひけむ。",
         "koutei-yamagen": "うべも昔の男は「棹は穿つ波の上の月を、船は襲ふ海のうちの空を」とはいひけむ。",
-        "translation-ja": "昔の男は「棹は穿つ波の上の月を、船はおそふ海のうちの空を」と言ったものだ。",
+        "translation-ja": "昔の男は「棹は穿つ波の上の月を、船はおそふ海のうちの空を」と言った。",
         "translation-en": "A man of old said, \"The pole pierces the moon upon the waves, and the ship presses the sky within the sea.\"",
-        "translation-ja-natural": "昔の男はかつて、「棹は波の上の月を突き、舟は海に映った空を圧えつけている）」と言いました。",
+        "phrase-gloss": [
+          {
+            "phrase": "むべも、昔の男は、",
+            "gloss": "indeed also old GEN man TOP",
+            "words": [
+              {
+                "word": "むべ",
+                "gloss": "indeed"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "昔",
+                "gloss": "old"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "男",
+                "gloss": "man"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              }
+            ]
+          },
+          {
+            "phrase": "「棹は穿つ波の上の月を、船は襲ふ海のうちの空を」とはいひけむ。",
+            "gloss": "pole TOP pierce wave GEN above GEN moon ACC ship TOP press sea GEN inside GEN sky ACC QUOT COP.PST.FUT",
+            "words": [
+              {
+                "word": "棹",
+                "gloss": "pole"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "穿つ",
+                "gloss": "pierce.ATTR"
+              },
+              {
+                "word": "波",
+                "gloss": "wave"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "上",
+                "gloss": "above"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "月",
+                "gloss": "moon"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "船",
+                "gloss": "ship"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "襲ふ",
+                "gloss": "press.ATTR"
+              },
+              {
+                "word": "海",
+                "gloss": "sea"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "うち",
+                "gloss": "inside"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "空",
+                "gloss": "sky"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "はいひ",
+                "gloss": "say.ADV"
+              },
+              {
+                "word": "けむ",
+                "gloss": "FUT.ATTR"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "TOP": "topic particle",
+          "ACC": "accusative particle",
+          "GEN": "genitive",
+          "ATTR": "attributive form",
+          "ADJ": "adjective form",
+          "ADV": "adverbial form",
+          "PST": "past tense",
+          "FUT": "future tense",
+          "QUOT": "quotative particle"
+        },
+        "translation-ja-natural": "昔の男はかつて、「棹は波の上の月を突き、舟は海に映った空を圧えつけている）」と言った。",
         "translation-en-natural": "The man of old once said, \"The pole pierces the moon upon the waves, and the ship presses the sky within the sea.\"",
         "notes-ja": {
           "唐の詩人買島(かとう)": "原作は「樟ハ穿ツ波ノ底ノヲ、舟ハ圧フ水ノ中ノ天ヲ」である。それを「波の上の月」「海の中の空」と改変している。"
