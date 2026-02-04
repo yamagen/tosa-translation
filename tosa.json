@@ -18728,14 +18728,52 @@
         }
       },
       {
-        "date": "20250329",
+        "date": [
+          20250329,
+          20260204
+        ],
         "id": 210,
         "text": "きゝされに聞けるなり。",
         "kana": "きゝされにきけるなり。",
         "koutei-yamagen": "聞きざれに聞けるなり。",
         "translation-ja": "本気にせずに聞いていた。",
         "translation-en": "I heard it in jest.",
-        "translation-ja-natural": "冗談だと思って聞いていました。",
+        "phrase-gloss": [
+          {
+            "phrase": "聞き戯れに聞けるなり。",
+            "gloss": "hear.playful DAT hear.PERF COP",
+            "words": [
+              {
+                "word": "聞き戯れ",
+                "gloss": "hear.playful"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "聞け",
+                "gloss": "hear.REALIS"
+              },
+              {
+                "word": "る",
+                "gloss": "PERF.ATTR"
+              },
+              {
+                "word": "なり",
+                "gloss": "DECL"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "DAT": "dative particle",
+          "PERF": "perfective aspect",
+          "REALIS": "realis form",
+          "DECL": "declarative form",
+          "ATTR": "attributive form"
+        },
+        "translation-ja-natural": "本気にせずに聞いていた。",
         "translation-en-natural": "I heard it in jest.",
         "notes-ja": [
           {
