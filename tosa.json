@@ -18829,24 +18829,152 @@
         ]
       },
       {
-        "date": "20250330",
+        "date": [
+          20250330,
+          20260205
+        ],
         "id": 211,
         "text": "又ある人のよめる歌、",
         "kana": "またあるひとのよめるうた、",
         "koutei-yamagen": "また、ある人のよめる歌、",
         "translation-ja": "また、ある人が詠んだ歌は、",
         "translation-en": "Also, a song composed by a certain person,",
+        "phrase-gloss": [
+          {
+            "phrase": "また、ある人のよめる歌、",
+            "gloss": "also certain person GEN compose.PERF song",
+            "words": [
+              {
+                "word": "また",
+                "gloss": "also"
+              },
+              {
+                "word": "ある",
+                "gloss": "certain"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "よめ",
+                "gloss": "compose.ADV"
+              },
+              {
+                "word": "る",
+                "gloss": "PERF.ATTR"
+              },
+              {
+                "word": "歌",
+                "gloss": "song"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "GEN": "genitive",
+          "PERF": "perfective aspect",
+          "ADV": "adverbial form",
+          "ATTR": "attributive form"
+        },
         "translation-ja-natural": "また、ある人が詠んだ歌は、",
         "translation-en-natural": "Also, a song composed by someone..."
       },
       {
-        "date": "20250330",
+        "date": [
+          20250330,
+          20260206
+        ],
         "id": 212,
         "poem": "みなそこの/月のうへより/漕ぐふねの/棹にさはるは/桂なるらし",
         "kana": "みなそこの/つきのうへより/こぐふねの/さをにさはるは/かつらなるらし",
         "koutei-yamagen": "水底の月の上より漕ぐ舟の棹にさはるは桂なるらし",
         "translation-ja": "水底から月の上へと漕いでいく船の棹に触れるものは、桂であるらしい。",
         "translation-en": "That which touches the pole of the boat rowing up from the surface of the water toward the moon must be a katsura tree.",
+        "phrase-gloss": [
+          {
+            "phrase": "水底の月の上より漕ぐ舟の棹にさはるは桂なるらし",
+            "gloss": "water.bottom GEN moon GEN above from row boat GEN pole DAT touch TOP katsura like DECL hearsay",
+            "words": [
+              {
+                "word": "水底",
+                "gloss": "water.bottom"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "月",
+                "gloss": "moon"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "上",
+                "gloss": "above"
+              },
+              {
+                "word": "より",
+                "gloss": "from"
+              },
+              {
+                "word": "漕ぐ",
+                "gloss": "row.ATTR"
+              },
+              {
+                "word": "舟",
+                "gloss": "boat"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "棹",
+                "gloss": "pole"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "さはる",
+                "gloss": "touch.ATTR"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "桂",
+                "gloss": "katsura"
+              },
+              {
+                "word": "なる",
+                "gloss": "DECL.ATTR"
+              },
+              {
+                "word": "らし",
+                "gloss": "hearsay"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "GEN": "genitive",
+          "DAT": "dative particle",
+          "TOP": "topic particle",
+          "ADV": "adverbial form",
+          "DECL": "declarative auxiliary",
+          "ATTR": "attributive form"
+        },
         "translation-ja-natural": "水の底から月へと漕ぎ出す船。その棹に触れるのは、どうやら桂の木かもしれませんね。",
         "translation-en-natural": "A boat rows up from the depths toward the moon. What brushes against its pole must be the katsura tree, they say grows on the moon.",
         "notes-ja": {
