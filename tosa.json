@@ -19062,13 +19062,93 @@
         "translation-en-natural": "Upon hearing this, another person composed a poem..."
       },
       {
-        "date": "20250330",
+        "date": [
+          20250330,
+          20260208
+        ],
         "id": 214,
         "poem": "かげ見れば/浪の底なる/ひさかたの/空こぎわたる/われぞさびしき",
         "kana": "かげみれば/なみのそこなる/ひさかたの/そらこぎわたる/われぞさびしき",
         "koutei-yamagen": "かげ見れば浪の底なるひさかたの空漕ぎわたるわれぞさびしき",
         "translation-ja": "影を見れば、波の底にある久方の空を漕ぎ渡る私は寂しくて。",
         "translation-en": "When I look at the shadow, rowing across the long sky beneath the waves, I am so lonely.",
+        "phrase-gloss": [
+          {
+            "phrase": "かげ見れば浪の底なるひさかたの空漕ぎわたるわれぞさびしき",
+            "gloss": "shadow see COND wave GEN bottom DECL eternal GEN sky row cross EMPH I TOP lonely",
+            "words": [
+              {
+                "word": "かげ",
+                "gloss": "shadow"
+              },
+              {
+                "word": "見れ",
+                "gloss": "see.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "COND"
+              },
+              {
+                "word": "浪",
+                "gloss": "wave"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "底",
+                "gloss": "bottom"
+              },
+              {
+                "word": "なる",
+                "gloss": "DECL.ATTR"
+              },
+              {
+                "word": "ひさかた",
+                "gloss": "eternal"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "空",
+                "gloss": "sky"
+              },
+              {
+                "word": "漕ぎ",
+                "gloss": "row.ADV"
+              },
+              {
+                "word": "わたる",
+                "gloss": "cross.ATTR"
+              },
+              {
+                "word": "われ",
+                "gloss": "I"
+              },
+              {
+                "word": "ぞ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "さびしき",
+                "gloss": "lonely.ADJ"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ADJ": "adjective form",
+          "ADV": "adverbial form",
+          "ATTR": "attributive form",
+          "COND": "conditional form",
+          "EMPH": "emphatic particle",
+          "GEN": "genitive",
+          "TOP": "topic particle"
+        },
         "translation-ja-natural": "波の底に映る空を漕いでいる自分の影を見ていると、なんだか、ひどく寂しい気がしてくる。",
         "translation-en-natural": "As I look at the shadow of myself rowing through the sky reflected beneath the waves, a deep loneliness quietly washes over me.",
         "notes-ja": {
