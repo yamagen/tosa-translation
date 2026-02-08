@@ -18993,13 +18993,71 @@
         }
       },
       {
-        "date": "20250330",
+        "date": [
+          20250330,
+          20260207
+        ],
         "id": 213,
         "text": "これを聞きてある人の又よめる、",
         "kana": "これをききてあるひとのまたよめる、",
         "koutei-yamagen": "これを聞きて、ある人のまたよめる、",
         "translation-ja": "これを聞いて、ある人がまた詠んだ歌は、",
         "translation-en": "Upon hearing this, a certain person composed a poem,",
+        "phrase-gloss": [
+          {
+            "phrase": "これを聞きて、ある人のまたよめる、",
+            "gloss": "this ACC hear.ADV CONJ certain person GEN also compose PERF",
+            "words": [
+              {
+                "word": "これ",
+                "gloss": "this"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "聞き",
+                "gloss": "hear.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "ある",
+                "gloss": "certain"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "また",
+                "gloss": "also"
+              },
+              {
+                "word": "よめ",
+                "gloss": "compose.REALIS"
+              },
+              {
+                "word": "る",
+                "gloss": "PERF.ATTR"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ACC": "accusative particle",
+          "ADV": "adverbial form",
+          "ATTR": "attributive form",
+          "GEN": "genitive",
+          "PERF": "perfective aspect"
+        },
         "translation-ja-natural": "これを聞いて、別のある人がまた詠んだ歌は、",
         "translation-en-natural": "Upon hearing this, another person composed a poem..."
       },
