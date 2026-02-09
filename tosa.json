@@ -19177,14 +19177,108 @@
         }
       },
       {
-        "date": "20250331",
+        "date": [
+          20250331,
+          20260209
+        ],
         "id": 215,
         "text": "かくいふあひだに夜やうやく明けゆくに、楫取等「黒き雲にはかに出できぬ。",
         "kana": "かくいふあひだによやうやくあけゆくに、かじとりら「くろきくもにはかにでできぬ。",
         "koutei-yamagen": "かくいふあひだに夜やうやく明けゆくに、楫取ら、「黒き雲にはかに出できぬ。",
         "translation-ja": "こう言っている間に、夜がようやく明けてきたので、楫取りたちは「黒い雲がにわかに出てきた。",
         "translation-en": "While saying this, the night gradually began to brighten, and the oarsmen said, \"A black cloud has suddenly appeared.\"",
-        "translation-ja-natural": "こう言っているうちに、夜がようやく明けてきたので、楫取りたちは「黒い雲がにわかに出てきたぞ。",
+        "phrase-gloss": [
+          {
+            "phrase": "かくいふあひだに、夜やうやく明けゆくに、楫取ら、「黒き雲にはかに出できぬ。",
+            "gloss": "thus say while night gradually brighten.CONJ oarsmen PL TOP black cloud DAT suddenly appear PERF",
+            "words": [
+              {
+                "word": "かく",
+                "gloss": "thus"
+              },
+              {
+                "word": "いふ",
+                "gloss": "say.ATTR"
+              },
+              {
+                "word": "あひだ",
+                "gloss": "while"
+              },
+              {
+                "word": "に",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "夜",
+                "gloss": "night"
+              },
+              {
+                "word": "やうやく",
+                "gloss": "gradually"
+              },
+              {
+                "word": "明け",
+                "gloss": "brighten.ADV"
+              },
+              {
+                "word": "ゆく",
+                "gloss": "go.ATTR"
+              },
+              {
+                "word": "に",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "楫取",
+                "gloss": "oarsmen"
+              },
+              {
+                "word": "ら",
+                "gloss": "PL"
+              },
+              {
+                "word": "黒き",
+                "gloss": "black.ATTR"
+              },
+              {
+                "word": "雲",
+                "gloss": "cloud"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "はかに",
+                "gloss": "suddenly"
+              },
+              {
+                "word": "出で",
+                "gloss": "appear.ADV"
+              },
+              {
+                "word": "き",
+                "gloss": "become.ADV"
+              },
+              {
+                "word": "ぬ",
+                "gloss": "PERF"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ADJ": "adjective form",
+          "ADV": "adverbial form",
+          "ATTR": "attributive form",
+          "CONJ": "conjunctive particle",
+          "DAT": "dative particle",
+          "PERF": "perfective aspect",
+          "PL": "plural marker",
+          "REALIS": "realis form",
+          "TOP": "topic particle"
+        },
+        "translation-ja-natural": "こう言っているうちに、夜がようやく明けてきたので、楫取りたちは「黒い雲がにわかに出てきた。",
         "translation-en-natural": "While saying this, the night gradually began to brighten, and the oarsmen said, \"A black cloud has suddenly appeared.\"",
         "notes-ja": {
           "「楫＋戈」": "「楫」は「かじ」とも読まれるが、ここでは「かじ」と読む。",
