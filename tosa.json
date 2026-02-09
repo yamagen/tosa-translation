@@ -19286,13 +19286,50 @@
         }
       },
       {
-        "date": "20250331",
+        "date": [
+          20250331,
+          20260210
+        ],
         "id": 216,
         "text": "風も吹きぬべし。",
         "kana": "かぜもふきぬべし。",
         "koutei-yamagen": "風も吹きぬべし。",
         "translation-ja": "風も、きっと吹くはずだ。",
         "translation-en": "The wind too will surely blow.",
+        "phrase-gloss": [
+          {
+            "phrase": "風も吹きぬべし。",
+            "gloss": "wind also blow.ADV PERF MOD",
+            "words": [
+              {
+                "word": "風",
+                "gloss": "wind"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "吹き",
+                "gloss": "blow.ADV"
+              },
+              {
+                "word": "ぬ",
+                "gloss": "PERF"
+              },
+              {
+                "word": "べし",
+                "gloss": "MOD"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ADJ": "adjective form",
+          "ADV": "adverbial form",
+          "MOD": "modality auxiliary",
+          "PERF": "perfective aspect"
+        },
         "translation-ja-natural": "風も吹くに違いない。",
         "translation-en-natural": "The wind must be blowing, huh."
       },
