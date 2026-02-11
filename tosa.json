@@ -19334,14 +19334,69 @@
         "translation-en-natural": "The wind must be blowing, huh."
       },
       {
-        "date": "20250331",
+        "date": [
+          20250331,
+          20260211
+        ],
         "id": 217,
         "text": "御船返してむ」といひてかへる。",
         "kana": "みふねかへしてむ」といひてかへる。",
         "koutei-yamagen": "御船返してむ」といひてかへる。",
         "translation-ja": "「お船を返そう」と言って、返る。",
         "translation-en": "Saying, \"We shall turn the ship back,\" they return.",
-        "translation-ja-natural": "「船を返してしまおう」と言って、戻ってきました。",
+        "phrase-gloss": [
+          {
+            "phrase": "御船返してむ」といひて船返る。",
+            "gloss": "honorific.ship return EMPH MOD QUOTE say CONJ ship return",
+            "words": [
+              {
+                "word": "御船",
+                "gloss": "honorific.ship"
+              },
+              {
+                "word": "返し",
+                "gloss": "return.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "EMPH.IRR"
+              },
+              {
+                "word": "む",
+                "gloss": "MOD.END"
+              },
+              {
+                "word": "と",
+                "gloss": "say.CONJ"
+              },
+              {
+                "word": "いひ",
+                "gloss": "say.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "船",
+                "gloss": "ship"
+              },
+              {
+                "word": "返る",
+                "gloss": "return"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ADJ": "adjective form",
+          "ADV": "adverbial form",
+          "MOD": "modality auxiliary",
+          "PERF": "perfective aspect",
+          "QUOTE": "quotation particle",
+          "CONJ": "conjunctive particle"
+        },
+        "translation-ja-natural": "「船を返そう」と言って、戻ってきた。",
         "translation-en-natural": "They said, \"Let's turn the ship back,\" and turned back."
       },
       {
