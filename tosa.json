@@ -19452,13 +19452,35 @@
         "translation-en-natural": "It rained during this time."
       },
       {
-        "date": "20250401",
+        "date": [
+          20250401,
+          20260213
+        ],
         "id": 219,
         "text": "いとわびし。",
         "kana": "いとわびし。",
         "koutei-yamagen": "いとわびし。",
         "translation-ja": "とてもわびしい。",
         "translation-en": "so miserable.",
+        "phrase-gloss": [
+          {
+            "phrase": "いとわびし。",
+            "gloss": "very lonely.ADJ",
+            "words": [
+              {
+                "word": "いと",
+                "gloss": "very"
+              },
+              {
+                "word": "わびし",
+                "gloss": "lonely.ADJ"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ADJ": "adjective form"
+        },
         "translation-ja-natural": "とても情けない。",
         "translation-en-natural": "It is so miserable."
       },
