@@ -19400,14 +19400,55 @@
         "translation-en-natural": "They said, \"Let's turn the ship back,\" and turned back."
       },
       {
-        "date": "20250401",
+        "date": [
+          20250401,
+          20260212
+        ],
         "id": 218,
         "text": "このあひだに雨ふりぬ。",
         "kana": "このあひだにあめふりぬ。",
         "koutei-yamagen": "このあひだに雨ふりぬ。",
         "translation-ja": "この間に雨が降った。",
         "translation-en": "Rain fell during this time.",
-        "translation-ja-natural": "この間に雨が降りました。",
+        "phrase-gloss": [
+          {
+            "phrase": "このあひだに、雨降りぬ。",
+            "gloss": "this while DAT rain fall.ADV PERF",
+            "words": [
+              {
+                "word": "この",
+                "gloss": "this"
+              },
+              {
+                "word": "あひだ",
+                "gloss": "while"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "雨",
+                "gloss": "rain"
+              },
+              {
+                "word": "降り",
+                "gloss": "fall.ADV"
+              },
+              {
+                "word": "ぬ",
+                "gloss": "PERF"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ADJ": "adjective form",
+          "ADV": "adverbial form",
+          "DAT": "dative particle",
+          "PERF": "perfective aspect"
+        },
+        "translation-ja-natural": "この間に雨が降った。",
         "translation-en-natural": "It rained during this time."
       },
       {
