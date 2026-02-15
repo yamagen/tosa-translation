@@ -19534,15 +19534,55 @@
         "translation-en-natural": "On the eighteenth, we are still in the same place."
       },
       {
-        "date": "20250401",
+        "date": [
+          20250401,
+          20260215
+        ],
         "id": 221,
         "text": "海あらければ船いださず。",
         "kana": "うみあらければふねいださず。",
         "koutei-yamagen": "海あらければ、船いださず。",
         "translation-ja": "海が荒れているので、船を出さない。",
-        "translation-en": "The sea is rough, so no sailing.",
-        "translation-ja-natural": "海が荒れているので、出航できません。",
-        "translation-en-natural": "The sea is rough, so we can't set sail."
+        "translation-en": "The sea is rough, so we won't set sail.",
+        "phrase-gloss": [
+          {
+            "phrase": "海荒ければ、船出ださず。",
+            "gloss": "sea rough CONJ ship set sail NEG",
+            "words": [
+              {
+                "word": "海",
+                "gloss": "sea"
+              },
+              {
+                "word": "荒けれ",
+                "gloss": "rough.ADV"
+              },
+              {
+                "word": "ば",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "船",
+                "gloss": "ship"
+              },
+              {
+                "word": "出ださ",
+                "gloss": "set.sail.IRR"
+              },
+              {
+                "word": "ず",
+                "gloss": "NEG"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ADJ": "adjective form",
+          "CONJ": "conjunctive particle",
+          "NEG": "negation auxiliary"
+        },
+        "translation-ja-natural": "海が荒れているので、船を出さない。",
+        "translation-en-natural": "The sea is rough, so we won't set sail."
       },
       {
         "date": "20250402",
