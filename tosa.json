@@ -19485,14 +19485,52 @@
         "translation-en-natural": "It is so miserable."
       },
       {
-        "date": "20250401",
+        "date": [
+          20250401,
+          20260214
+        ],
         "id": 220,
         "text": "十八日、猶同じ所にあり。",
         "kana": "とおかあまりようか、なほおなじところにあり。",
         "koutei-yamagen": "十八日、なほ、同じところにあり。",
         "translation-ja": "十八日、まだ同じところにいる。",
         "translation-en": "On the eighteenth, we are still in the same place.",
-        "translation-ja-natural": "十八日、まだ同じところにいます。",
+        "phrase-gloss": [
+          {
+            "phrase": "十八日。なほ、同じところにあり。",
+            "gloss": "eighteenth day. still same place LOC exist",
+            "words": [
+              {
+                "word": "十八日",
+                "gloss": "eighteenth day"
+              },
+              {
+                "word": "なほ",
+                "gloss": "still"
+              },
+              {
+                "word": "同じ",
+                "gloss": "same"
+              },
+              {
+                "word": "ところ",
+                "gloss": "place"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "あり",
+                "gloss": "exist"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "LOC": "locative particle"
+        },
+        "translation-ja-natural": "十八日、まだ同じところにいる。",
         "translation-en-natural": "On the eighteenth, we are still in the same place."
       },
       {
