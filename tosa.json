@@ -19585,13 +19585,69 @@
         "translation-en-natural": "The sea is rough, so we won't set sail."
       },
       {
-        "date": "20250402",
+        "date": [
+          20250402,
+          20260216
+        ],
         "id": 222,
         "text": "この泊遠く見れども近く見れどもいとおもしろし。",
         "kana": "このとまりとほくみれどもちかくみれどもいとおもしろし。",
         "koutei-yamagen": "この泊遠く見れども近く見れどもいとおもしろし。",
-        "translation-ja": "この港は遠くを見ても近くを見てもとても趣がある。",
-        "translation-en": "Whether seen from far or near, this harbor is very charming.",
+        "translation-ja": "この泊は遠くを見ても近くを見てもとてもおもしろい。",
+        "translation-en": "Whether seen from far or near, this harbor is very interesting.",
+        "phrase-gloss": [
+          {
+            "phrase": "この泊、遠く見れども、近く見れども、いとおもしろし。",
+            "gloss": "this harbor far see CONJ near see CONJ very interesting",
+            "words": [
+              {
+                "word": "この",
+                "gloss": "this"
+              },
+              {
+                "word": "泊",
+                "gloss": "harbor"
+              },
+              {
+                "word": "遠く",
+                "gloss": "far.ADV"
+              },
+              {
+                "word": "見れ",
+                "gloss": "see.REALIS"
+              },
+              {
+                "word": "ども",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "近く",
+                "gloss": "near.ADV"
+              },
+              {
+                "word": "見れ",
+                "gloss": "see.REALIS"
+              },
+              {
+                "word": "ども",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "いと",
+                "gloss": "very"
+              },
+              {
+                "word": "おもしろし",
+                "gloss": "interesting"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ADV": "adverbial form",
+          "CONJ": "conjunctive particle",
+          "REALIS": "realis form"
+        },
         "translation-ja-natural": "この港の景色は遠くを見ても近くを見ても、とても風情があります。",
         "translation-en-natural": "The view from this harbor is full of charm, whether looking far or near."
       },
