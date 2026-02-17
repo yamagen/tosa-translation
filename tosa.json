@@ -19652,25 +19652,114 @@
         "translation-en-natural": "The view from this harbor is full of charm, whether looking far or near."
       },
       {
-        "date": "20250402",
+        "date": [
+          20250402,
+          20260217
+        ],
         "id": 223,
         "text": "かゝれども苦しければ何事もおもほえず。",
         "kana": "かかれどもくるしければなにごともおもほえず。",
         "koutei-yamagen": "かかれども、苦しければ、何事も思ほえず。",
         "translation-ja": "そうであっても、苦しいので、何事も思われない。",
         "translation-en": "Even so, since my distress, nothing comes to mind.",
+        "phrase-gloss": [
+          {
+            "phrase": "かかれども、苦しければ、何事も思ほえず。",
+            "gloss": "even so CONJ distress CONJ nothing come to mind",
+            "words": [
+              {
+                "word": "かかれども",
+                "gloss": "even so"
+              },
+              {
+                "word": "苦しけれ",
+                "gloss": "distress.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "何事",
+                "gloss": "nothing"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "思ほえ",
+                "gloss": "come.to.mind.IRR"
+              },
+              {
+                "word": "ず",
+                "gloss": "NEG"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ADJ": "adjective form",
+          "ADV": "adverbial form",
+          "CONJ": "conjunctive particle",
+          "NEG": "negation auxiliary",
+          "IRR": "irrealis form",
+          "REALIS": "realis form"
+        },
         "translation-ja-natural": "そうではあるけれども、今の状況がつらくて、何も気の利いたことが思い浮かびません。",
         "translation-en-natural": "Even so, since things are so hard right now, nothing comes to mind.",
-        "notes-ja": {
-          "「かかれども」": "「かかれども」は「そうではあるけれども」という意味で、前の文を受けている。",
-          "「何事もおもほえず」": "「何事もおもほえず」は「何事も思い浮かばない」という意味で、苦しみのために詩的な発想ができないことを表している。",
-          "即時文法研究ノート": {
-            "句内の文法性": "即時文法においても、句の内部が非文であってはならない。句は一瞬で構文的に判断される単位であり、ネイティブにとって不自然と感じられる構造は受け入れられない。",
-            "句間の関係": "句と句の間では、前の句はすでに意味表象として聞き手に取り込まれており、次の句に構文的影響を与えない。したがって、句の間の関係は時間的・意味的な流れに基づいて柔軟に構成できる。",
-            "文法性と時間性の分離": "即時文法では、構文的判断（＝正しいかどうか）は句の内部で完結し、句の時間的連鎖においては意味の継続だけが保持される。これにより、即時文法は発話単位ごとの厳格さと、文全体の柔軟な進行とを両立させている。",
-            "非文の禁止": "即時文法は調整文法より柔軟ではあるが、非文を許容するものではない。非文を避け、自然で文法的に成立する句のみが出力されるという前提は崩さない。"
+        "notes-ja": [
+          {
+            "title": "「かかれども」",
+            "note": "「かかれども」は「そうではあるけれども」という意味で、前の文を受けている。"
+          },
+          {
+            "title": "「何事もおもほえず」",
+            "note": "「何事もおもほえず」は「何事も思い浮かばない」という意味で、苦しみのために詩的な発想ができないことを表している。"
+          },
+          {
+            "title": "句内の文法性",
+            "note": "即時文法においても、句の内部が非文であってはならない。句は一瞬で構文的に判断される単位であり、ネイティブにとって不自然と感じられる構造は受け入れられない。"
+          },
+          {
+            "title": "句間の関係",
+            "note": "句と句の間では、前の句はすでに意味表象として聞き手に取り込まれており、次の句に構文的影響を与えない。したがって、句の間の関係は時間的・意味的な流れに基づいて柔軟に構成できる。"
+          },
+          {
+            "title": "文法性と時間性の分離",
+            "note": "即時文法では、構文的判断（＝正しいかどうか）は句の内部で完結し、句の時間的連鎖においては意味の継続だけが保持される。これにより、即時文法は発話単位ごとの厳格さと、文全体の柔軟な進行とを両立させている。"
+          },
+          {
+            "title": "非文の禁止",
+            "note": "即時文法は調整文法より柔軟ではあるが、非文を許容するものではない。非文を避け、自然で文法的に成立する句のみが出力されるという前提は崩さない。"
           }
-        }
+        ],
+        "notes-en": [
+          {
+            "title": "「かかれども」",
+            "note": "\"kakaredomo\" is a phrase that indicates a concession, acknowledging the previous statement while introducing a contrasting point."
+          },
+          {
+            "title": "「何事もおもほえず」",
+            "note": "\"nanigoto mo omohoezu\" means that no ideas or thoughts are occurring, often due to distress or difficulty in thinking clearly."
+          },
+          {
+            "title": "Grammaticality within phrases",
+            "note": "In immediate grammar, the internal structure of a phrase must be grammatical. A phrase is judged as a unit, and any structure that feels unnatural to native speakers would not be accepted."
+          },
+          {
+            "title": "Relationship between phrases",
+            "note": "Between phrases, the previous phrase is already incorporated as a meaning representation for the listener and does not syntactically influence the next phrase. Therefore, the relationship between phrases can be flexibly constructed based on temporal and semantic flow."
+          },
+          {
+            "title": "Separation of grammaticality and temporality",
+            "note": "In immediate grammar, syntactic judgment (whether something is correct) is completed within the phrase, while only the continuity of meaning is maintained in the temporal chain of phrases. This allows immediate grammar to balance strictness within utterance units with flexible progression of the overall sentence."
+          },
+          {
+            "title": "Prohibition of ungrammaticality",
+            "note": "Immediate grammar does not allow for ungrammatical structures. The assumption that only natural and grammatically correct phrases are produced remains intact."
+          }
+        ]
       },
       {
         "date": "20250403",
