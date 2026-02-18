@@ -19706,7 +19706,7 @@
           "IRR": "irrealis form",
           "REALIS": "realis form"
         },
-        "translation-ja-natural": "そうではあるけれども、今の状況がつらくて、何も気の利いたことが思い浮かびません。",
+        "translation-ja-natural": "そうではあるけれども、今の状況がつらくて、何も気の利いたことが思い浮かばない。",
         "translation-en-natural": "Even so, since things are so hard right now, nothing comes to mind.",
         "notes-ja": [
           {
@@ -19762,15 +19762,78 @@
         ]
       },
       {
-        "date": "20250403",
+        "date": [
+          20250403,
+          20260218
+        ],
         "id": 224,
         "text": "男どちは心やりにやあらむ、からうたなどいふべし。",
         "kana": "をとこどちはこころやりにやあらむ、からうたなどいふべし。",
         "koutei-yamagen": "男どちは心やりにやあらむ、からうたなどいふべし。",
-        "translation-ja": "男たちは心やりのためなのだろうか、漢詩などを言っているのだろう。",
+        "translation-ja": "男たちは心やりのためなのだろうか、漢詩などを言うのだろう。",
         "translation-en": "Perhaps the men are saying Chinese poems as a way to relieve their hearts.",
-        "translation-ja-natural": "男たちは心を慰めるために、漢詩などを吟じているのだろうか。",
-        "translation-en-natural": "Maybe the men are reciting Chinese poems to ease their minds."
+        "phrase-gloss": [
+          {
+            "phrase": "男どもは心やりにやあらむ、漢詩などいふべし。",
+            "gloss": "men PL TOP heart relief DAT Q be MOD Chinese.poem etc say MOD",
+            "words": [
+              {
+                "word": "男ども",
+                "gloss": "men PL"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "心やり",
+                "gloss": "heart relief"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "や",
+                "gloss": "Q"
+              },
+              {
+                "word": "あら",
+                "gloss": "be.IRR"
+              },
+              {
+                "word": "む",
+                "gloss": "MOD"
+              },
+              {
+                "word": "漢詩",
+                "gloss": "Chinese.poem"
+              },
+              {
+                "word": "など",
+                "gloss": "etc"
+              },
+              {
+                "word": "いふ",
+                "gloss": "say"
+              },
+              {
+                "word": "べし",
+                "gloss": "MOD"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ADJ": "adjective form",
+          "ADV": "adverbial form",
+          "CONJ": "conjunctive particle",
+          "MOD": "modality auxiliary",
+          "PL": "plural marker",
+          "TOP": "topic particle"
+        },
+        "translation-ja-natural": "男たちは心やりのためなのであろうか、漢詩などを言うのであろう。",
+        "translation-en-natural": "Perhaps it is to ease their minds that the men would recite Chinese poems and the like."
       },
       {
         "date": "20250403",
