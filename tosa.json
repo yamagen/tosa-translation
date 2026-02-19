@@ -19836,13 +19836,75 @@
         "translation-en-natural": "Perhaps it is to ease their minds that the men would recite Chinese poems and the like."
       },
       {
-        "date": "20250403",
+        "date": [
+          20250403,
+          20260219
+        ],
         "id": 225,
         "text": "船もいださでいたづらなればある人の詠める、",
         "kana": "ふねもいださでいたづらなればあるひとのよめる、",
         "koutei-yamagen": "船も出ださで、いたづらなれば、ある人の詠める、",
         "translation-ja": "船も出さず、むなしく過ごしていたので、ある人の詠んだ歌は、",
         "translation-en": "Since the ship was not set out and it was idle time, a certain person's composed poem is:",
+        "phrase-gloss": [
+          {
+            "phrase": "船も出ださで、いたづらなれば、ある人のよめる、",
+            "gloss": "ship also set sail NEG idle CONJ certain person GEN compose",
+            "words": [
+              {
+                "word": "船",
+                "gloss": "ship"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "出ださ",
+                "gloss": "set.sail.IRR"
+              },
+              {
+                "word": "で",
+                "gloss": "NEG"
+              },
+              {
+                "word": "いたづら",
+                "gloss": "idle"
+              },
+              {
+                "word": "なれば",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "ある",
+                "gloss": "certain"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "詠め",
+                "gloss": "compose.REALIS"
+              },
+              {
+                "word": "る",
+                "gloss": "PERF.ATTR"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ADJ": "adjective form",
+          "CONJ": "conjunctive particle",
+          "NEG": "negation auxiliary",
+          "GEN": "genitive particle",
+          "IRR": "irrealis form"
+        },
         "translation-ja-natural": "船も出せず、何もすることがないので、ある人が詠んだその歌は、",
         "translation-en-natural": "Since the ship is still unable to set sail and there is nothing to do, a poem that a certain person composed is..."
       },
