@@ -19909,13 +19909,102 @@
         "translation-en-natural": "Since the ship is still unable to set sail and there is nothing to do, a poem that a certain person composed is..."
       },
       {
-        "date": "20250403",
+        "date": [
+          20250403,
+          20260220
+        ],
         "id": 226,
         "poem": "いそぶりの/寄する磯には/年月を/いつとも分かぬ/雪のみぞふる",
         "kana": "いそぶりの/よするいそには/としつきを/いつともわかぬ/ゆきのみぞふる",
         "koutei-yamagen": "いそぶりの寄する磯には年月をいつとも分かぬ雪のみぞふる",
         "translation-ja": "荒波の寄せる磯には、年月をいつとも分からぬ雪だけが降っている。",
         "translation-en": "On the shore where the waves strike, only snow falls, not knowing when in months or years.",
+        "phrase-gloss": [
+          {
+            "phrase": "磯ふりの寄する磯には年月をいつともわかぬ雪のみぞ降る",
+            "gloss": "rocky.shore strike GEN rocky.shore LOC year.month DAT when QUOT know NEG snow only EMPH fall",
+            "words": [
+              {
+                "word": "磯ふり",
+                "gloss": "rocky.shore"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "寄する",
+                "gloss": "strike.ATTR"
+              },
+              {
+                "word": "磯",
+                "gloss": "rocky.shore"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "年月",
+                "gloss": "year.month"
+              },
+              {
+                "word": "を",
+                "gloss": "DAT"
+              },
+              {
+                "word": "いつ",
+                "gloss": "when"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "わか",
+                "gloss": "know.IRR"
+              },
+              {
+                "word": "ぬ",
+                "gloss": "NEG.ATTR"
+              },
+              {
+                "word": "雪",
+                "gloss": "snow"
+              },
+              {
+                "word": "のみ",
+                "gloss": "only"
+              },
+              {
+                "word": "ぞ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "降る",
+                "gloss": "fall.ATTR"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ADJ": "adjective form",
+          "CONJ": "conjunctive particle",
+          "DAT": "dative particle",
+          "NEG": "negation auxiliary",
+          "Q": "question particle",
+          "GEN": "genitive particle",
+          "LOC": "locative particle",
+          "EMPH": "emphatic particle"
+        },
         "translation-ja-natural": "荒波の寄せる磯には、年月をいつとも分からない雪ばかりが降っています。",
         "translation-en-natural": "On the rocky shore where the waves crash, snow falls without distinguishing the years and months."
       },
