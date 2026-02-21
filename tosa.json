@@ -20079,13 +20079,51 @@
         "translation-en-natural": "This poem is from a person who usually does not compose poetry."
       },
       {
-        "date": "20250404",
+        "date": [
+          20250404,
+          20260222
+        ],
         "id": 228,
         "text": "又人のよめる、",
         "kana": "またひとのよめる、",
         "koutei-yamagen": "又人のよめる、",
         "translation-ja": "また、別の人が詠んだ歌は、",
         "translation-en": "Also, another person composed a poem, which is:",
+        "phrase-gloss": [
+          {
+            "phrase": "また、人のよめる、",
+            "gloss": "also certain person GEN compose PERF",
+            "words": [
+              {
+                "word": "また",
+                "gloss": "also"
+              },
+              {
+                "word": "人",
+                "gloss": "certain person"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "よめ",
+                "gloss": "compose.REALIS"
+              },
+              {
+                "word": "る",
+                "gloss": "PERF.ATTR"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ADJ": "adjective form",
+          "CONJ": "conjunctive particle",
+          "GEN": "genitive particle",
+          "PERF": "perfective aspect",
+          "REALIS": "realis form"
+        },
         "translation-ja-natural": "また、別の人が詠んだ歌は、",
         "translation-en-natural": "Also, another person composed a poem, which is..."
       },
