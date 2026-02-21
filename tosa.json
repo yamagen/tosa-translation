@@ -20009,14 +20009,73 @@
         "translation-en-natural": "On the rocky shore where the waves crash, snow falls without distinguishing the years and months."
       },
       {
-        "date": "20250403",
+        "date": [
+          20250403,
+          20260221
+        ],
         "id": 227,
         "text": "この歌は常にせぬ人のごとなり。",
         "kana": "このうたはとこにせぬひとのごとなり。",
         "koutei-yamagen": "この歌は常にせぬ人のごとなり。",
         "translation-ja": "この歌は、ふだん歌を詠まない人のことばだ。",
         "translation-en": "This poem is the word of a person who does not usually compose poetry.",
-        "translation-ja-natural": "この歌は、普段は歌を詠まない人の歌です。",
+        "phrase-gloss": [
+          {
+            "phrase": "この歌は、常にせぬ人の言なり。",
+            "gloss": "this poem TOP usually NEG compose person GEN word be",
+            "words": [
+              {
+                "word": "この",
+                "gloss": "this"
+              },
+              {
+                "word": "歌",
+                "gloss": "poem"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "常に",
+                "gloss": "usually"
+              },
+              {
+                "word": "せ",
+                "gloss": "do.IRR"
+              },
+              {
+                "word": "ぬ",
+                "gloss": "NEG.ATTR"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "言",
+                "gloss": "word"
+              },
+              {
+                "word": "なり",
+                "gloss": "DECL"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ADJ": "adjective form",
+          "CONJ": "conjunctive particle",
+          "GEN": "genitive particle",
+          "NEG": "negation auxiliary",
+          "DECL": "declarative auxiliary",
+          "TOP": "topic particle"
+        },
+        "translation-ja-natural": "この歌は、普段は歌を詠まない人の歌である。",
         "translation-en-natural": "This poem is from a person who usually does not compose poetry."
       },
       {
