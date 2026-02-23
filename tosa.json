@@ -20128,46 +20128,207 @@
         "translation-en-natural": "Also, another person composed a poem, which is..."
       },
       {
-        "date": "20250404",
+        "date": [
+          20250404,
+          20260223
+        ],
         "id": 229,
         "poem": "風による/浪のいそには/うぐひすも/春もえしらぬ/花のみぞ咲く",
         "kana": "かぜによる/なみのいそには/うぐひすも/はるもえしらぬ/はなのみぞさく",
         "koutei-yamagen": "風による浪のいそにはうぐひすも春もえしらぬ花のみぞ咲く",
         "translation-en": "On the shore of waves by the wind, only flowers bloom that neither the warbler nor spring knows.",
+        "phrase-gloss": [
+          {
+            "phrase": "風による波の磯には鶯も春もえ知らぬ花のみぞ咲く。",
+            "gloss": "wind by wave GEN shore LOC warbler also spring also know NEG flower only EMPH bloom",
+            "words": [
+              {
+                "word": "風",
+                "gloss": "wind"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "よる",
+                "gloss": "close.ATTR"
+              },
+              {
+                "word": "波",
+                "gloss": "wave"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "磯",
+                "gloss": "shore"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "鶯",
+                "gloss": "warbler"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "春",
+                "gloss": "spring"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "え",
+                "gloss": "POT^1"
+              },
+              {
+                "word": "知ら",
+                "gloss": "know.IRR"
+              },
+              {
+                "word": "ぬ",
+                "gloss": "NEG^2.ATTR"
+              },
+              {
+                "word": "花",
+                "gloss": "flower"
+              },
+              {
+                "word": "のみ",
+                "gloss": "only"
+              },
+              {
+                "word": "ぞ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "咲く",
+                "gloss": "bloom.ATTR"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ADJ": "adjective form",
+          "ATTR": "attributive form",
+          "CONJ": "conjunctive particle",
+          "GEN": "genitive particle",
+          "LOC": "locative particle",
+          "POT": "potential auxiliary",
+          "NEG": "negation auxiliary",
+          "EMPH": "emphatic particle"
+        },
         "translation-ja-natural": "風によって波の寄せる磯には、鶯も春も知らない花ばかりが咲いています。",
         "translation-en-natural": "On the shore where the wind blows and the waves rise, only flowers bloom that neither the warbler nor spring knows.",
-        "notes-ja": {
-          "即時文法と調整文法の役割の違い": "即時文法は、状況や背景が共有されており、発話の瞬間に意味が直感的に理解されるような文に適用される。一方、調整文法は、状況が通常と異なる、または因果関係や例外を説明する必要があるときに使われ、意味関係を論理的に整理して伝える役割を担う。",
-          "即時文法における省略の許容": "『waves by the wind』のような表現は、風による波という関係が文脈から明白であるため、'blown' や 'caused' といった語を補わずとも意味が伝わる。この省略は、発話の即時性・軽快さを優先する即時文法の特徴である。",
-          "調整文法における補完の必要性": "調整文法では、『waves blown by the wind』のように因果関係や動作主を明示することで、意味の誤解を防ぎ、論理的整合性を保つ。これは特に物理現象の説明や状況が特殊なときに求められる。",
-          "物理現象と調整文法の関係": "風・波・雪など自然現象を説明する際、単なる描写であれば即時文法で足りるが、原因やメカニズムを伝える場合は調整文法が必要となる。たとえば『雪が降る』は即時文法だが、『寒冷前線の影響で雪が降る』は調整文法に分類される。",
-          "即時文法における理解の前提": "即時文法の成立には、話し手と聞き手の間にある程度の状況共有が必要である。たとえば波と風が見えている状況であれば、『waves by the wind』とだけ言っても意味が通じる。",
-          "調整文法における構文の完成性": "調整文法では、構文的な要素を省略せずに明示することが求められる。'waves by the wind' は不完全とされ、'waves blown by the wind' のように分詞構文や関係詞節によって文法的に完結させる必要がある。",
-          "即時文法における自然性と言いやすさ": "即時文法では、文の短さ・言いやすさ・リズムの良さが重要視される。『waves by the wind』はその典型例であり、自然に口をついて出る発話として成立している。",
-          "調整文法への切り替えの条件": "話し手が物理的因果を説明したいとき、聞き手が状況を知らないとき、あるいは通常と異なる現象に注意を促したいときなど、説明性・明確性が求められる場面では、即時文法から調整文法へと自動的に切り替わる。",
-          "和歌における鳥の英訳の単複判断": {
-            "基本原則": "英語では一般に、鳥（bird）は個体性・視覚的多様性が強調されやすく、複数形 'birds' が基本的に用いられる。しかし、和歌において『うぐひす』『鶴』『ほととぎす』などは、単なる個体や複数の鳥ではなく、春や別離などの季節・情感の象徴として詠まれることが多い。",
-            "詩的訳出の指針": "和歌を英訳する際には、鳥が象徴的に用いられている場合、'the warbler' 'the crane' 'the cuckoo' などのように、単数形＋定冠詞を用いて『種全体』または『詩的な存在』として訳すのが自然である。",
-            "複数形を使う場合": "一方で、具体的に複数の鳥の行動（例：飛び立つ、鳴き交わす）が描かれており、集合的な描写がなされている場合は 'birds' の複数形を用いるのがふさわしい。",
-            "fish / sheep との違い": "'fish' や 'sheep' は、英語においては群れとして捉えられ、単複同形で表されることが多いが、'bird' は個体差や種差が強く意識されるため、複数形 'birds' を基本とする。ただし詩的・象徴的文脈では単数形が有効に働く。"
+        "notes-ja": [
+          {
+            "title": "即時文法と調整文法の役割の違い",
+            "note": "即時文法は、状況や背景が共有されており、発話の瞬間に意味が直感的に理解されるような文に適用される。一方、調整文法は、状況が通常と異なる、または因果関係や例外を説明する必要があるときに使われ、意味関係を論理的に整理して伝える役割を担う。"
+          },
+          {
+            "title": "即時文法における省略の許容",
+            "note": "『waves by the wind』のような表現は、風による波という関係が文脈から明白であるため、'blown' や 'caused' といった語を補わずとも意味が伝わる。この省略は、発話の即時性・軽快さを優先する即時文法の特徴である。"
+          },
+          {
+            "title": "物理現象と調整文法の関係",
+            "note": "風・波・雪など自然現象を説明する際、単なる描写であれば即時文法で足りるが、原因やメカニズムを伝える場合は調整文法が必要となる。たとえば『雪が降る』は即時文法だが、『寒冷前線の影響で雪が降る』は調整文法に分類される。"
+          },
+          {
+            "title": "即時文法における理解の前提",
+            "note": "即時文法の成立には、話し手と聞き手の間にある程度の状況共有が必要である。たとえば波と風が見えている状況であれば、『waves by the wind』とだけ言っても意味が通じる。"
+          },
+          {
+            "title": "調整文法における構文の完成性",
+            "note": "調整文法では、構文的な要素を省略せずに明示することが求められる。'waves by the wind' は不完全とされ、'waves blown by the wind' のように分詞構文や関係詞節によって文法的に完結させる必要がある。"
+          },
+          {
+            "title": "即時文法における自然性と言いやすさ",
+            "note": "即時文法では、文の短さ・言いやすさ・リズムの良さが重要視される。『waves by the wind』はその典型例であり、自然に口をついて出る発話として成立している。"
+          },
+          {
+            "title": "調整文法への切り替えの条件",
+            "note": "話し手が物理的因果を説明したいとき、聞き手が状況を知らないとき、あるいは通常と異なる現象に注意を促したいときなど、説明性・明確性が求められる場面では、即時文法から調整文法へと自動的に切り替わる。"
+          },
+          {
+            "title": "和歌における鳥の英訳の単複判断, 基本原則",
+            "note": "英語では一般に、鳥（bird）は個体性・視覚的多様性が強調されやすく、複数形 'birds' が基本的に用いられる。しかし、和歌において『うぐひす』『鶴』『ほととぎす』などは、単なる個体や複数の鳥ではなく、春や別離などの季節・情感の象徴として詠まれることが多い。"
+          },
+          {
+            "title": "和歌の鳥の英訳における詩的訳出の指針",
+            "note": "和歌を英訳する際には、鳥が象徴的に用いられている場合、'the warbler' 'the crane' 'the cuckoo' などのように、単数形＋定冠詞を用いて『種全体』または『詩的な存在』として訳すのが自然である。"
+          },
+          {
+            "title": "複数形を使う場合",
+            "note": "一方で、具体的に複数の鳥の行動（例：飛び立つ、鳴き交わす）が描かれており、集合的な描写がなされている場合は 'birds' の複数形を用いるのがふさわしい。"
+          },
+          {
+            "title": "fish / sheep との違い",
+            "note": "'fish' や 'sheep' は、英語においては群れとして捉えられ、単複同形で表されることが多いが、'bird' は個体差や種差が強く意識されるため、複数形 'birds' を基本とする。ただし詩的・象徴的文脈では単数形が有効に働く。"
           }
-        },
-        "notes-en": {
-          "Functional Difference Between Immediate and Adjustive Grammar": "Immediate grammar applies when the situation is shared and the meaning is intuitively understood at the moment of speech. Adjustive grammar is used when the situation requires explanation, involves causality, or deviates from the ordinary. It conveys meaning through logical structuring.",
-          "Ellipsis Tolerance in Immediate Grammar": "Phrases like 'waves by the wind' are acceptable in immediate grammar because the causal relationship is evident from context. There is no need to explicitly add verbs like 'blown' or 'caused' since the expression remains understandable and fluid.",
-          "Necessity of Completion in Adjustive Grammar": "In adjustive grammar, expressions like 'waves blown by the wind' are required to explicitly indicate causality or agency. This ensures clarity and grammatical completeness, especially in cases requiring physical or logical explanation.",
-          "Relation Between Physical Phenomena and Adjustive Grammar": "When describing natural phenomena like wind or snow, immediate grammar suffices for simple observations. However, when explaining causes or mechanisms (e.g., 'Snow falls due to a cold front'), adjustive grammar becomes necessary to convey precise information.",
-          "Shared Assumptions in Immediate Grammar": "Immediate grammar presumes some level of shared knowledge between speaker and listener. For example, if wind and waves are visible, simply saying 'waves by the wind' suffices for mutual understanding.",
-          "Grammatical Completion in Adjustive Grammar": "Adjustive grammar avoids ellipsis and favors grammatical completeness. 'Waves by the wind' would be considered structurally incomplete, requiring expressions like 'waves blown by the wind' with participles or relative clauses.",
-          "Naturalness and Brevity in Immediate Grammar": "Immediate grammar favors short, easily spoken, and rhythmically smooth expressions. 'Waves by the wind' exemplifies this, functioning as a natural utterance that flows easily in conversation or poetic context.",
-          "Conditions That Trigger Adjustive Grammar": "Adjustive grammar is triggered when the speaker aims to explain causality, when the listener lacks situational context, or when attention is drawn to an exceptional phenomenon. In these cases, clarity and logical exposition override the immediacy of expression.",
-          "Use of Singular vs. Plural for Birds in Waka Translation": {
-            "General Rule": "In English, 'birds' is typically used in the plural form, reflecting the species' visual diversity and individuality. Unlike 'fish' or 'sheep', which are often treated as mass nouns, 'bird' is generally countable.",
-            "Poetic Translation Principle": "In waka, birds like 'uguisu' (warbler), 'tsuru' (crane), and 'hototogisu' (cuckoo) are often not just literal animals but poetic symbols of seasons or emotions. In such cases, using a singular noun with the definite article—e.g., 'the warbler', 'the crane'—effectively conveys their symbolic role.",
-            "When to Use Plural": "Use the plural form 'birds' when the poem clearly describes multiple birds in action or emphasizes their collective presence (e.g., a flock taking flight or birds singing together).",
-            "Difference from Fish/Sheep": "'Fish' and 'sheep' are often treated as collective or mass nouns in English, and singular form covers the plural meaning. 'Bird', by contrast, is usually pluralized due to its perceived individuality. However, poetic usage permits symbolic singular forms."
+        ],
+        "notes-en": [
+          {
+            "title": "Functional Difference Between Immediate and Adjustive Grammar",
+            "note": "Immediate grammar applies when the situation is shared and the meaning is intuitively understood at the moment of speech. Adjustive grammar is used when the situation requires explanation, involves causality, or deviates from the ordinary. It conveys meaning through logical structuring."
+          },
+          {
+            "title": "Ellipsis Tolerance in Immediate Grammar",
+            "note": "Phrases like 'waves by the wind' are acceptable in immediate grammar because the causal relationship is evident from context. There is no need to explicitly add verbs like 'blown' or 'caused' since the expression remains understandable and fluid."
+          },
+          {
+            "title": "Necessity of Completion in Adjustive Grammar",
+            "note": "In adjustive grammar, expressions like 'waves blown by the wind' are required to explicitly indicate causality or agency. This ensures clarity and grammatical completeness, especially in cases requiring physical or logical explanation."
+          },
+          {
+            "title": "Relation Between Physical Phenomena and Adjustive Grammar",
+            "note": "When describing natural phenomena like wind or snow, immediate grammar suffices for simple observations. However, when explaining causes or mechanisms (e.g., 'Snow falls due to a cold front'), adjustive grammar becomes necessary to convey precise information."
+          },
+          {
+            "title": "Shared Assumptions in Immediate Grammar",
+            "note": "Immediate grammar presumes some level of shared knowledge between speaker and listener. For example, if wind and waves are visible, simply saying 'waves by the wind' suffices for mutual understanding."
+          },
+          {
+            "title": "Grammatical Completion in Adjustive Grammar",
+            "note": "Adjustive grammar avoids ellipsis and favors grammatical completeness. 'Waves by the wind' would be considered structurally incomplete, requiring expressions like 'waves blown by the wind' with participles or relative clauses."
+          },
+          {
+            "title": "Naturalness and Brevity in Immediate Grammar",
+            "note": "Immediate grammar favors short, easily spoken, and rhythmically smooth expressions. 'Waves by the wind' exemplifies this, functioning as a natural utterance that flows easily in conversation or poetic context."
+          },
+          {
+            "title": "Conditions That Trigger Adjustive Grammar",
+            "note": "Adjustive grammar is triggered when the speaker aims to explain causality, when the listener lacks situational context, or when attention is drawn to an exceptional phenomenon. In these cases, clarity and logical exposition override the immediacy of expression."
+          },
+          {
+            "title": "Use of Singular vs. Plural for Birds in Waka Translation, General Rule",
+            "notes": "In English, 'birds' is typically used in the plural form, reflecting the species' visual diversity and individuality. Unlike 'fish' or 'sheep', which are often treated as mass nouns, 'bird' is generally countable."
+          },
+          {
+            "title": "Poetic Translation Principle",
+            "note": "In waka, birds like 'uguisu' (warbler), 'tsuru' (crane), and 'hototogisu' (cuckoo) are often not just literal animals but poetic symbols of seasons or emotions. In such cases, using a singular noun with the definite article—e.g., 'the warbler', 'the crane'—effectively conveys their symbolic role."
+          },
+          {
+            "title": "When to Use Plural",
+            "note": "Use the plural form 'birds' when the poem clearly describes multiple birds in action or emphasizes their collective presence (e.g., a flock taking flight or birds singing together)."
+          },
+          {
+            "title": "Difference from Fish/Sheep",
+            "note": "'Fish' and 'sheep' are often treated as collective or mass nouns in English, and singular form covers the plural meaning. 'Bird', by contrast, is usually pluralized due to its perceived individuality. However, poetic usage permits symbolic singular forms."
           }
-        }
+        ]
       },
       {
         "date": "20250405",
