@@ -20331,13 +20331,137 @@
         ]
       },
       {
-        "date": "20250405",
+        "date": [
+          20250405,
+          20260224
+        ],
         "id": 230,
         "text": "この歌どもを少しよろしと聞きて、船のをさしける翁、月頃の苦しき心やりに詠める、",
         "kana": "このうたどもをすこしよろしとききて、ふねのをさしけるおきな、つきごろのくるしきこころやりによめる、",
         "koutei-yamagen": "この歌どもを、少しよろしと聞きて、船の長しける翁、月日頃の苦しき心やりに詠める、",
         "translation-ja": "この歌どもを、少しよろしと聞いて、船をおさめていた翁が、月頃の苦しき心の晴らしに詠んだ歌は、",
         "translation-en": "Hearing that these songs were somewhat good, the old man who had been commanding the ship composed this poem to ease his painful feelings of about a month, which is...",
+        "phrase-gloss": [
+          {
+            "phrase": "この歌どもを、少しよろしと聞きて、",
+            "gloss": "this poem PL ACC a.little good QUOT hear.CONJ",
+            "words": [
+              {
+                "word": "この",
+                "gloss": "this"
+              },
+              {
+                "word": "歌",
+                "gloss": "poem"
+              },
+              {
+                "word": "ども",
+                "gloss": "PL"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "少し",
+                "gloss": "a.little"
+              },
+              {
+                "word": "よろし",
+                "gloss": "good"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "聞き",
+                "gloss": "hear.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": ".CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "船の長しける翁、月日ごろの苦しき心やりによめる、",
+            "gloss": "ship GEN commander TOP old.man, month.day GEN painful heart relief DAT compose",
+            "words": [
+              {
+                "word": "船",
+                "gloss": "ship"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "長",
+                "gloss": "commander"
+              },
+              {
+                "word": "し",
+                "gloss": "do.ADV"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST.ATTR"
+              },
+              {
+                "word": "翁",
+                "gloss": "old.man"
+              },
+              {
+                "word": "月日",
+                "gloss": "month.day"
+              },
+              {
+                "word": "ごろ",
+                "gloss": "around"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "苦しき",
+                "gloss": "painful.ATTR"
+              },
+              {
+                "word": "心",
+                "gloss": "heart"
+              },
+              {
+                "word": "やり",
+                "gloss": "give.ADV"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "よめ",
+                "gloss": "compose.REALIS"
+              },
+              {
+                "word": "る",
+                "gloss": "PERF.ATTR"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ACC": "accusative particle",
+          "ADJ": "adjective form",
+          "ADV": "adverbial form",
+          "ATTR": "attributive form",
+          "CONJ": "conjunctive particle",
+          "DAT": "dative particle",
+          "GEN": "genitive particle",
+          "PL": "plural marker",
+          "QUOT": "quotative particle"
+        },
         "translation-ja-natural": "この歌が少しはましだろうと聞いて、船の長をしていたおじいさんが、この一ヶ月のつらさをまぎらわせるために詠んだ歌は、",
         "translation-en-natural": "Hearing that these songs were rather decent, the old man who had been in charge of the ship composed this poem to soothe the pain he'd been feeling for about a month, which is...",
         "notes-ja": {
