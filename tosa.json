@@ -12936,7 +12936,7 @@
               },
               {
                 "word": "なる",
-                "gloss": "COP.ATTR"
+                "gloss": "DECL.ATTR"
               }
             ]
           }
@@ -15883,7 +15883,7 @@
               },
               {
                 "word": "なる",
-                "gloss": "COP.ATTR"
+                "gloss": "DECL.ATTR"
               },
               {
                 "word": "と",
@@ -20469,13 +20469,111 @@
         }
       },
       {
-        "date": "20250406",
+        "date": [
+          20250406,
+          20260225
+        ],
         "id": 231,
         "poem": "立つなみを/雪か花かと/吹く風ぞ/よせつゝ人を/はかるべらなる",
         "kana": "たつなみを/ゆきかはなかと/ふくかぜぞ/よせつつひとを/はかるべらなる",
         "koutei-yamagen": "立つなみを雪か花かと吹く風ぞよせつつ人をはかるべらなる",
         "translation-ja": "立つ波を、雪か花かと、吹く風が寄せて、人をだましているらしい。",
         "translation-en": "The wind, blowing waves toward us, makes them seem like snow or flowers, and appears to deceive people.",
+        "phrase-gloss": [
+          {
+            "phrase": "立つ波を雪か花かと吹く風ぞ",
+            "gloss": "rise wave ACC snow or flower QUOT blow wind EMPH",
+            "words": [
+              {
+                "word": "立つ",
+                "gloss": "rise.ATTR"
+              },
+              {
+                "word": "波",
+                "gloss": "wave"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "雪",
+                "gloss": "snow"
+              },
+              {
+                "word": "か",
+                "gloss": "Q"
+              },
+              {
+                "word": "花",
+                "gloss": "flower"
+              },
+              {
+                "word": "か",
+                "gloss": "Q"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "吹く",
+                "gloss": "blow.ATTR"
+              },
+              {
+                "word": "風",
+                "gloss": "wind"
+              },
+              {
+                "word": "ぞ",
+                "gloss": "EMPH"
+              }
+            ]
+          },
+          {
+            "phrase": "よせつつ人をはかるべらなる",
+            "gloss": "blow.toward.ADV person ACC deceive FUT DECL",
+            "words": [
+              {
+                "word": "よせ",
+                "gloss": "bring.near.ADV"
+              },
+              {
+                "word": "つつ",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "はかる",
+                "gloss": "deceive"
+              },
+              {
+                "word": "べら",
+                "gloss": "FUT.IRR"
+              },
+              {
+                "word": "なる",
+                "gloss": "DECL.ATTR"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ADJ": "adjective form",
+          "ATTR": "attributive form",
+          "ACC": "accusative particle",
+          "ADV": "adverbial form",
+          "EMPH": "emphatic particle",
+          "Q": "question particle",
+          "QUOT": "quotative particle"
+        },
         "translation-ja-natural": "立つ波を、雪か花かと吹く風が寄せて、人を惑わせるようだ。",
         "translation-en-natural": "The rising waves and the blowing wind make one wonder if it is snow or flowers, as they seem to deceive people."
       },
@@ -39509,11 +39607,11 @@
               },
               {
                 "word": "べら",
-                "gloss": "seems.NEG.BASE"
+                "gloss": "FUT.IRR"
               },
               {
                 "word": "なり",
-                "gloss": "be"
+                "gloss": "DECL"
               }
             ]
           }
@@ -39521,7 +39619,7 @@
         "abbreviations": {
           "PN": "proper noun（固有名詞：人名・地名など）",
           "ATTR": "attributive（連体形：〜る）",
-          "NEG.BASE": "negative base（否定基本形：〜ね）",
+          "IRR": "irrealis form",
           "NEG": "negative（否定：〜ね）",
           "TOP": "topic（主題：〜は）"
         },
