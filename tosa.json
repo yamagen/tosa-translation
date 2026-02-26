@@ -20578,15 +20578,140 @@
         "translation-en-natural": "The rising waves and the blowing wind make one wonder if it is snow or flowers, as they seem to deceive people."
       },
       {
-        "date": "20250406",
+        "date": [
+          20250406,
+          20260226
+        ],
         "id": 232,
         "text": "この歌どもを人の何かといふを、ある人の又聞きふけりて詠める。",
         "kana": "このうたどもをひとのなにかといふを、あるひとのまたききふけりてよめる。",
         "koutei-yamagen": "この歌どもを人の何かといふを、ある人の又聞きふけりて詠める。",
         "translation-ja": "この歌どもを、人が何かと言うのを、ある人がまた聞き入って詠んだ。",
         "translation-en": "These poems, being spoken of as something or other by people, were heard again attentively by a certain person, who then composed a poem.",
-        "translation-ja-natural": "この歌について人があれこれ言っているのを、ある人がまた聞き込んで、歌を詠みまして。",
-        "translation-en-natural": "Hearing people say various things about these poems, someone listened again and composed a poem in response."
+        "phrase-gloss": [
+          {
+            "phrase": "この歌どもを人の何かといふを、ある人のまた聞きふけりて詠める。",
+            "gloss": "this poem PL ACC person GEN something QUOT say ACC certain person GEN again hear become.absorbed CONJ compose PERF",
+            "words": [
+              {
+                "word": "この",
+                "gloss": "this"
+              },
+              {
+                "word": "歌",
+                "gloss": "poem"
+              },
+              {
+                "word": "ども",
+                "gloss": "PL"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "何か",
+                "gloss": "something"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "いふ",
+                "gloss": "say.ATTR"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "ある",
+                "gloss": "certain"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "また",
+                "gloss": "again"
+              },
+              {
+                "word": "聞き",
+                "gloss": "hear.ADV"
+              },
+              {
+                "word": "ふけり",
+                "gloss": "become.absorbed.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": ".CONJ"
+              },
+              {
+                "word": "詠め",
+                "gloss": "compose.REALIS"
+              },
+              {
+                "word": "る",
+                "gloss": "PERF.ATTR"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ACC": "accusative particle",
+          "ADV": "adverbial form",
+          "ATTR": "attributive form",
+          "CONJ": "conjunctive particle",
+          "GEN": "genitive particle",
+          "PL": "plural marker",
+          "QUOT": "quotative particle",
+          "REALIS": "realis form"
+        },
+        "translation-ja-natural": "この歌について人があれこれ言っているのを、ある人がまた聞きふけって、歌を詠んだのは、",
+        "translation-en-natural": "Hearing people say various things about these poems, someone listened intently and composed a poem:",
+        "notes-ja": [
+          {
+            "title": "二重線路の連鎖",
+            "note": "「この歌どもを人の何かといふを、ある人の又聞きふけりて詠める」は「この歌どもを人の何かといふ」と「この歌どもをある人の又聞きふけりて」という二重の線路が連鎖している構造である。前者は人々がなんやかやと歌を批評し、後者はある人がその歌どもを聞いて耽るという構造である。"
+          },
+          {
+            "title": "接続助詞「を」",
+            "note": "この文では、「この歌どもを人の何かといふを、ある人の又聞きふけりて詠める」という構造の中で、「人の何かといふを」の接続助詞「を」が使われている。「いふを」は「聞きふけって」の目的語と見ることができないでもないが、「耽る」のは歌の鑑賞であろう。"
+          },
+          {
+            "title": "連鎖の並走",
+            "note": "この文は、二重線路が連鎖している構造であるため、前者と後者が並走しているとも言える。前者は人々が歌を批評する線路であり、後者はある人がその歌どもを聞いて耽る線路である。この二つの線路が同時に進行しているため、文全体としては複雑な構造になっているように見えるが、これは日常的な会話、即時連鎖ではよくあることである。連鎖であること、即時文法であることを認めなければ、このような構造の解釈は難しい。"
+          }
+        ],
+        "notes-en": [
+          {
+            "title": "Double-Track Chain Structure",
+            "note": "The sentence 'この歌どもを人の何かといふを、ある人の又聞きふけりて詠める' features a double-track chain structure. The first track is 'この歌どもを人の何かといふ', where people are saying various things about the poems. The second track is 'この歌どもをある人の又聞きふけりて', where a certain person listens intently to the poems. These two tracks run concurrently, creating a complex structure that is common in everyday conversation and immediate chaining."
+          },
+          {
+            "title": "The Role of the Conjunctive Particle 'を'",
+            "note": "In this sentence, the conjunctive particle 'を' is used in the phrase '人の何かといふを'. While it might be tempting to interpret 'いふを' as the object of '聞きふけって', it seems more natural to understand that what the person is absorbed in is the appreciation of the poems rather than the act of hearing criticism."
+          },
+          {
+            "title": "Parallelism of Tracks",
+            "note": "Given that this sentence has a double-track chain structure, it can be said that the first track (people criticizing the poems) and the second track (a certain person listening intently) run in parallel. This simultaneous progression contributes to the overall complexity of the sentence, which is typical in immediate chaining in everyday conversation."
+          }
+        ]
       },
       {
         "date": "20250406",
