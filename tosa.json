@@ -20721,7 +20721,103 @@
         "koutei-yamagen": "その歌よめるもじ三十文字あまり七文字、人皆えあらで笑ふやうなり。",
         "translation-ja": "その歌は詠んだ文字が三十文字あまり七文字で、人々はみな笑わないではいられないようだ。",
         "translation-en": "That poem, having thirty-seven characters, thirty plus seven more, seems to make everyone unable to refrain from laughing.",
-        "translation-ja-natural": "その歌は、詠んだ文字が三十七文字の字あまりで、人々はみな笑わずにはいられないようでした。",
+        "phrase-gloss": [
+          {
+            "phrase": "その歌、よめる文字、三十文字あまり七文字、",
+            "gloss": "that poem, compose PERF character, thirty character more seven character",
+            "words": [
+              {
+                "word": "その",
+                "gloss": "that"
+              },
+              {
+                "word": "歌",
+                "gloss": "poem"
+              },
+              {
+                "word": "よめ",
+                "gloss": "compose.REALIS"
+              },
+              {
+                "word": "る",
+                "gloss": "PERF.ATTR"
+              },
+              {
+                "word": "文字",
+                "gloss": "character"
+              },
+              {
+                "word": "三十",
+                "gloss": "thirty"
+              },
+              {
+                "word": "文字",
+                "gloss": "character"
+              },
+              {
+                "word": "あまり",
+                "gloss": "more"
+              },
+              {
+                "word": "七",
+                "gloss": "seven"
+              },
+              {
+                "word": "文字",
+                "gloss": "character"
+              }
+            ]
+          },
+          {
+            "phrase": "人みな、えあらで、笑ふやうなり。",
+            "gloss": "people all, unable to refrain, laugh seem",
+            "words": [
+              {
+                "word": "人",
+                "gloss": "people"
+              },
+              {
+                "word": "みな",
+                "gloss": "all"
+              },
+              {
+                "word": "え",
+                "gloss": "POT^1"
+              },
+              {
+                "word": "あら",
+                "gloss": "be.IRR"
+              },
+              {
+                "word": "で",
+                "gloss": "NEG^2.CONJ"
+              },
+              {
+                "word": "笑ふ",
+                "gloss": "laugh"
+              },
+              {
+                "word": "やう",
+                "gloss": "seem"
+              },
+              {
+                "word": "なり",
+                "gloss": "DECL"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ATTR": "attributive form",
+          "CONJ": "conjunctive particle",
+          "DECL": "declarative",
+          "IRR": "irrealis form",
+          "NEG": "negative form",
+          "PERF": "perfect aspect",
+          "POT": "potential form",
+          "REALIS": "realis form"
+        },
+        "translation-ja-natural": "その歌は、詠んだ文字が三十七文字の字あまりで、人々はみな笑わずにはいられないようだった。",
         "translation-en-natural": "The poem has thirty-seven characters in all, and everyone seems unable to help but laugh."
       },
       {
