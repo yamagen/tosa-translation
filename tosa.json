@@ -20714,7 +20714,10 @@
         ]
       },
       {
-        "date": "20250406",
+        "date": [
+          20250406,
+          20260227
+        ],
         "id": 233,
         "text": "その歌よめるもじ三十文字あまり七文字、人皆えあらで笑ふやうなり。",
         "kana": "そのうたよめるもじみそもぢあまりななもじ、ひとみなえあらでわらふやうなり。",
@@ -20821,13 +20824,48 @@
         "translation-en-natural": "The poem has thirty-seven characters in all, and everyone seems unable to help but laugh."
       },
       {
-        "date": "20250407",
+        "date": [
+          20250407,
+          20260228
+        ],
         "id": 234,
         "text": "歌ぬしいと氣色あしくてえず。",
         "kana": "うたぬしいとけしきあしくてえず。",
         "koutei-yamagen": "歌ぬし、いと氣色あしくて怨ず。",
         "translation-ja": "歌の詠み手は、とても不機嫌になって、不満を漏らす。",
         "translation-en": "The poet, visibly upset, begins to grumble.",
+        "phrase-gloss": [
+          {
+            "phrase": "歌主、いと気色悪しくて怨ず。",
+            "gloss": "poem.owner, very displeasing and grumble",
+            "words": [
+              {
+                "word": "歌主",
+                "gloss": "poem.owner"
+              },
+              {
+                "word": "いと",
+                "gloss": "very"
+              },
+              {
+                "word": "気色悪しく",
+                "gloss": "displeasing.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": ".CONJ"
+              },
+              {
+                "word": "怨ず",
+                "gloss": "grumble"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ADV": "adverbial form",
+          "CONJ": "conjunctive particle"
+        },
         "translation-ja-natural": "歌の詠み手は、すっかり不機嫌になって、つい不満を口にしてしまう。",
         "translation-en-natural": "The poet gets visibly upset and can't help but grumble."
       },
