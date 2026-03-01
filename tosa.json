@@ -20870,13 +20870,50 @@
         "translation-en-natural": "The poet gets visibly upset and can't help but grumble."
       },
       {
-        "date": "20250407",
+        "date": [
+          20250407,
+          20260301
+        ],
         "id": 235,
         "text": "まねべどもえまねばず。",
         "kana": "まねべどもえまねばず。",
         "koutei-yamagen": "まねべどもえまねばず。",
         "translation-ja": "真似しようとしても、真似できない。",
         "translation-en": "Even if I try to imitate, I cannot.",
+        "phrase-gloss": [
+          {
+            "phrase": "まねべどもえまねばず。",
+            "gloss": "imitate try but cannot imitate",
+            "words": [
+              {
+                "word": "まねべ",
+                "gloss": "imitate.REALIS"
+              },
+              {
+                "word": "ども",
+                "gloss": "even.if"
+              },
+              {
+                "word": "え",
+                "gloss": "POT^1"
+              },
+              {
+                "word": "まねば",
+                "gloss": "imitate.IRR"
+              },
+              {
+                "word": "ず",
+                "gloss": "NEG^2"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "IRR": "irrealis form",
+          "NEG": "negative form",
+          "POT": "potential form",
+          "REALIS": "realis form"
+        },
         "translation-ja-natural": "真似しようとしても、真似できません。",
         "translation-en-natural": "Even if I try to imitate, I cannot.",
         "notes-ja": {
