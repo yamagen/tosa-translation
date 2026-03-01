@@ -20924,14 +20924,64 @@
         }
       },
       {
-        "date": "20250407",
+        "date": [
+          20250407,
+          20260302
+        ],
         "id": 236,
         "text": "書けりともえ讀みあへがたかるべし。",
         "kana": "かけりともえよみあへがたかるべし。",
         "koutei-yamagen": "書けりともえ讀みあへがたかるべし。",
         "translation-ja": "書けたとしても、読んで理解できそうもないだろう。",
         "translation-en": "Even if it is written, it would likely be hard to read through it.",
-        "translation-ja-natural": "たとえ書き取れたとしても、とてもじゃないけど読んでわかるというものではないでしょう。",
+        "phrase-gloss": [
+          {
+            "phrase": "書けりともえ読みあへがたかるべし。",
+            "gloss": "write.PERF even.if POT^1 read finish difficult FUT PROB",
+            "words": [
+              {
+                "word": "書け",
+                "gloss": "write.REALIS"
+              },
+              {
+                "word": "り",
+                "gloss": "PERF"
+              },
+              {
+                "word": "とも",
+                "gloss": "even.if"
+              },
+              {
+                "word": "え",
+                "gloss": "POT^1"
+              },
+              {
+                "word": "読み",
+                "gloss": "read.ADV"
+              },
+              {
+                "word": "あへ",
+                "gloss": "finish.ADV"
+              },
+              {
+                "word": "がたかる",
+                "gloss": "difficult"
+              },
+              {
+                "word": "べし",
+                "gloss": "FUT.PROB"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "FUT": "future tense",
+          "PERF": "perfect aspect",
+          "POT": "potential form",
+          "PROB": "probable",
+          "REALIS": "realis form"
+        },
+        "translation-ja-natural": "たとえ書き取れたとしても、とてもじゃないけど読んでわかるというものではないだろう。",
         "translation-en-natural": "Even if someone managed to write it down, there's no way anyone could really read and make sense of it.",
         "notes-ja": {
           "読みあへがたし／読みすへがたし": "写本によって異同があり、『読みあへがたし』は通読困難を、『読みすへがたし』は据ゑて読む困難を意味するが、後者は本来『読みすゑがたし』と表記すべきである。",
