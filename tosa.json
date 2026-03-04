@@ -21007,25 +21007,98 @@
         }
       },
       {
-        "date": "20250408",
+        "date": [
+          20250408,
+          20260303
+        ],
         "id": 237,
         "text": "今日だにいひ難し。",
         "kana": "けふだにいひがたし。",
         "koutei-yamagen": "今日だにいひ難し。",
         "translation-ja": "今日であっても言いにくい。",
         "translation-en": "Even today, it is hard to say.",
-        "translation-ja-natural": "今日で聞いたばかりでも簡単に言えるものではありません。",
-        "translation-en-natural": "Even though we just heard it today, it's not something one can easily say aloud."
+        "phrase-gloss": [
+          {
+            "phrase": "今日だにいひ難し。",
+            "gloss": "today even say difficult",
+            "words": [
+              {
+                "word": "今日",
+                "gloss": "today"
+              },
+              {
+                "word": "だに",
+                "gloss": "even"
+              },
+              {
+                "word": "いひ",
+                "gloss": "say.ADV"
+              },
+              {
+                "word": "難し",
+                "gloss": "difficult"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ADV": "adverbial form"
+        },
+        "translation-ja-natural": "今日、言えるものではない。",
+        "translation-en-natural": "Even today, it's hard to say."
       },
       {
-        "date": "20250408",
+        "date": [
+          20250408,
+          20260304
+        ],
         "id": 238,
         "text": "まして後にはいかならむ。",
         "kana": "ましてのちにはいかならむ。",
         "koutei-yamagen": "まして後にはいかならむ。",
         "translation-ja": "まして、後にはどうなるのか。",
         "translation-en": "Even more so...what will it be like afterward?",
-        "translation-ja-natural": "まして、後にはどうなるのでしょうか。",
+        "phrase-gloss": [
+          {
+            "phrase": "まして後にはいかならむ。",
+            "gloss": "even more so later even more how become FUT",
+            "words": [
+              {
+                "word": "まして",
+                "gloss": "even more so"
+              },
+              {
+                "word": "後",
+                "gloss": "later"
+              },
+              {
+                "word": "に",
+                "gloss": "in"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "いか",
+                "gloss": "how"
+              },
+              {
+                "word": "なら",
+                "gloss": "become.IRR"
+              },
+              {
+                "word": "む",
+                "gloss": "FUT"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "FUT": "future tense",
+          "TOP": "topic particle"
+        },
+        "translation-ja-natural": "まして、後にはどうなるのか。",
         "translation-en-natural": "Even more so...what will it be like later, I wonder."
       },
       {
