@@ -21102,14 +21102,59 @@
         "translation-en-natural": "Even more so...what will it be like later, I wonder."
       },
       {
-        "date": "20250408",
+        "date": [
+          20250408,
+          20260305
+        ],
         "id": 239,
         "text": "十九日、日あしければ船いださず。",
         "kana": "とおかあまりここのか、ひあしければふねいださず。",
         "koutei-yamagen": "十九日、日あしければ、船いださず。",
-        "translation-ja": "十九日、天気が悪いので、船を出さない。",
-        "translation-en": "On the nineteenth, the weather is bad, so we do not set sail.",
-        "translation-ja-natural": "十九日は天気が悪くて、船が出せませんでした。",
+        "translation-ja": "十九日、天気が悪いので、船を出ない。",
+        "translation-en": "On the nineteenth, the weather is bad, so our ship does not set sail.",
+        "phrase-gloss": [
+          {
+            "phrase": "十九日、日あしければ、船いださず。",
+            "gloss": "nineteenth day, weather bad if, ship set.sail NEG",
+            "words": [
+              {
+                "word": "十九日",
+                "gloss": "nineteenth day"
+              },
+              {
+                "word": "日",
+                "gloss": "weather"
+              },
+              {
+                "word": "あしけれ",
+                "gloss": "bad.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "船",
+                "gloss": "ship"
+              },
+              {
+                "word": "いださ",
+                "gloss": "set.sail.IRR"
+              },
+              {
+                "word": "ず",
+                "gloss": "NEG"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "CONJ": "conjunctive particle",
+          "IRR": "irrealis form",
+          "NEG": "negative form",
+          "REALIS": "realis form"
+        },
+        "translation-ja-natural": "十九日は天気が悪くて、船が出ない。",
         "translation-en-natural": "On the nineteenth, the weather was bad, so we couldn't set sail."
       },
       {
