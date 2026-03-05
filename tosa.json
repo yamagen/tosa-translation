@@ -21165,7 +21165,80 @@
         "koutei-yamagen": "二十日、昨日のやうなれば船いださず、皆人々憂へ歎く。",
         "translation-ja": "二十日、昨日のようであるので船を出さず、皆人々、心配して嘆く。",
         "translation-en": "On the twentieth, since it is like yesterday, we do not set sail, and everyone worries and laments.",
-        "translation-ja-natural": "二十日は昨日のようだったので船を出さず、皆が心配して嘆いていました。",
+        "phrase-gloss": [
+          {
+            "phrase": "二十日。昨日のやうなれば船出ださず、",
+            "gloss": "twentieth day. yesterday like CONJ ship set.sail NEG",
+            "words": [
+              {
+                "word": "二十日",
+                "gloss": "twentieth day"
+              },
+              {
+                "word": "昨日",
+                "gloss": "yesterday"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "やう",
+                "gloss": "like"
+              },
+              {
+                "word": "なれ",
+                "gloss": "become.ADV"
+              },
+              {
+                "word": "ば",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "船",
+                "gloss": "ship"
+              },
+              {
+                "word": "いださ",
+                "gloss": "set.sail.IRR"
+              },
+              {
+                "word": "ず",
+                "gloss": "NEG"
+              }
+            ]
+          },
+          {
+            "phrase": "みな人々憂へ嘆く。",
+            "gloss": "all people worry and lament",
+            "words": [
+              {
+                "word": "みな",
+                "gloss": "all"
+              },
+              {
+                "word": "人々",
+                "gloss": "people"
+              },
+              {
+                "word": "憂へ",
+                "gloss": "worry.ADV"
+              },
+              {
+                "word": "嘆く",
+                "gloss": "lament"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ADV": "adverbial form",
+          "CONJ": "conjunctive particle",
+          "GEN": "genitive particle",
+          "IRR": "irrealis form",
+          "NEG": "negative form"
+        },
+        "translation-ja-natural": "二十日は昨日のようだったので船を出さず、皆が心配して嘆いていた。",
         "translation-en-natural": "On the twentieth, the weather was like the day before, so we didn't set sail, and everyone was worried and lamenting."
       },
       {
