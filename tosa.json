@@ -21411,14 +21411,36 @@
         }
       },
       {
-        "date": "20250409",
+        "date": [
+          20250409,
+          20260308
+        ],
         "id": 242,
         "text": "いとわびし。",
         "kana": "いとわびし。",
         "koutei-yamagen": "いとわびし。",
-        "translation-ja": "とても寂しい。",
+        "translation-ja": "とてもわびしい。",
         "translation-en": "Very lonely.",
-        "translation-ja-natural": "とても寂しいです。",
+        "phrase-gloss": [
+          {
+            "phrase": "いとわびし。",
+            "gloss": "very lonely",
+            "words": [
+              {
+                "word": "いと",
+                "gloss": "very"
+              },
+              {
+                "word": "わびし",
+                "gloss": "lonely"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ADV": "adverbial form"
+        },
+        "translation-ja-natural": "とてもわびしい。",
         "translation-en-natural": "It is very lonely."
       },
       {
