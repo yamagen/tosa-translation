@@ -21158,7 +21158,10 @@
         "translation-en-natural": "On the nineteenth, the weather was bad, so we couldn't set sail."
       },
       {
-        "date": "20250408",
+        "date": [
+          20250408,
+          20260306
+        ],
         "id": 240,
         "text": "二十日、昨日のやうなれば船いださず、皆人々憂へ歎く。",
         "kana": "はつか、きのふのやうなればふねいださず、みなひとびとうれへなげく。",
@@ -21242,14 +21245,147 @@
         "translation-en-natural": "On the twentieth, the weather was like the day before, so we didn't set sail, and everyone was worried and lamenting."
       },
       {
-        "date": "20250408",
+        "date": [
+          20250408,
+          20260307
+        ],
         "id": 241,
         "text": "苦しく心もとなければ、唯日の經ぬる數を、今日いくか、二十日、三十日と數ふれば、およびもそこなはれぬべし。",
         "kana": "くるしくこころもとなければ、ただひのへぬるかずを、けふいくか、はつか、みそかとかぞふれば、およびもそこなはれぬべし。",
         "koutei-yamagen": "苦しく心もとなければ、ただ、日の経ぬる数を、今日いくか、二十日、三十日とかぞふれば、指もそこなはれぬべし。",
         "translation-ja": "苦しくて心もとないので、ただ、日の経ぬる数を、今日いくか、二十日、三十日と数えると、指もそこなわれてしまうだろう。",
         "translation-en": "Because it is painful and anxious, they just count the number of days that have passed: today, how many days? the twentieth, the thirtieth—and if they do so, even their fingers may become damaged.",
-        "translation-ja-natural": "苦しくてなかなか心安らかに過ごせず、ただ過ぎた日を、今日で何日、二十日目、三十日目と指折り数えるうちに、指まで折ってしまったようです。",
+        "phrase-gloss": [
+          {
+            "phrase": "苦しく心もとなければ、",
+            "gloss": "painful and anxious if",
+            "words": [
+              {
+                "word": "苦しく",
+                "gloss": "painful.ADV"
+              },
+              {
+                "word": "心",
+                "gloss": "heart"
+              },
+              {
+                "word": "もとなけれ",
+                "gloss": "anxious.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "ただ、日の経ぬる数を、",
+            "gloss": "just, day pass PERF number",
+            "words": [
+              {
+                "word": "ただ",
+                "gloss": "just"
+              },
+              {
+                "word": "日",
+                "gloss": "day"
+              },
+              {
+                "word": "経ぬ",
+                "gloss": "pass.ADV"
+              },
+              {
+                "word": "る",
+                "gloss": "PERF.ATTR"
+              },
+              {
+                "word": "数",
+                "gloss": "number"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              }
+            ]
+          },
+          {
+            "phrase": "今日いくか、二十日、三十日とかぞふれば、",
+            "gloss": "today how.many, twentieth, thirtieth CONJ count if",
+            "words": [
+              {
+                "word": "今日",
+                "gloss": "today"
+              },
+              {
+                "word": "いくか",
+                "gloss": "how.many"
+              },
+              {
+                "word": "二十日",
+                "gloss": "twentieth day"
+              },
+              {
+                "word": "三十日",
+                "gloss": "thirtieth day"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "かぞふれ",
+                "gloss": "count.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "およびもそこなはれぬべし。",
+            "gloss": "even fingers damage POT PERF FUT",
+            "words": [
+              {
+                "word": "および",
+                "gloss": "fingers"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "そこなは",
+                "gloss": "damage.IRR"
+              },
+              {
+                "word": "れ",
+                "gloss": "POT.ADV"
+              },
+              {
+                "word": "ぬ",
+                "gloss": "PERF.END"
+              },
+              {
+                "word": "べし",
+                "gloss": "FUT"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ADV": "adverbial form",
+          "ACC": "accusative particle",
+          "PERF": "perfect aspect",
+          "ATTR": "attributive form",
+          "CONJ": "conjunctive particle",
+          "FUT": "future tense",
+          "GEN": "genitive particle",
+          "NEG": "negative form",
+          "PROB": "probable",
+          "REALIS": "realis form"
+        },
+        "translation-ja-natural": "苦しくてなかなか心安らかに過ごせず、ただ過ぎた日を、今日で何日、二十日目、三十日目と指折り数えるうちに、指まで折ってしまったそうだ。",
         "translation-en-natural": "It was so painful and uneasy that, just by counting the days...today, the twentieth, the thirtieth...on their fingers, they seemed to have ended up almost breaking them.",
         "notes-ja": {
           "およびもそこなはれぬべし": {
