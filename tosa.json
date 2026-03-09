@@ -21444,14 +21444,17 @@
         "translation-en-natural": "It is very lonely."
       },
       {
-        "date": "20250410",
+        "date": [
+          20250410,
+          20260309
+        ],
         "id": 243,
         "text": "夜はいも寢ず。",
         "kana": "よるはいもねず。",
         "koutei-yamagen": "夜はいも寝ず。",
         "translation-ja": "夜は寝ても寝られない。",
         "translation-en": "At night, I cannot sleep.",
-        "translation-ja-natural": "夜は寝ても寝られません。",
+        "translation-ja-natural": "夜は寝ても寝られない。",
         "translation-en-natural": "At night, I cannot sleep."
       },
       {
