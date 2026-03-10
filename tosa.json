@@ -21518,15 +21518,84 @@
         "translation-en-natural": "The moon rose on the night of the twentieth."
       },
       {
-        "date": "20250410",
+        "date": [
+          20250410,
+          20260311
+        ],
         "id": 245,
         "text": "山のはもなくて海の中よりぞ出でくる。",
         "kana": "やまもはもなくうみのなかよりぞいでくる。",
         "koutei-yamagen": "山のはもなくて海の中よりぞ出でくる。",
         "translation-ja": "山の端もなくて、海の中から出てくる。",
-        "translation-en": "There are no mountain peaks, and it rises from the sea.",
-        "translation-ja-natural": "山の端も見えず、まるで海の中から昇ってくるようです。",
-        "translation-en-natural": "With no mountain ridge in sight, it rises as if from the sea itself."
+        "translation-en": "With no mountain ridges, it rises from the sea.",
+        "phrase-gloss": [
+          {
+            "phrase": "山のはもなくて海の中よりぞ出でくる。",
+            "gloss": "mountain GEN edge even NEG and sea GEN inside from EMPH rise come",
+            "words": [
+              {
+                "word": "山",
+                "gloss": "mountain"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "は",
+                "gloss": "edge"
+              },
+              {
+                "word": "も",
+                "gloss": "even"
+              },
+              {
+                "word": "なく",
+                "gloss": "NEG.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "海",
+                "gloss": "sea"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "中",
+                "gloss": "inside"
+              },
+              {
+                "word": "より",
+                "gloss": "from"
+              },
+              {
+                "word": "ぞ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "出で",
+                "gloss": "rise.ADV"
+              },
+              {
+                "word": "くる",
+                "gloss": "come"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ADV": "adverbial form",
+          "EMPH": "emphatic particle",
+          "GEN": "genitive particle",
+          "NEG": "negative form"
+        },
+        "translation-ja-natural": "山の端も見えず、海の中から昇ってくるように見えます。",
+        "translation-en-natural": "With no mountain ridge in sight, it seems to rise from the sea."
       },
       {
         "date": "20250411",
