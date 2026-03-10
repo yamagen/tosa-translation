@@ -21458,14 +21458,63 @@
         "translation-en-natural": "At night, I cannot sleep."
       },
       {
-        "date": "20250410",
+        "date": [
+          20250410,
+          20260310
+        ],
         "id": 244,
         "text": "二十日の夜の月出でにけり。",
         "kana": "はつかのよるのつきいでにけり。",
         "koutei-yamagen": "二十日の夜の月出でにけり。",
         "translation-ja": "二十日の夜の月が出た。",
         "translation-en": "The moon rose on the night of the twentieth.",
-        "translation-ja-natural": "二十日の夜に月が出ました。",
+        "phrase-gloss": [
+          {
+            "phrase": "二十日の夜の月出でにけり。",
+            "gloss": "twentieth day GEN night GEN moon rise PERF PST",
+            "words": [
+              {
+                "word": "二十日",
+                "gloss": "twentieth day"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "夜",
+                "gloss": "night"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "月",
+                "gloss": "moon"
+              },
+              {
+                "word": "出で",
+                "gloss": "rise.ADV"
+              },
+              {
+                "word": "に",
+                "gloss": "PERF.ADV"
+              },
+              {
+                "word": "けり",
+                "gloss": "PST"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ADV": "adverbial form",
+          "GEN": "genitive particle",
+          "PST": "past tense",
+          "PERF": "perfect aspect"
+        },
+        "translation-ja-natural": "二十日の夜に月が出た。",
         "translation-en-natural": "The moon rose on the night of the twentieth."
       },
       {
