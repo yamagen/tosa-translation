@@ -21598,14 +21598,272 @@
         "translation-en-natural": "With no mountain ridge in sight, it seems to rise from the sea."
       },
       {
-        "date": "20250411",
+        "date": [
+          20250411,
+          20260312
+        ],
         "id": 246,
         "text": "かうやうなるを見てや、むかし安倍の仲麻呂といひける人は、もろこしに渡りて歸りきける時に、船に乘るべき所にて、かの國人馬の餞し、わかれ惜みて、かしこのからうた作りなどしける。",
         "kana": "かうやうなるをみてや、むかしのあべのなかまろといひけるひとは、もりこしにわたりてかへりきけるときに、ふねにのるべきところにて、かのくにびとむまのはなむけし、わかれをしみて、かしこのからうたつくりなどしける。",
         "koutei-yamagen": "かうやうなるを見てや、むかし安倍仲麻呂といひける人は、もろこしに渡りて帰りきける時に、船に乗るべきところにて、かの国人、馬の餞し、わかれ惜しみて、かしこのからうた作りなどしける。",
         "translation-ja": "このようなことを見て、昔、安倍の仲麻呂という人は、唐に渡って帰ってきたとき、船に乗るべき所で、かの国の人々が餞別をし、別れを惜しんで、そこで漢詩を作ったりした。",
         "translation-en": "Seeing such a thing, long ago, a man called Abe no Nakamaro, who had crossed over to China, when he was returning, at the place where he was to board the ship, the people of that country held a farewell and, regretting their parting, composed Chinese poems there.",
-        "translation-ja-natural": "こうした場面を見て、昔、安倍仲麻呂という人が唐からの帰国の際、船に乗ろうとした港で、現地の人々が餞別をして、別れを惜しみ、そこで漢詩を作ったという話を思い出したのです。",
+        "phrase-gloss": [
+          {
+            "phrase": "かうやうなるを見てや、",
+            "gloss": "such a thing DECL see CONJ EMPH",
+            "words": [
+              {
+                "word": "かうやう",
+                "gloss": "such a thing"
+              },
+              {
+                "word": "なる",
+                "gloss": "DECL.ATTR"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "見",
+                "gloss": "see.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "や",
+                "gloss": "EMPH"
+              }
+            ]
+          },
+          {
+            "phrase": "むかし安倍の仲麻呂といひける人は、",
+            "gloss": "long ago Abe GEN Nakamaro QUOT say PST person TOP",
+            "words": [
+              {
+                "word": "むかし",
+                "gloss": "long ago"
+              },
+              {
+                "word": "安倍",
+                "gloss": "Abe.PN"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "仲麻呂",
+                "gloss": "Nakamaro.PN"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "いひ",
+                "gloss": "say.ADV"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST.ATTR"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              }
+            ]
+          },
+          {
+            "phrase": "もろこしに渡りて帰りきけるときに、",
+            "gloss": "China to cross and return come.PST time",
+            "words": [
+              {
+                "word": "もろこし",
+                "gloss": "China.PN"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "渡り",
+                "gloss": "cross.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "帰り",
+                "gloss": "return.ADV"
+              },
+              {
+                "word": "き",
+                "gloss": "come.ADV"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST.ATTR"
+              },
+              {
+                "word": "とき",
+                "gloss": "time"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              }
+            ]
+          },
+          {
+            "phrase": "船に乗るべきところにて、",
+            "gloss": "ship LOC board should place at",
+            "words": [
+              {
+                "word": "船",
+                "gloss": "ship"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "乗る",
+                "gloss": "board"
+              },
+              {
+                "word": "べき",
+                "gloss": "should.ATTR"
+              },
+              {
+                "word": "ところ",
+                "gloss": "place"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "かの国の人々が餞別をし、",
+            "gloss": "that country GEN people GEN farewell do",
+            "words": [
+              {
+                "word": "かの",
+                "gloss": "that"
+              },
+              {
+                "word": "国",
+                "gloss": "country"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "人々",
+                "gloss": "people"
+              },
+              {
+                "word": "が",
+                "gloss": "GEN"
+              },
+              {
+                "word": "餞別",
+                "gloss": "farewell"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "し",
+                "gloss": "do.ADV"
+              }
+            ]
+          },
+          {
+            "phrase": "別れを惜しんで、",
+            "gloss": "parting ACC regret and, ",
+            "words": [
+              {
+                "word": "別れ",
+                "gloss": "parting"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "惜しん",
+                "gloss": "regret.ADV"
+              },
+              {
+                "word": "で",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "かしこの漢詩作りなどしける。",
+            "gloss": "there Chinese poem compose etc do.PST",
+            "words": [
+              {
+                "word": "かしこ",
+                "gloss": "there"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "漢詩",
+                "gloss": "Chinese poem"
+              },
+              {
+                "word": "作り",
+                "gloss": "compose"
+              },
+              {
+                "word": "など",
+                "gloss": "etc"
+              },
+              {
+                "word": "し",
+                "gloss": "do.ADV"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST.ATTR"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ACC": "accusative particle",
+          "DECL": "declarative form",
+          "DAT": "dative particle",
+          "CONJ": "conjunctive particle",
+          "GEN": "genitive particle",
+          "LOC": "locative particle",
+          "PST": "past tense",
+          "QUOT": "quotative particle",
+          "TOP": "topic particle"
+        },
+        "translation-ja-natural": "こうした場面を見て、昔、安倍仲麻呂という人が唐からの帰国の際、船に乗ろうとした港で、現地の人々が餞別をして、別れを惜しみ、そこで漢詩を作ったという話を思い出した。",
         "translation-en-natural": "Seeing a scene like this, it reminded them of the story of Abe no Nakamaro long ago...when he was returning from China, the locals saw him off at the port where he was to board the ship, regretting the parting and composing farewell poems in Chinese."
       },
       {
