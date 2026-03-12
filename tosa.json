@@ -21867,14 +21867,107 @@
         "translation-en-natural": "Seeing a scene like this, it reminded them of the story of Abe no Nakamaro long ago...when he was returning from China, the locals saw him off at the port where he was to board the ship, regretting the parting and composing farewell poems in Chinese."
       },
       {
-        "date": "20250411",
+        "date": [
+          20250411,
+          20260313
+        ],
         "id": 247,
         "text": "あかずやありけむ、二十日の夜の月出づるまでぞありける。",
         "kana": "あかずやありけむ、はつかのよるのつきいづるまでぞありける。",
         "koutei-yamagen": "あかずやありけむ、二十日の夜の月出づるまでぞありける。",
         "translation-ja": "飽き足りなかったのであろう、二十日の夜の月が出るまでいた。",
         "translation-en": "Perhaps they were not satisfied, for they remained until the moon rose on the night of the twentieth.",
-        "translation-ja-natural": "名残惜しかったのでしょうか。二十日の夜、月が昇るまでずっと皆はそこにいたのです。",
+        "phrase-gloss": [
+          {
+            "phrase": "あかずやありけむ、",
+            "gloss": "satisfy NEG EMPH be PST",
+            "words": [
+              {
+                "word": "あか",
+                "gloss": "satisfy.IRR"
+              },
+              {
+                "word": "ず",
+                "gloss": "NEG"
+              },
+              {
+                "word": "や",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "あり",
+                "gloss": "be.ADV"
+              },
+              {
+                "word": "けむ",
+                "gloss": "PST.FUT"
+              }
+            ]
+          },
+          {
+            "phrase": "二十日の夜の月出づるまでぞありける。",
+            "gloss": "twentieth day GEN night GEN moon rise PERF until EMPH be PST",
+            "words": [
+              {
+                "word": "二十日",
+                "gloss": "twentieth day"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "夜",
+                "gloss": "night"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "月",
+                "gloss": "moon"
+              },
+              {
+                "word": "出づ",
+                "gloss": "rise.ADV"
+              },
+              {
+                "word": "る",
+                "gloss": "PERF.ATTR"
+              },
+              {
+                "word": "まで",
+                "gloss": "until"
+              },
+              {
+                "word": "ぞ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "あり",
+                "gloss": "be.ADV"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST.ATTR"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ADV": "adverbial form",
+          "ATTR": "attributive form",
+          "CONJ": "conjunctive particle",
+          "EMPH": "emphatic particle",
+          "GEN": "genitive particle",
+          "IRR": "irrealis form",
+          "NEG": "negative form",
+          "PERF": "perfect aspect",
+          "PST": "past tense"
+        },
+        "translation-ja-natural": "名残惜しかったのだろうか。二十日の夜、月が昇るまでずっと皆はそこにいた。",
+        "translation-en-natural": "Perhaps they were reluctant to part. On the night of the twentieth, everyone stayed there until the moon rose.",
         "notes-ja": {
           "阿倍仲麻呂の挿話": {
             "content": "貫之は、自分たちの送別の場面に重ねて、阿倍仲麻呂の唐での送別の逸話を引く。仲麻呂が和語で詠んだ歌を漢字だけで綴ったところ、唐人に理解されて賞賛されたという話だが、その文脈を受けて、ある人（おそらく貫之自身）は、三笠山ではなく目の前の海から出て海に入る月を詠む。この和歌は、過去と現在、空と海、日本と異国をつなぐ鏡のような構造を持つ。",
