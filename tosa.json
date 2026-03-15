@@ -22018,24 +22018,331 @@
         }
       },
       {
-        "date": "20250412",
+        "date": [
+          20250412,
+          20260314
+        ],
         "id": 248,
         "text": "その月は海よりぞ出でける。",
         "kana": "そのつきはうみよりぞいでける。",
         "koutei-yamagen": "その月は海よりぞ出でける。",
         "translation-ja": "その月は海から出た。",
         "translation-en": "That moon rose from the sea.",
-        "translation-ja-natural": "その月は海から昇ってきました。",
+        "phrase-gloss": [
+          {
+            "phrase": "その月は海よりぞ出でける。",
+            "gloss": "that moon TOP sea from EMPH rise PERF PST",
+            "words": [
+              {
+                "word": "その",
+                "gloss": "that"
+              },
+              {
+                "word": "月",
+                "gloss": "moon"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "海",
+                "gloss": "sea"
+              },
+              {
+                "word": "より",
+                "gloss": "from"
+              },
+              {
+                "word": "ぞ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "出で",
+                "gloss": "rise.ADV"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST.ATTR"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ADV": "adverbial form",
+          "EMPH": "emphatic particle",
+          "PST": "past tense",
+          "TOP": "topic particle"
+        },
+        "translation-ja-natural": "その月は海から昇ってきた。",
         "translation-en-natural": "That moon rose from the sea."
       },
       {
-        "date": "20250412",
+        "date": [
+          20250412,
+          20260315
+        ],
         "id": 249,
         "text": "これを見てぞ仲麻呂のぬし「我が國にはかゝる歌をなむ神代より神もよんたび、今は上中下の人もかうやうに別れ惜み、よろこびもあり、かなしみもある時には詠む」とてよめりける歌、",
         "kana": "これをみてぞなかまろのぬし「わがくににはかかるうたをなむかみよよりかみもよんたび、いまはかみなかしものひともかうやうにわかれおしみ、よろこびもあり、かなしみもあるときにはよむ」とてよめりけるうた、",
         "koutei-yamagen": "これを見てぞ仲麻呂のぬし「我が国にはかゝる歌をなむ神代より神もよんたび、今は上中下の人もかうやうに別れ惜しみ、よろこびもあり、かなしみもある時には詠む」とてよめりける歌、",
         "translation-ja": "これを見て仲麻呂の主は「我が国にはこのような歌を神代より神も詠み、今は上中下の人もこのように別れ惜しみ、喜びもあり、悲しみもある時には詠む」と言って詠んだ歌は、",
         "translation-en": "Seeing this, the Load, Nakamaro said, 'In our country, such songs have been sung since the age of the gods, and now all people, high and low, sing them in times of parting, joy, and sorrow.' He then recited a poem:",
+        "phrase-gloss": [
+          {
+            "phrase": "これを見てぞ仲麻呂のぬし",
+            "gloss": "this ACC see EMPH Nakamaro GEN lord",
+            "words": [
+              {
+                "word": "これ",
+                "gloss": "this"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "見",
+                "gloss": "see.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "ぞ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "仲麻呂",
+                "gloss": "Nakamaro.PN"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "ぬし",
+                "gloss": "lord"
+              }
+            ]
+          },
+          {
+            "phrase": "「我が國にはかゝる歌を",
+            "gloss": "our country LOC such song ACC",
+            "words": [
+              {
+                "word": "我",
+                "gloss": "my"
+              },
+              {
+                "word": "が",
+                "gloss": "GEN"
+              },
+              {
+                "word": "国",
+                "gloss": "country"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "かゝる",
+                "gloss": "such"
+              },
+              {
+                "word": "歌",
+                "gloss": "song"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              }
+            ]
+          },
+          {
+            "phrase": "なむ神代より神もよんたび、",
+            "gloss": "EMPH age of gods from god also four time",
+            "words": [
+              {
+                "word": "なむ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "神代",
+                "gloss": "age of gods"
+              },
+              {
+                "word": "より",
+                "gloss": "from"
+              },
+              {
+                "word": "神",
+                "gloss": "god"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "よん",
+                "gloss": "four"
+              },
+              {
+                "word": "たび",
+                "gloss": "time"
+              }
+            ]
+          },
+          {
+            "phrase": "今は上中下の人もかうやうに別れ惜み、",
+            "gloss": "now TOP high middle low GEN people also such parting regret",
+            "words": [
+              {
+                "word": "今",
+                "gloss": "now"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "上",
+                "gloss": "high"
+              },
+              {
+                "word": "中",
+                "gloss": "middle"
+              },
+              {
+                "word": "下",
+                "gloss": "low"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "人",
+                "gloss": "people"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "かうやう",
+                "gloss": "such"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "別れ",
+                "gloss": "part.ADV"
+              },
+              {
+                "word": "惜み",
+                "gloss": "regret.ADV"
+              }
+            ]
+          },
+          {
+            "phrase": "よろこびもあり、かなしみもある時には詠む」",
+            "gloss": "joy also be and sorrow also be time when read",
+            "words": [
+              {
+                "word": "よろこび",
+                "gloss": "joy"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "あり",
+                "gloss": "be.ADV"
+              },
+              {
+                "word": "かなしみ",
+                "gloss": "sorrow"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "ある",
+                "gloss": "be.ADV"
+              },
+              {
+                "word": "時",
+                "gloss": "time"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "詠む",
+                "gloss": "read"
+              }
+            ]
+          },
+          {
+            "phrase": "とてよめりける歌、",
+            "gloss": "QUOT CONJ read PERF PST song",
+            "words": [
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "よめ",
+                "gloss": "read.REALIS"
+              },
+              {
+                "word": "り",
+                "gloss": "PERF"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST.ATTR"
+              },
+              {
+                "word": "歌",
+                "gloss": "song"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ACC": "accusative particle",
+          "REALIS": "realis form",
+          "ADV": "adverbial form",
+          "ATTR": "attributive form",
+          "EMPH": "emphatic particle",
+          "GEN": "genitive particle",
+          "LOC": "locative particle",
+          "PERF": "perfect aspect",
+          "PST": "past tense",
+          "QUOT": "quotative particle",
+          "TOP": "topic particle"
+        },
         "translation-ja-natural": "これを見て仲麻呂の主は「我が国ではこのような歌を神代より神も詠み、今は上中下の人々もこのように別れを惜しみ、喜びや悲しみの時には詠む」と言って詠んだ歌は、",
         "translation-en-natural": "Seeing this, Nakamaro's lord said, 'In our country, such songs have been sung since the age of the gods, and now all people, high and low, sing them in times of parting, joy, and sorrow.' He then recited a poem:"
       },
