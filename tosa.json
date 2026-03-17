@@ -22347,13 +22347,109 @@
         "translation-en-natural": "Seeing this, Nakamaro's lord said, 'In our country, such songs have been sung since the age of the gods, and now all people, high and low, sing them in times of parting, joy, and sorrow.' He then recited a poem:"
       },
       {
-        "date": "20250412",
+        "date": [
+          20250412,
+          20260316
+        ],
         "id": 250,
         "poem": "あをうなばら/ふりさけ見れば/春日なる/三笠の山に/いでし月かも",
         "kana": "あをうなばら/ふりさけみれば/かすがなる/みかさのやまに/いでしつきかも",
         "koutei-yamagen": "青海原/ふりさけ見れば/春日なる/三笠の山に/出でし月かも",
         "translation-ja": "青い海原を振り返ってみると、春日にある三笠山に出たのと同じ月なのだ。",
         "translation-en": "Looking back at the blue sea, the moon that rose over Mount Mikasa in Kasuga is the same moon that has now risen here.",
+        "phrase-gloss": [
+          {
+            "phrase": "あをうなばら",
+            "gloss": "blue sea",
+            "words": [
+              {
+                "word": "あを",
+                "gloss": "blue"
+              },
+              {
+                "word": "うなばら",
+                "gloss": "sea"
+              }
+            ]
+          },
+          {
+            "phrase": "ふりさけ見れば",
+            "gloss": "look back and see if",
+            "words": [
+              {
+                "word": "ふりさけ",
+                "gloss": "look.back.ADV"
+              },
+              {
+                "word": "見れ",
+                "gloss": "see.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "春日なる三笠の山にいでし月かも",
+            "gloss": "Kasuga be Mount Mikasa LOC rise.PST moon Q also",
+            "words": [
+              {
+                "word": "春日",
+                "gloss": "Kasuga.PN"
+              },
+              {
+                "word": "なる",
+                "gloss": "be.ATTR"
+              },
+              {
+                "word": "三笠",
+                "gloss": "Mikasa.PN"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "山",
+                "gloss": "mountain"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "いで",
+                "gloss": "rise.ADV"
+              },
+              {
+                "word": "し",
+                "gloss": "PST.ATTR"
+              },
+              {
+                "word": "月",
+                "gloss": "moon"
+              },
+              {
+                "word": "か",
+                "gloss": "Q"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ADV": "adverbial form",
+          "ATTR": "attributive form",
+          "CONJ": "conjunctive particle",
+          "GEN": "genitive particle",
+          "LOC": "locative particle",
+          "PST": "past tense",
+          "PN": "proper noun"
+        },
         "translation-ja-natural": "青い海原を振り返ってみると、春日にある三笠山に出たのと同じ月が昇っているのですね。",
         "translation-en-natural": "Looking back at the blue sea, the same moon that rose over Mount Mikasa in Kasuga is now rising here."
       },
