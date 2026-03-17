@@ -22454,13 +22454,52 @@
         "translation-en-natural": "Looking back at the blue sea, the same moon that rose over Mount Mikasa in Kasuga is now rising here."
       },
       {
-        "date": "20250412",
+        "date": [
+          20250412,
+          20260317
+        ],
         "id": 251,
         "text": "とぞよめりける。",
         "kana": "とぞよめりける。",
         "koutei-yamagen": "とぞよめりける。",
         "translation-ja": "と詠んだ。",
         "translation-en": "So he recited.",
+        "phrase-gloss": [
+          {
+            "phrase": "とぞよめりける。",
+            "gloss": "QUOT EMPH read PERF PST",
+            "words": [
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "ぞ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "よめ",
+                "gloss": "read.REALIS"
+              },
+              {
+                "word": "り",
+                "gloss": "PERF.ADV"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST.ATTR"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ADV": "adverbial form",
+          "ATPR": "attributive form",
+          "EMPH": "emphatic particle",
+          "PERF": "perfect aspect",
+          "PST": "past tense",
+          "QUOT": "quotative particle"
+        },
         "translation-ja-natural": "と詠みました。"
       },
       {
