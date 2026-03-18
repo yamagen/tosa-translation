@@ -21374,9 +21374,9 @@
           }
         ],
         "abbreviations": {
-          "ADV": "adverbial form",
           "ACC": "accusative particle",
           "PERF": "perfect aspect",
+          "ADV": "adverbial form",
           "ATTR": "attributive form",
           "CONJ": "conjunctive particle",
           "FUT": "future tense",
@@ -22503,13 +22503,214 @@
         "translation-ja-natural": "と詠みました。"
       },
       {
-        "date": "20250412",
+        "date": [
+          20250412,
+          20260318
+        ],
         "id": 252,
         "text": "かの國の人聞き知るまじくおもほえたれども、ことの心を男文字にさまを書き出して、こゝの詞傳へたる人にいひ知らせければ、心をや聞き得たりけむ、いと思ひの外になむめでける。",
         "kana": "かのくにのひとききしるまじくおもほえたれども、ことのこころををとこもじにさまをかきいだして、こゝのことばつたへたるひとにいひしらせければ、こころをやききえたりけむ、いと思ひのほかになむめでける。",
         "koutei-yamagen": "かの国の人聞き知るまじくおもほえたれども、ことの心を男文字にさまを書き出して、ここの詞伝へたる人にいひ知らせければ、心をや聞き得たりけむ、いと思ひの外になむめでける。",
-        "translation-ja": "その国の人には、わかるまいと思えたのだが、ことの心を男文字で様子を書き出して、ここの言葉を伝えていた人に言い知らせたところ、心を聞き得たのだろうか、思いのほかにとても賞賛したのだった。",
-        "translation-en": "It seemed they would not understand it, but the essence of the poem was transcribed in Chinese characters and explained to someone who had conveyed the words here. Perhaps they grasped its meaning—for to my great surprise, they praised it most highly.",
+        "translation-ja": "その国の人、聞き知ることはないだろうと思えたのだが、ことの心を男文字にして様を書き出して、ここの言葉を伝えていた人に言い知らせたところ、心を聞き得たのだろうか、とても思いのほかにとくに賞賛したのだった。",
+        "translation-en": "I thought the people of that country wouldn't understand the meaning, but when I wrote out the intent of the poem in Chinese characters and had someone familiar with the language convey it, they somehow seemed to grasp it...and to my surprise, they praised it most warmly.",
+        "phrase-gloss": [
+          {
+            "phrase": "かの國の人聞き知るまじくおもほえたれども、",
+            "gloss": "that country GEN people hear know NEG think EMPH but",
+            "words": [
+              {
+                "word": "かの",
+                "gloss": "that"
+              },
+              {
+                "word": "国",
+                "gloss": "country"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "人",
+                "gloss": "people"
+              },
+              {
+                "word": "聞き",
+                "gloss": "hear.ADV"
+              },
+              {
+                "word": "知る",
+                "gloss": "know"
+              },
+              {
+                "word": "まじく",
+                "gloss": "NEG.FUT.ADV"
+              },
+              {
+                "word": "思ほえ",
+                "gloss": "think.ADV"
+              },
+              {
+                "word": "たれ",
+                "gloss": "PERF.REALIS"
+              },
+              {
+                "word": "ど",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              }
+            ]
+          },
+          {
+            "phrase": "ことの心を男文字にさまを書き出して、こゝの詞傳へたる人にいひ知らせければ、",
+            "gloss": "thing GEN heart ACC man character in form write out and here GEN word convey person DAT tell",
+            "words": [
+              {
+                "word": "こと",
+                "gloss": "thing"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "心",
+                "gloss": "heart"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "男文字",
+                "gloss": "man.character"
+              },
+              {
+                "word": "に",
+                "gloss": "in"
+              },
+              {
+                "word": "さま",
+                "gloss": "form"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "書き",
+                "gloss": "write.ADV"
+              },
+              {
+                "word": "出し",
+                "gloss": "out.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "こゝ",
+                "gloss": "here"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "詞",
+                "gloss": "word"
+              },
+              {
+                "word": "傳へ",
+                "gloss": "convey.ADV"
+              },
+              {
+                "word": "たる",
+                "gloss": "PERF.ATTR"
+              },
+              {
+                "word": "人",
+                "gloss": ""
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "いひ",
+                "gloss": "tell.ADV"
+              },
+              {
+                "word": "知ら",
+                "gloss": "know.IRR"
+              },
+              {
+                "word": "せ",
+                "gloss": "CAUS.ADV"
+              },
+              {
+                "word": "けれ",
+                "gloss": "PST.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "心をや聞き得たりけむ、",
+            "gloss": "heart ACC Q hear get PERF PST.FUT,",
+            "words": [
+              {
+                "word": "心",
+                "gloss": "heart"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "や",
+                "gloss": "Q"
+              },
+              {
+                "word": "聞き",
+                "gloss": "hear.ADV"
+              },
+              {
+                "word": "得",
+                "gloss": "get."
+              },
+              {
+                "word": "たり",
+                "gloss": "PERF.ADV"
+              },
+              {
+                "word": "けむ",
+                "gloss": "PST.FUT"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ACC": "accusative particle",
+          "CAUS": "causative auxiliary",
+          "Q": "question particle",
+          "FUT": "future tense",
+          "EMPH": "emphatic particle",
+          "GEN": "genitive particle",
+          "IRR": "irrealis form",
+          "NEG": "negative form",
+          "PERF": "perfect aspect",
+          "PST": "past tense",
+          "REALIS": "realis form",
+          "DAT": "dative particle"
+        },
         "translation-ja-natural": "相手の国の人には意味は通じないだろうと思っていたのですが、和歌の趣旨を漢字で書き表して、この地のことばで伝えられる人に頼んでみたところ、なんと、気持ちが通じたのか、思いがけないほど賞賛されたのです。",
         "translation-en-natural": "I thought the people of that country wouldn't understand the meaning, but when I wrote out the intent of the poem in Chinese characters and had someone familiar with the language convey it, they somehow seemed to grasp it...and to my surprise, they praised it most warmly."
       },
@@ -24473,7 +24674,7 @@
               },
               {
                 "word": "ど",
-                "gloss": "although"
+                "gloss": "CONJ"
               }
             ]
           },
@@ -24969,7 +25170,7 @@
               },
               {
                 "word": "ど",
-                "gloss": "COND"
+                "gloss": "CONJ"
               }
             ]
           },
