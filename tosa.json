@@ -22715,14 +22715,169 @@
         "translation-en-natural": "I thought the people of that country wouldn't understand the meaning, but when I wrote out the intent of the poem in Chinese characters and had someone familiar with the language convey it, they somehow seemed to grasp it...and to my surprise, they praised it most warmly."
       },
       {
-        "date": "20250412",
+        "date": [
+          20250412,
+          20260319
+        ],
         "id": 253,
         "text": "もろこしとこの國とはことことなるものなれど、月の影は同じことなるべければ人の心も同じことにやあらむ。",
         "kana": "もろこしとこのくにとはことことなるものなれど、つきのかげはおなじことなるべければひとのこころもおなじことにやあらむ。",
         "koutei-yamagen": "もろこしとこの國とは言異なるものなれど、月の影は同じことなるべければ人の心も同じことにやあらむ。",
         "translation-ja": "唐とこの国とは言葉は異なるものだが、月の影は同じことなので、人の心も同じことなのだろうか。",
         "translation-en": "Though the language of China and this country is different, the moon light is the same, so perhaps human hearts are the same as well.",
-        "translation-ja-natural": "唐とこの国とは言葉は異なるものですが、月の光は同じですから、人の心も同じことなのでしょうか。",
+        "phrase-gloss": [
+          {
+            "phrase": "もろこしとこの國とはことことなるものなれど、",
+            "gloss": "China and this country with TOP language different thing be CONJ",
+            "words": [
+              {
+                "word": "もろこし",
+                "gloss": "China"
+              },
+              {
+                "word": "と",
+                "gloss": "and"
+              },
+              {
+                "word": "この",
+                "gloss": "this"
+              },
+              {
+                "word": "国",
+                "gloss": "country"
+              },
+              {
+                "word": "と",
+                "gloss": "with"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "こと",
+                "gloss": "language"
+              },
+              {
+                "word": "ことなる",
+                "gloss": "be.different.ATTR"
+              },
+              {
+                "word": "もの",
+                "gloss": "thing"
+              },
+              {
+                "word": "なれ",
+                "gloss": "be.REALIS"
+              },
+              {
+                "word": "ど",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "月の影は同じことなるべければ",
+            "gloss": "moon GEN shadow TOP same thing be should CONJ",
+            "words": [
+              {
+                "word": "月",
+                "gloss": "moon"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "影",
+                "gloss": "shadow"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "同じ",
+                "gloss": "same"
+              },
+              {
+                "word": "こと",
+                "gloss": "thing"
+              },
+              {
+                "word": "なる",
+                "gloss": "be.ATTR"
+              },
+              {
+                "word": "べけれ",
+                "gloss": "should.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "人の心も同じことにやあらむ。",
+            "gloss": "people GEN heart also same thing Q be FUT",
+            "words": [
+              {
+                "word": "人",
+                "gloss": "people"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "心",
+                "gloss": "heart"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "同じ",
+                "gloss": "same"
+              },
+              {
+                "word": "こと",
+                "gloss": "thing"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "や",
+                "gloss": "Q"
+              },
+              {
+                "word": "あら",
+                "gloss": "be.IRR"
+              },
+              {
+                "word": "む",
+                "gloss": "FUT"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ACC": "accusative particle",
+          "ATTR": "attributive form",
+          "CONJ": "conjunctive particle",
+          "DAT": "dative particle",
+          "FUT": "future tense",
+          "GEN": "genitive particle",
+          "IRR": "irrealis form",
+          "Q": "question particle",
+          "REALIS": "realis form",
+          "TOP": "topic particle"
+        },
+        "translation-ja-natural": "唐とこの国とは言葉は異なるものですが、月の光は同じですから、人の心も同じでしょうか。",
         "translation-en-natural": "Though the language of China and this country is different, the moon's shadow is the same, so perhaps human hearts are the same as well.",
         "notes-ja": {
           "校訂のオリジナル": "もろこしとこの國とはこと（ばイ有）ことなるものなれど、月の影は同じことなるべければ人の心も同じことにやあらむ。"
