@@ -22884,13 +22884,89 @@
         }
       },
       {
-        "date": "20250413",
+        "date": [
+          20250413,
+          20260320
+        ],
         "id": 254,
         "text": "さて今そのかみを思ひやりて、或人のよめる歌、",
         "kana": "さていまそのかみをおもひやりて、あるひとのよめるうた、",
         "koutei-yamagen": "さて今、そのかみを思ひやりて、ある人の詠める歌、",
         "translation-ja": "さて、今、その時を思いやって、ある人が詠んだ歌は、",
         "translation-en": "Now, recalling that time, a poem composed by a certain person is:",
+        "phrase-gloss": [
+          {
+            "phrase": "さて今そのかみを思ひやりて、ある人のよめる歌、",
+            "gloss": "then now that hair ACC think give CONJ some person GEN read PERF poem",
+            "words": [
+              {
+                "word": "さて",
+                "gloss": "then"
+              },
+              {
+                "word": "今",
+                "gloss": "now"
+              },
+              {
+                "word": "その",
+                "gloss": "that"
+              },
+              {
+                "word": "かみ",
+                "gloss": "time"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "思ひ",
+                "gloss": "think.ADV"
+              },
+              {
+                "word": "やり",
+                "gloss": "give.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "ある",
+                "gloss": "some"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "よめ",
+                "gloss": "compose.REALIS"
+              },
+              {
+                "word": "る",
+                "gloss": "PERF.ATTR"
+              },
+              {
+                "word": "歌",
+                "gloss": "poem"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ACC": "accusative particle",
+          "ADV": "adverbial form",
+          "ATTR": "attributive form",
+          "PERF": "perfect aspect",
+          "REALIS": "realis form",
+          "CONJ": "conjunctive particle",
+          "GEN": "genitive particle"
+        },
         "translation-ja-natural": "さて、今、その時を思い出して、ある人が詠んだ歌は、",
         "translation-en-natural": "Now, recalling that time, a poem composed by a certain person is:"
       },
