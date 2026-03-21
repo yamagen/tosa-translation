@@ -23099,14 +23099,61 @@
         "translation-en-natural": "In the capital, it was seen at the mountain's edge, but here, the moon rises from the waves and sinks into them."
       },
       {
-        "date": "20250413",
+        "date": [
+          20250413,
+          20260322
+        ],
         "id": 256,
         "text": "廿一日、卯の時ばかりに船出す。",
         "kana": "はつかあまりついたち、うのときばかりにふねいだす。",
         "koutei-yamagen": "二十一日、卯の時ばかりに船出だす。",
         "translation-ja": "二十一日、卯の時ばかりに船出した。",
         "translation-en": "On the twenty-first, we set sail at the hour of the rabbit.",
-        "translation-ja-natural": "二十一日、朝6時ごろに船を出しました。",
+        "phrase-gloss": [
+          {
+            "phrase": "廿一日、卯の時ばかりに船出す。",
+            "gloss": "twenty-first day, rabbit GEN hour around LOC ship set sail",
+            "words": [
+              {
+                "word": "廿一日",
+                "gloss": "twenty-first day"
+              },
+              {
+                "word": "卯",
+                "gloss": "rabbit"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "時",
+                "gloss": "hour"
+              },
+              {
+                "word": "ばかり",
+                "gloss": "around"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "船",
+                "gloss": "ship"
+              },
+              {
+                "word": "出す",
+                "gloss": "set sail"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "GEN": "genitive particle",
+          "LOC": "locative particle"
+        },
+        "translation-ja-natural": "二十一日、朝6時ごろに船出した。",
         "translation-en-natural": "On the twenty-first, we set sail at around six in the morning."
       },
       {
