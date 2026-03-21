@@ -22968,16 +22968,133 @@
           "GEN": "genitive particle"
         },
         "translation-ja-natural": "さて、今、その時を思い出して、ある人が詠んだ歌は、",
-        "translation-en-natural": "Now, recalling that time, a poem composed by a certain person is:"
+        "translation-en-natural": "Now, recalling that time, a poem composed by a certain person is:",
+        "notes-ja": [
+          {
+            "title": "「かみ」について",
+            "note": "「かみ」はもともと「上」で、辞書では「ひと続きのものの初め」を表す語とされます。その意味が空間だけでなく時間にも広がって、「時間的に古い方。いにしえ。むかし」という意味を持つようになります。つまり、「上流」が川のはじまりであるのと同じ発想で、時間の流れでも「かみ」は前の方、先の方、古い方を表すわけです。ですから、「そのかみ」は文字どおりには「その上」ですが、慣用的には「その時」「そのころ」、さらに現在から振り返る文脈では「その昔」「往時」という意味になります。実際、辞書でも「そのかみ」には、第一に「事のあったその時」、第二に「過ぎさったその時。そのむかし。そのいにしえ。往時」という二つの意味が立てられています。"
+          }
+        ],
+        "notes-en": [
+          {
+            "title": "About 「かみ」",
+            "note": "「かみ」 originally meant 'upper' and is defined in dictionaries as 'the beginning of a continuous thing.' This meaning expanded from spatial to temporal, coming to mean 'the earlier time; the past; old times.' Just as 'upstream' refers to the beginning of a river, in the flow of time, 'かみ' refers to the earlier, preceding, or older part. Therefore, while 'そのかみ' literally means 'that upper,' it is conventionally used to mean 'that time' or 'that period,' and in contexts looking back from the present, it can mean 'that old time' or 'the past.' In fact, dictionaries list two meanings for 'そのかみ': first, 'the time when the event occurred,' and second, 'the time that has passed; that old time; the past.'"
+          }
+        ]
       },
       {
-        "date": "20250413",
+        "date": [
+          20250413,
+          20260321
+        ],
         "id": 255,
         "poem": "都にて/やまのはに見し/月なれど/なみより出でゝ/なみにこそ入れ",
         "kana": "みやこにて/やまのはにみし/つきなれど/なみよりいでて/なみにこそいれ",
         "koutei-yamagen": "都にて/山の端に見し/月なれど/波より出でて/波にこそ入れ",
         "translation-ja": "都では山の端に見た月だが、波より出て波に入るのだ。",
         "translation-en": "In the capital, it was seen at the mountain's edge, but it rises from the waves and sinks into them.",
+        "phrase-gloss": [
+          {
+            "phrase": "都にてやまのはに見し月なれど",
+            "gloss": "capital LOC CONJ mountain GEN edge LOC see PST moon be CONJ",
+            "words": [
+              {
+                "word": "都",
+                "gloss": "capital"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "山",
+                "gloss": "mountain"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "端",
+                "gloss": "edge"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "見",
+                "gloss": "see.ADV"
+              },
+              {
+                "word": "し",
+                "gloss": "PST.ATTR"
+              },
+              {
+                "word": "月",
+                "gloss": "moon"
+              },
+              {
+                "word": "なれ",
+                "gloss": "be.REALIS"
+              },
+              {
+                "word": "ど",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "なみより出でてなみにこそ入れ",
+            "gloss": "wave than rise.ADV wave EMPH sink.ADV",
+            "words": [
+              {
+                "word": "なみ",
+                "gloss": "wave"
+              },
+              {
+                "word": "より",
+                "gloss": "than"
+              },
+              {
+                "word": "出で",
+                "gloss": "rise.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "なみ",
+                "gloss": "wave"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "こそ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "入れ",
+                "gloss": "enter.IMP"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ADV": "adverbial form",
+          "LOC": "locative particle",
+          "PST": "past tense",
+          "REALIS": "realis form",
+          "IMP": "imperative form",
+          "EMPH": "emphatic particle"
+        },
         "translation-ja-natural": "都では山の端に見た月ですが、ここの月は波から出てまた波に入るのです。",
         "translation-en-natural": "In the capital, it was seen at the mountain's edge, but here, the moon rises from the waves and sinks into them."
       },
