@@ -23157,14 +23157,48 @@
         "translation-en-natural": "On the twenty-first, we set sail at around six in the morning."
       },
       {
-        "date": "20250413",
+        "date": [
+          20250413,
+          20260323
+        ],
         "id": 257,
         "text": "皆人々の船出づ。",
         "kana": "みなひとびとのふねいづ。",
         "koutei-yamagen": "皆人々の船出づ。",
-        "translation-ja": "皆、人々の船が出航する。",
+        "translation-ja": "皆、人々の船が出る。",
         "translation-en": "Everyone's ships set sail.",
-        "translation-ja-natural": "皆、人々の船が出航します。",
+        "phrase-gloss": [
+          {
+            "phrase": "皆人々の船出づ。",
+            "gloss": "everyone people GEN ship set sail",
+            "words": [
+              {
+                "word": "皆",
+                "gloss": "everyone"
+              },
+              {
+                "word": "人々",
+                "gloss": "people"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "船",
+                "gloss": "ship"
+              },
+              {
+                "word": "出づ",
+                "gloss": "set.sail"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "GEN": "genitive particle"
+        },
+        "translation-ja-natural": "皆、人々の船が出航する。",
         "translation-en-natural": "Everyone's ships set sail."
       },
       {
