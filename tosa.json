@@ -23202,14 +23202,138 @@
         "translation-en-natural": "Everyone's ships set sail."
       },
       {
-        "date": "20250413",
+        "date": [
+          20250413,
+          20260324
+        ],
         "id": 258,
         "text": "これを見れば春の海に秋の木の葉しも散れるやうにぞありける。",
         "kana": "これをみればはるのうみにあきのこのはしもちられるやうにぞありける。",
         "koutei-yamagen": "これを見れば春の海に秋の木の葉しも散れるやうにぞありける。",
         "translation-ja": "これを見れば、春の海に秋の木の葉が散っているようであった。",
         "translation-en": "Looking at this, it was as if autumn leaves were scattered on the spring sea.",
-        "translation-ja-natural": "これを見ると、まるで春の海に秋の木の葉が散っているようでした。",
+        "phrase-gloss": [
+          {
+            "phrase": "これを見れば",
+            "gloss": "this ACC see.REALIS CONJ",
+            "words": [
+              {
+                "word": "これ",
+                "gloss": "this"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "見れ",
+                "gloss": "see.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "春の海に秋の木の葉しも",
+            "gloss": "spring GEN sea LOC autumn GEN tree GEN leaf EMPH also",
+            "words": [
+              {
+                "word": "春",
+                "gloss": "spring"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "海",
+                "gloss": "sea"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "秋",
+                "gloss": "autumn"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "木",
+                "gloss": "tree"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "葉",
+                "gloss": "leaf"
+              },
+              {
+                "word": "し",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              }
+            ]
+          },
+          {
+            "phrase": "散れるやうにぞありける",
+            "gloss": "scatter.ATTR way EMPH be.PST.ATTR",
+            "words": [
+              {
+                "word": "散れ",
+                "gloss": "scatter.REALIS"
+              },
+              {
+                "word": "る",
+                "gloss": "PERF.ATTR"
+              },
+              {
+                "word": "やう",
+                "gloss": "way"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "ぞ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "あり",
+                "gloss": "be.ADV"
+              },
+              {
+                "word": "ける",
+                "gloss": "PST.ATTR"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ACC": "accusative particle",
+          "ATTR": "attributive form",
+          "CONJ": "conjunctive particle",
+          "DAT": "dative particle",
+          "EMPH": "emphatic particle",
+          "PERF": "perfect aspect",
+          "PST": "past tense",
+          "REALIS": "realis form",
+          "ADV": "adverbial form",
+          "GEN": "genitive particle",
+          "LOC": "locative particle"
+        },
+        "translation-ja-natural": "これを見ると、まるで春の海に秋の木の葉が散っているようだ。",
         "translation-en-natural": "Looking at this, it was as if autumn leaves were scattered on the spring sea."
       },
       {
