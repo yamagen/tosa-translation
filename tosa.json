@@ -23337,13 +23337,120 @@
         "translation-en-natural": "Looking at this, it was as if autumn leaves were scattered on the spring sea."
       },
       {
-        "date": "20250414",
+        "date": [
+          20250414,
+          20260325
+        ],
         "id": 259,
         "text": "おぼろげの願に依りてにやあらむ、風も吹かずよき日いできて漕ぎ行く。",
         "kana": "おぼろげのぐわんによりてにやあらむ、かぜもふかずよきひいできてこぎいく。",
         "koutei-yamagen": "おぼろげの願に依りてにやあらむ、風も吹かずよき日いできて漕ぎ行く。",
         "translation-ja": "並々でない願いによってであろうか、風も吹かず、よい日が現れて、漕いで行く。",
         "translation-en": "Due to an earnest prayer, perhaps, the wind does not blow, a good day appears, and it rows and goes.",
+        "phrase-gloss": [
+          {
+            "phrase": "おぼろげの願に依りてにやあらむ",
+            "gloss": "earnest GEN prayer DAT depend CONJ DAT Q be FUT",
+            "words": [
+              {
+                "word": "おぼろげ",
+                "gloss": "earnest"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "願",
+                "gloss": "prayer"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "依り",
+                "gloss": "depend.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "や",
+                "gloss": "Q"
+              },
+              {
+                "word": "あら",
+                "gloss": "be.IRR"
+              },
+              {
+                "word": "む",
+                "gloss": "FUT"
+              }
+            ]
+          },
+          {
+            "phrase": "風も吹かずよき日いできて漕ぎ行く",
+            "gloss": "wind also not blow good day appear and row go",
+            "words": [
+              {
+                "word": "風",
+                "gloss": "wind"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "吹か",
+                "gloss": "blow.IRR"
+              },
+              {
+                "word": "ず",
+                "gloss": "NEG"
+              },
+              {
+                "word": "よき",
+                "gloss": "good"
+              },
+              {
+                "word": "日",
+                "gloss": "day"
+              },
+              {
+                "word": "いで",
+                "gloss": "out.ADV"
+              },
+              {
+                "word": "て",
+                "glosss": "CONJ"
+              },
+              {
+                "word": "こぎ",
+                "gloss": "row.ADV"
+              },
+              {
+                "word": "いく",
+                "gloss": "go"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "GEN": "genitive particle",
+          "DAT": "dative particle",
+          "FUT": "future tense",
+          "IRR": "irrealis form",
+          "Q": "question particle",
+          "CONJ": "conjunctive particle",
+          "NEG": "negative auxiliary",
+          "ADV": "adverbial form"
+        },
         "translation-ja-natural": "ひたすら願ったおかげでしょうか、風もなく、穏やかな日が訪れ、私たちはようやく船を漕ぎ出していけます。",
         "translation-en-natural": "Maybe it's thanks to our prayers. The wind is still, the day is calm, and we can finally row out at last.",
         "notes-ja": {
