@@ -23554,15 +23554,47 @@
         "translation-en-natural": "In the meantime, a child comes along, hoping to be sent with us."
       },
       {
-        "date": "20250414",
+        "date": [
+          20250414,
+          20260327
+        ],
         "id": 261,
         "text": "それがうたふ舟うた、",
         "kana": "それがうたふふなうた、",
         "koutei-yamagen": "それがうたふ舟うた、",
-        "translation-ja": "その子が歌う舟歌は、",
-        "translation-en": "The song that child sings is,",
+        "translation-ja": "それが歌う舟歌は、",
+        "translation-en": "The boat song that it sings is,",
+        "phrase-gloss": [
+          {
+            "phrase": "それがうたふ舟うた、",
+            "gloss": "that GEN sing.ATTR boat.song",
+            "words": [
+              {
+                "word": "それ",
+                "gloss": "that"
+              },
+              {
+                "word": "が",
+                "gloss": "GEN"
+              },
+              {
+                "word": "うたふ",
+                "gloss": "sing.ATTR"
+              },
+              {
+                "word": "舟うた",
+                "gloss": "boat.song"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "GEN": "genitive particle",
+          "ATTR": "attributive form",
+          "QUOT": "quotative particle"
+        },
         "translation-ja-natural": "その子が歌う舟歌は、",
-        "translation-en-natural": "The song that child sings is:"
+        "translation-en-natural": "The boat song that the child sings is:"
       },
       {
         "date": "20250414",
