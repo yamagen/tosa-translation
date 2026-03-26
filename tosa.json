@@ -23473,14 +23473,84 @@
         }
       },
       {
-        "date": "20250414",
+        "date": [
+          20250414,
+          20260326
+        ],
         "id": 260,
         "text": "この間につかはれむとて、附きてくる童あり。",
         "kana": "このあいだにつかはれむとて、つきてくるわらはあり。",
         "koutei-yamagen": "この間に使はれむとて、つきて来る童あり。",
         "translation-ja": "この間に使われようとして、ついてくる子供がいる。",
         "translation-en": "In the meantime, there is a child who comes along, wishing to be sent.",
-        "translation-ja-natural": "この間に使われようとして、ついてくる子供がいます。",
+        "phrase-gloss": [
+          {
+            "phrase": "この間につかはれむとて、附きてくる童あり。",
+            "gloss": "this meantime DAT use PASS wish QUOT CONJ attach CONJ come child exist",
+            "words": [
+              {
+                "word": "この",
+                "gloss": "this"
+              },
+              {
+                "word": "間",
+                "gloss": "meantime"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "使は",
+                "gloss": "use.IRR"
+              },
+              {
+                "word": "れ",
+                "gloss": "PASS.IRR"
+              },
+              {
+                "word": "む",
+                "gloss": "wish"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "附き",
+                "gloss": "attach.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "くる",
+                "gloss": "come.ATTR"
+              },
+              {
+                "word": "童",
+                "gloss": "child"
+              },
+              {
+                "word": "あり",
+                "gloss": "exist"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ADV": "adverbial form",
+          "ATTR": "attributive form",
+          "DAT": "dative particle",
+          "IRR": "irrealis form",
+          "CONJ": "conjunctive particle"
+        },
+        "translation-ja-natural": "この間に使われようとして、ついてくる子供がいる。",
         "translation-en-natural": "In the meantime, a child comes along, hoping to be sent with us."
       },
       {
