@@ -23597,15 +23597,121 @@
         "translation-en-natural": "The boat song that the child sings is:"
       },
       {
-        "date": "20250414",
+        "date": [
+          20250414,
+          20260328
+        ],
         "id": 262,
         "text": "なほこそ國のかたは見やらるれ、わが父母ありとしおもへば。かへらや",
         "kana": "なほこそくにのかたはみやらるれ、わがちちははありとしおもへば。かへらや",
         "koutei-yamagen": "なほこそ国のかたは見やらるれ、わが父母ありとし思へばかへらや",
-        "translation-ja": "やっぱり、国の方を見てしまうなあ。わが父母がいると思えばさ。帰ろうか。",
+        "translation-ja": "やっぱり、国の方を見てしまうなあ。わが父母がありと思えば。帰ろうか。",
         "translation-en": "Still, the direction of my home draws my gaze, I think my father and mother are there. Go home, go home.",
+        "phrase-gloss": [
+          {
+            "phrase": "なほこそ國のかたは見やらるれ、わが父母ありとしおもへば。かへらや",
+            "gloss": "still EMPH country GEN direction TOP see.ADV send.IRR SPON.REALIS, my father mother exist QUOT EMPH think.REALIS CONJ, go.home.IRR INT",
+            "words": [
+              {
+                "word": "なほ",
+                "gloss": "still"
+              },
+              {
+                "word": "こそ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "國",
+                "gloss": "country"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "かた",
+                "gloss": "direction"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "見",
+                "gloss": "see.ADV"
+              },
+              {
+                "word": "やら",
+                "gloss": "send.IRR"
+              },
+              {
+                "word": "るれ",
+                "gloss": "SPON.REALIS"
+              },
+              {
+                "word": "わが",
+                "gloss": "my"
+              },
+              {
+                "word": "父母",
+                "gloss": "father mother"
+              },
+              {
+                "word": "あり",
+                "gloss": "exist"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "し",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "おもへ",
+                "gloss": "think.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "かへら",
+                "gloss": "go.home.IRR"
+              },
+              {
+                "word": "や",
+                "gloss": "INT"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "CONJ": "conjunctive particle",
+          "EMPH": "emphatic particle",
+          "GEN": "genitive particle",
+          "INT": "interjectory particle",
+          "IRR": "irrealis form",
+          "QUOT": "quotative particle",
+          "REALIS": "realis form",
+          "SPON": "spontaneous auxiliary",
+          "TOP": "topic particle"
+        },
         "translation-ja-natural": "やっぱり、どうしても国のほうに目が向く...そこに父さん母さんがいるからさ...帰ろ、帰ろう...",
-        "translation-en-natural": "I can't help looking toward home...my parents are there, after all. Go home, go home."
+        "translation-en-natural": "I can't help looking toward home...my parents are there, after all. Go home, go home.",
+        "notes-ja": [
+          {
+            "title": "gloss の役割",
+            "note": "gloss は、文脈ごとの解釈を固定して与えるためのものではなく、原文に入るための統制された足場である。読者は英語母語話者とは限らないが、gloss を手がかりに意味や機能を自分で考えることができる。そのため、gloss では語の global な核を優先し、文脈による具体的な解釈は translation や notes に委ねるのがよい。たとえば「やる」は「贈る」「送る」「向ける」と揺らさず、原則として send としておくことで、原文の解釈を過度に固定せずにすむ。"
+          }
+        ],
+        "notes-en": [
+          {
+            "title": "The role of gloss",
+            "note": "A gloss is not meant to impose a fixed interpretation in advance. It is a controlled point of access to the original text. Readers may know English without being native speakers, and part of their task is to think through meaning and function from the glosses themselves. For that reason, glosses should favor a stable global core rather than context-specific interpretation. More specific interpretive choices should be left to translations and notes. For example, yaru may be standardized as send rather than varying across give, send, direct, and other context-based renderings."
+          }
+        ]
       },
       {
         "date": "20250414",
