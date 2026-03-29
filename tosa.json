@@ -23714,13 +23714,49 @@
         ]
       },
       {
-        "date": "20250414",
+        "date": [
+          20250414,
+          20260329
+        ],
         "id": 263,
         "text": "とうたふぞ哀なる。",
         "kana": "とうたふぞあはれなる。",
         "koutei-yamagen": "とうたふぞ哀れなる。",
         "translation-ja": "と歌うのが、なんとも哀れである。",
         "translation-en": "To sing that...how sorrowful.",
+        "phrase-gloss": [
+          {
+            "phrase": "とうたふぞ哀なる。",
+            "gloss": "QUOT sing EMPH sorrowful be",
+            "words": [
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "うたふ",
+                "gloss": "sing.ATTR"
+              },
+              {
+                "word": "ぞ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "哀",
+                "gloss": "sorrowful"
+              },
+              {
+                "word": "なる",
+                "gloss": "be.ATTR"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ATTR": "attributive form",
+          "QUOT": "quotative particle",
+          "EMPH": "emphatic particle"
+        },
         "translation-ja-natural": "あの子があんなふうに歌うなんて...なんとも切ない。",
         "translation-en-natural": "The way that child sings it... it's just heartbreaking."
       },
