@@ -23761,13 +23761,111 @@
         "translation-en-natural": "The way that child sings it... it's just heartbreaking."
       },
       {
-        "date": "20250415",
+        "date": [
+          20250415,
+          20260330
+        ],
         "id": 264,
         "text": "かくうたふを聞きつゝ漕ぎくるに、くろとりといふ鳥岩のうへに集り居り。",
         "kana": "かくうたふをききつつこぎくるに、くろとりといふとりいわのうへにあつまりをり。",
         "koutei-yamagen": "かくうたふを聞きつゝ漕ぎくるに、くろとりといふ鳥岩のうへに集まり居り。",
         "translation-ja": "こう歌うのを聞きながら漕いでくると、黒鳥という鳥が岩の上に集まっている。",
         "translation-en": "While listening to this singing, as we rowed along, a bird called the blackbird was gathered on the rock.",
+        "phrase-gloss": [
+          {
+            "phrase": "かくうたふを聞きつゝ漕ぎくるに、",
+            "gloss": "thus sing ACC hear while row come CONJ",
+            "words": [
+              {
+                "word": "かく",
+                "gloss": "thus"
+              },
+              {
+                "word": "うたふ",
+                "gloss": "sing.ATTR"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "聞き",
+                "gloss": "hear.ADV"
+              },
+              {
+                "word": "つゝ",
+                "gloss": "while"
+              },
+              {
+                "word": "漕ぎ",
+                "gloss": "row.ADV"
+              },
+              {
+                "word": "くる",
+                "gloss": "come.ATTR"
+              },
+              {
+                "word": "に",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "くろとりといふ鳥岩のうへに集り居り。",
+            "gloss": "blackbird QUOT say bird rock GEN top LOC gather stay",
+            "words": [
+              {
+                "word": "くろとり",
+                "gloss": "blackbird"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "いふ",
+                "gloss": "say.ATTR"
+              },
+              {
+                "word": "鳥",
+                "gloss": "bird"
+              },
+              {
+                "word": "岩",
+                "gloss": "rock"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "うへ",
+                "gloss": "top"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "集り",
+                "gloss": "gather.ADV"
+              },
+              {
+                "word": "居り",
+                "gloss": "stay"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ACC": "accusative particle",
+          "ADV": "adverbial form",
+          "ATTR": "attributive form",
+          "CONJ": "conjunctive particle",
+          "QUOT": "quotative particle",
+          "LOC": "locative particle",
+          "GEN": "genitive particle"
+        },
         "translation-ja-natural": "あの舟歌を聞きながら船を漕いでいくと、岩の上に黒鳥という鳥が集まってじっとしていた。",
         "translation-en-natural": "Rowing along, listening to that singing, I saw birds called blackbirds gathered quietly on a rock."
       },
