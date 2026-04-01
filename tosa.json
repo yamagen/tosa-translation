@@ -23870,14 +23870,65 @@
         "translation-en-natural": "Rowing along, listening to that singing, I saw birds called blackbirds gathered quietly on a rock."
       },
       {
-        "date": "20250415",
+        "date": [
+          20250415,
+          20260331
+        ],
         "id": 265,
         "text": "その岩のもとに浪しろくうち寄す。",
         "kana": "そのいはのもとになみしろくうちよす。",
         "koutei-yamagen": "その岩のもとに、浪白くうち寄す。",
-        "translation-ja": "その岩のもとに波が白く打ち寄せている。",
+        "translation-ja": "その岩のもとに波が白く打ち寄せる。",
         "translation-en": "The white waves wash against the base of the rock.",
-        "translation-ja-natural": "その岩のふもとに白い波が打ち寄せています。",
+        "phrase-gloss": [
+          {
+            "phrase": "その岩のもとに浪しろくうち寄す。",
+            "gloss": "that rock GEN base LOC wave white-ly strike approach",
+            "words": [
+              {
+                "word": "その",
+                "gloss": "that"
+              },
+              {
+                "word": "岩",
+                "gloss": "rock"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "もと",
+                "gloss": "base"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "浪",
+                "gloss": "wave"
+              },
+              {
+                "word": "しろく",
+                "gloss": "white-ly"
+              },
+              {
+                "word": "うち",
+                "gloss": "strike"
+              },
+              {
+                "word": "寄す",
+                "gloss": "approach"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "GEN": "genitive particle",
+          "LOC": "locative particle"
+        },
+        "translation-ja-natural": "その岩のふもとに白い波が打ち寄せている。",
         "translation-en-natural": "White waves are washing against the base of the rock.",
         "notes-ja": {
           "逐語訳における副詞と形容詞の違い": "『浪しろくうち寄す』のように、原文が副詞的な描写（白く）を用いている場合、『白い波』のような名詞句で訳すことは、文法構造上の変換（形容詞＋名詞化）を伴うため、逐語訳としては慎重に扱う必要がある。原文の語順・文法に忠実であることを重視する逐語訳では、意味的に妥当であっても、名詞的要素の補完は抑えるべきとされる。これは『補って訳すことの自然さ』と『補わずに訳すことの忠実さ』とのあいだにある、翻訳実践上の繊細な判断点である。"
