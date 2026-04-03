@@ -15610,7 +15610,7 @@
         "phrase-gloss": [
           {
             "phrase": "この、羽根といふ所問う童の序にぞ、",
-            "gloss": "this Hane QUOT call place ask child GEN preface EMP",
+            "gloss": "this Hane QUOT call place ask child GEN preface EMPH",
             "words": [
               {
                 "word": "この",
@@ -15658,7 +15658,7 @@
               },
               {
                 "word": "ぞ",
-                "gloss": "EMP"
+                "gloss": "EMPH"
               }
             ]
           },
@@ -23938,13 +23938,88 @@
         }
       },
       {
-        "date": "20250415",
+        "date": [
+          20250415,
+          20260401
+        ],
         "id": 266,
         "text": "楫取のいふやう「黒き鳥のもとに白き浪をよす」とぞいふ。",
         "kana": "かぢとりのいふやう「くろきとりのもとにしろきなみをよす」とぞいふ。",
         "koutei-yamagen": "楫取のいふやう、「黒き鳥のもとに白き浪をよす」とぞいふ。",
         "translation-ja": "楫取が言うには、「黒い鳥のもとに白い波を寄せる」と言う。",
         "translation-en": "The steersman says, \"White waves wash to the base of the black bird,\" he says.",
+        "phrase-gloss": [
+          {
+            "phrase": "楫取のいふやう「黒き鳥のもとに白き浪をよす」とぞいふ。",
+            "gloss": "steersman GEN say manner black bird GEN base LOC white wave ACC approach QUOT EMPH say",
+            "words": [
+              {
+                "word": "楫取",
+                "gloss": "steersman"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "いふ",
+                "gloss": "say.ATTR"
+              },
+              {
+                "word": "やう",
+                "gloss": "manner"
+              },
+              {
+                "word": "黒き",
+                "gloss": "black.ATTR"
+              },
+              {
+                "word": "鳥",
+                "gloss": "bird"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "もと",
+                "gloss": "base"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "白き",
+                "gloss": "white.ATTR"
+              },
+              {
+                "word": "浪",
+                "gloss": "wave"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "よす",
+                "gloss": "approach"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "ぞ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "いふ",
+                "gloss": "say"
+              }
+            ]
+          }
+        ],
         "translation-ja-natural": "楫取いわく、「黒い鳥のもとに白い波を寄せる」ですって。",
         "translation-en-natural": "The steersman goes, \"White waves wash to the base of the black bird,\" or so he says.",
         "notes-ja": {
@@ -32283,7 +32358,7 @@
               },
               {
                 "word": "たゝ",
-                "gloss": "rise-NEG.STEM"
+                "gloss": "rise.IRR"
               },
               {
                 "word": "ず",
@@ -36047,7 +36122,7 @@
               },
               {
                 "word": "き",
-                "gloss": "come.ADV.F"
+                "gloss": "come.ADV"
               },
               {
                 "word": "て",
@@ -36073,7 +36148,7 @@
               },
               {
                 "word": "ほりえ",
-                "gloss": "channel; moat"
+                "gloss": "channel"
               },
               {
                 "word": "の",
@@ -36083,7 +36158,7 @@
           },
           {
             "phrase": "水をあさみ",
-            "gloss": "because the water is shallow",
+            "gloss": "water OBJ shallow REASON",
             "words": [
               {
                 "word": "水",
@@ -36091,11 +36166,11 @@
               },
               {
                 "word": "を",
-                "gloss": "ACC"
+                "gloss": "OBJ"
               },
               {
                 "word": "あさ",
-                "gloss": "be shallow.ADV.F"
+                "gloss": "shallow.STEM"
               },
               {
                 "word": "み",
@@ -36163,7 +36238,19 @@
           "EXCL": "exclamatory particle (かな)"
         },
         "translation-ja-natural": "やっとの思いでたどり着いたが、川の堀江の水が浅いため、船も私自身も進まず、もたつく今日だなあ。",
-        "translation-en-natural": "Having finally arrived, the river's channel is so shallow that both the boat and I are stuck, struggling through the day."
+        "translation-en-natural": "Having finally arrived, the river's channel is so shallow that both the boat and I are stuck, struggling through the day.",
+        "notes-ja": [
+          {
+            "title": "「を...み」構文",
+            "note": "名詞に「を」を伴わせ、その後に形容詞語幹と「み」を続けることによって、全体として「...が...ので」「...が...ために」に近い理由を表す古典日本語の構文。「を...み」構文では、「を」は OBJ、「形容詞部分」は ...STEM、「み」は SUF.REASON とし、phrase-gloss line では REASON を出して句全体の理由機能を示す。"
+          }
+        ],
+        "notes-en": [
+          {
+            "title": "「を...み」 construction",
+            "note": "A classical Japanese construction where a noun is followed by the particle \"を\", then an adjective stem and \"み\", together expressing a reason similar to \"because...\" or \"due to...\". In the \"を...み\" construction, \"を\" is marked as OBJ, the adjective part is marked as ...STEM, and \"み\" is marked as SUF.REASON. In the phrase-gloss line, REASON is used to indicate the reason function of the entire phrase."
+          }
+        ]
       },
       {
         "date": "20250524",
