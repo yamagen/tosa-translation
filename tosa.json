@@ -24039,13 +24039,96 @@
         }
       },
       {
-        "date": "20250416",
+        "date": [
+          20250416,
+          20260402
+        ],
         "id": 267,
         "text": "この詞何とにはなけれど、ものいふやうにぞ聞えたる。",
         "kana": "このことばなんとはなけれど、ものいふやうにぞきこえたる。",
         "koutei-yamagen": "この詞、何とにはなけれど、ものいふやうにぞ聞こえたる。",
         "translation-ja": "このことばは、何というものではないけれど、物を言うように聞こえた。",
         "translation-en": "This word was not something that could be clearly named, but it sounded as if it were saying something.",
+        "phrase-gloss": [
+          {
+            "phrase": "この 詞 何 と に は なけれ ど もの いふ やう に ぞ 聞え たる",
+            "gloss": "this word what QUOT DAT TOP NEG CONJ thing say like DAT EMPH sound PST",
+            "words": [
+              {
+                "word": "この",
+                "gloss": "this"
+              },
+              {
+                "word": "詞",
+                "gloss": "word"
+              },
+              {
+                "word": "何",
+                "gloss": "what"
+              },
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "なけれ",
+                "gloss": "NEG.REALIS"
+              },
+              {
+                "word": "ど",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "もの",
+                "gloss": "thing"
+              },
+              {
+                "word": "いふ",
+                "gloss": "say.ATTR"
+              },
+              {
+                "word": "やう",
+                "gloss": "like"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "ぞ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "聞え",
+                "gloss": "sound.ADV"
+              },
+              {
+                "word": "たる",
+                "gloss": "PST.ATTR"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ADV": "adverbial form",
+          "ATTR": "attributive form",
+          "CONJ": "conjunctive particle",
+          "DAT": "dative particle",
+          "EMPH": "emphatic particle",
+          "NEG": "negation",
+          "PST": "past tense",
+          "QUOT": "quotative particle",
+          "REALIS": "realis form",
+          "TOP": "topic particle"
+        },
         "translation-ja-natural": "このことばは、はっきり何とは言えないけれど、まるで何かを語っているように聞こえた。",
         "translation-en-natural": "I couldn't quite say what kind of word it was, but it sounded like it was saying something.",
         "notes-ja": {
@@ -24056,13 +24139,69 @@
         }
       },
       {
-        "date": "20250416",
+        "date": [
+          20250416,
+          20260403
+        ],
         "id": 268,
         "text": "人の程にあはねば咎むるなり。",
         "kana": "ひとのほどにあはねばとがむるなり。",
         "koutei-yamagen": "人の程にあはねば、咎むるなり。",
         "translation-ja": "人の身分に合わないので、とがめるのである。",
-        "translation-en": "It is criticized because it does not fit the person's rank.",
+        "translation-en": "It is criticized because it does not fit the person's status.",
+        "phrase-gloss": [
+          {
+            "phrase": "人 の 程 に あは ね ば 咎むる なり",
+            "gloss": "person GEN status DAT fit NEG CONJ criticize DECL",
+            "words": [
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "程",
+                "gloss": "status"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              },
+              {
+                "word": "あは",
+                "gloss": "fit.IRR"
+              },
+              {
+                "word": "ね",
+                "gloss": "NEG.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "咎むる",
+                "gloss": "criticize.ATTR"
+              },
+              {
+                "word": "なり",
+                "gloss": "DECL"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "DAT": "dative particle",
+          "GEN": "genitive particle",
+          "NEG": "negation",
+          "REALIS": "realis form",
+          "CONJ": "conjunctive particle",
+          "ATTR": "attributive form",
+          "DECL": "declarative"
+        },
         "translation-ja-natural": "身分にふさわしくないという理由で、とがめられるのだ。",
         "translation-en-natural": "It's criticized for being inappropriate for their social standing.",
         "notes-ja": {
@@ -24073,25 +24212,276 @@
         }
       },
       {
-        "date": "20250417",
+        "date": [
+          20250417,
+          20260404
+        ],
         "id": 269,
         "text": "かくいひつゝ行くに、船君なる人浪を見て、國よりはじめて海賊報いせむといふなる事を思ふうへに、海の又おそろしければ、頭も皆しらけぬ。",
         "kana": "かくいひつつゆくに、ふなぎみなるひとなみをみて、くによりはじめてかいぞくむくいせむというなることをおもううへに、うみのまたおそろしければ、あたまもみなしらけぬ。",
         "koutei-yamagen": "かくいひつつ行くに、船君なる人、浪を見て、「国よりはじめて海賊報いせむといふなることを思ふうへに、海のまた恐ろしければ、頭も皆、白けぬ。",
         "translation-ja": "こう言いながら行くと、船君という人が波を見て、「国を出て以来、はじめて、海賊が報復してくるだろうということを思う上に、海がまた恐ろしいので、頭も皆白くなってしまった。",
         "translation-en": "As we go on saying this, the steersman looks at the waves and says, 'Since leaving the country, I have begun to think that pirates will come to retaliate, and the sea is also terrifying, so my head has turned white.'",
+        "phrase-gloss": [
+          {
+            "phrase": "かく いひ つゝ 行く に",
+            "gloss": "thus say while go DAT",
+            "words": [
+              {
+                "word": "かく",
+                "gloss": "thus"
+              },
+              {
+                "word": "いひ",
+                "gloss": "say.ADV"
+              },
+              {
+                "word": "つゝ",
+                "gloss": "while"
+              },
+              {
+                "word": "行く",
+                "gloss": "go.ATTR"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              }
+            ]
+          },
+          {
+            "phrase": "船君 なる 人 浪 を 見 て",
+            "gloss": "steersman DECL person wave ACC see CONJ",
+            "words": [
+              {
+                "word": "船君",
+                "gloss": "steersman"
+              },
+              {
+                "word": "なる",
+                "gloss": "DECL.ATTR"
+              },
+              {
+                "word": "人",
+                "gloss": "person"
+              },
+              {
+                "word": "浪",
+                "gloss": "wave"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "見",
+                "gloss": "see.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              }
+            ]
+          },
+          {
+            "phrase": "國 より はじめて 海賊 報い せ む",
+            "gloss": "country from first pirate retaliate do FUT",
+            "words": [
+              {
+                "word": "國",
+                "gloss": "country"
+              },
+              {
+                "word": "より",
+                "gloss": "from"
+              },
+              {
+                "word": "はじめて",
+                "gloss": "first"
+              },
+              {
+                "word": "海賊",
+                "gloss": "pirate"
+              },
+              {
+                "word": "報い",
+                "gloss": "retaliate.STEM"
+              },
+              {
+                "word": "せ",
+                "gloss": "do.ADV"
+              },
+              {
+                "word": "む",
+                "gloss": "FUT"
+              }
+            ]
+          },
+          {
+            "phrase": "と いふ なる こと を 思ふ うへ に",
+            "gloss": "QUOT say DECL thing ACC think above DAT",
+            "words": [
+              {
+                "word": "と",
+                "gloss": "QUOT"
+              },
+              {
+                "word": "いふ",
+                "gloss": "say.ATTR"
+              },
+              {
+                "word": "なる",
+                "gloss": "DECL.ATTR"
+              },
+              {
+                "word": "こと",
+                "gloss": "thing"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "思ふ",
+                "gloss": "think.ATTR"
+              },
+              {
+                "word": "うへ",
+                "gloss": "above"
+              },
+              {
+                "word": "に",
+                "gloss": "DAT"
+              }
+            ]
+          },
+          {
+            "phrase": "海 の また おそろしけれ ば 頭 も 皆 白け ぬ",
+            "gloss": "sea GEN also fearful CONJ head also all white PERF",
+            "words": [
+              {
+                "word": "海",
+                "gloss": "sea"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "また",
+                "gloss": "also"
+              },
+              {
+                "word": "おそろしけれ",
+                "gloss": "fearful.REALIS"
+              },
+              {
+                "word": "ば",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "頭",
+                "gloss": "head"
+              },
+              {
+                "word": "も",
+                "gloss": "also"
+              },
+              {
+                "word": "皆",
+                "gloss": "all"
+              },
+              {
+                "word": "白け",
+                "gloss": "white.ADV"
+              },
+              {
+                "word": "ぬ",
+                "gloss": "PERF"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ACC": "accusative particle",
+          "ADV": "adverbial form",
+          "ATTR": "attributive form",
+          "CONJ": "conjunctive particle",
+          "DAT": "dative particle",
+          "DECL": "declarative",
+          "FUT": "future tense",
+          "GEN": "genitive particle",
+          "PERF": "perfective",
+          "QUOT": "quotative particle",
+          "REALIS": "realis form"
+        },
         "translation-ja-natural": "そんなことを話しながら進んでいると、船君という人が波を見て、「国を出てから初めて、海賊が報復してくるんじゃないかと思えてきた。しかも、海の様子があまりに恐ろしくて、頭が真っ白になってしまった。",
         "translation-en-natural": "As we were talking like that, the steersman looked at the waves and said, 'For the first time since we left home, I feel like the pirates might be coming to retaliate. And on top of that, the sea looks so terrifying—my head’s gone completely white,"
       },
       {
-        "date": "20250418",
+        "date": [
+          20250418,
+          20260405
+        ],
         "id": 270,
         "text": "七十八十は海にあるものなりけり。",
         "kana": "ななそやそはうみにあるものなりけり。",
         "koutei-yamagen": "七十八十は海にあるものなりけり。",
         "translation-ja": "七十、八十は、海にあるものであった。",
         "translation-en": "Seventy and eighty are things found in the sea.",
-        "translation-ja-natural": "七十、八十の老人は、海の中にでもいるんでしょうね。",
+        "phrase-gloss": [
+          {
+            "phrase": "七十 八十 は 海 に ある もの なり けり",
+            "gloss": "seventy eighty TOP sea LOC exist thing DECL EMPH",
+            "words": [
+              {
+                "word": "七十",
+                "gloss": "seventy"
+              },
+              {
+                "word": "八十",
+                "gloss": "eighty"
+              },
+              {
+                "word": "は",
+                "gloss": "TOP"
+              },
+              {
+                "word": "海",
+                "gloss": "sea"
+              },
+              {
+                "word": "に",
+                "gloss": "LOC"
+              },
+              {
+                "word": "ある",
+                "gloss": "exist.ATTR"
+              },
+              {
+                "word": "もの",
+                "gloss": "thing"
+              },
+              {
+                "word": "なり",
+                "gloss": "DECL.ADV"
+              },
+              {
+                "word": "けり",
+                "gloss": "EMPH"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ADV": "adverbial form",
+          "ATTR": "attributive form",
+          "DECL": "declarative",
+          "EMPH": "emphatic particle",
+          "LOC": "locative particle",
+          "TOP": "topic particle"
+        },
+        "translation-ja-natural": "七十、八十の老人は、海の中にでもいるのだろう。",
         "translation-en-natural": "People who live to seventy or eighty? I guess they only exist out at sea."
       },
       {
