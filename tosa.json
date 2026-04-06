@@ -24485,13 +24485,99 @@
         "translation-en-natural": "People who live to seventy or eighty? I guess they only exist out at sea."
       },
       {
-        "date": "20250418",
+        "date": [
+          20250418,
+          20260406
+        ],
         "id": 271,
         "text": "わが髮の/ゆきといそべの/しら浪と/いづれまされり/おきつ島もり",
         "kana": "わがかみの/ゆきといそべの/しらなみと/いづれまされり/おきつしまもり",
         "koutei-yamagen": "わが髪の/ゆきといそべの/しら浪と/いづれまされり/おきつ島守",
         "translation-ja": "私の髪の雪と磯辺の白波と、どちらが勝っているのだ、沖の島守。",
         "translation-en": "Which surpasses the other, my snowy hair or the white waves on the shore, O guardian of the offing island?",
+        "phrase-gloss": [
+          {
+            "phrase": "わが 髮 の ゆき と いそべ の しらなみ と",
+            "gloss": "my hair GEN snow and shore GEN white wave and",
+            "words": [
+              {
+                "word": "わが",
+                "gloss": "my"
+              },
+              {
+                "word": "髮",
+                "gloss": "hair"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "ゆき",
+                "gloss": "snow"
+              },
+              {
+                "word": "と",
+                "gloss": "and"
+              },
+              {
+                "word": "いそべ",
+                "gloss": "shore"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "しらなみ",
+                "gloss": "white wave"
+              },
+              {
+                "word": "と",
+                "gloss": "and"
+              }
+            ]
+          },
+          {
+            "phrase": "いづれ まされ り おき つ 島 もり",
+            "gloss": "which surpasses PERF offshore GEN island guardian",
+            "words": [
+              {
+                "word": "いづれ",
+                "gloss": "which"
+              },
+              {
+                "word": "まされ",
+                "gloss": "surpass.ADV"
+              },
+              {
+                "word": "り",
+                "gloss": "PERF"
+              },
+              {
+                "word": "おき",
+                "gloss": "offshore"
+              },
+              {
+                "word": "つ",
+                "gloss": "GEN"
+              },
+              {
+                "word": "島",
+                "gloss": "island"
+              },
+              {
+                "word": "もり",
+                "gloss": "guardian"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ADV": "adverbial form",
+          "GEN": "genitive particle",
+          "PERF": "perfective"
+        },
         "translation-ja-natural": "私の白髪と、磯辺に打ち寄せる白波――どちらの方が白く目立っているかしらね、沖の島守さん。",
         "translation-en-natural": "Tell me, guardian of the island—what shines whiter, my snowy hair or the waves breaking on the shore?",
         "notes-ja": {
@@ -32669,8 +32755,8 @@
             ]
           },
           {
-            "phrase": "浪なたちそと",
-            "gloss": "‘let not the waves rise’",
+            "phrase": "浪 な たち そ と",
+            "gloss": "wave PROH rise PROH QUOT",
             "words": [
               {
                 "word": "浪",
@@ -32678,15 +32764,15 @@
               },
               {
                 "word": "な",
-                "gloss": "EPHEM"
+                "gloss": "PROH.PRE"
               },
               {
                 "word": "たち",
-                "gloss": "rise-CONJ"
+                "gloss": "rise.ADV"
               },
               {
                 "word": "そ",
-                "gloss": "PROH"
+                "gloss": "PROH.POST"
               },
               {
                 "word": "と",
@@ -32695,8 +32781,8 @@
             ]
           },
           {
-            "phrase": "人々ひねもすに祈る",
-            "gloss": "people prayed all day",
+            "phrase": "人々 ひねもす に 祈る",
+            "gloss": "people all.day LOC pray",
             "words": [
               {
                 "word": "人々",
@@ -32717,16 +32803,16 @@
             ]
           },
           {
-            "phrase": "しるしありて",
-            "gloss": "there was a sign",
+            "phrase": "しるし あり て",
+            "gloss": "sign exist CONJ",
             "words": [
               {
                 "word": "しるし",
-                "gloss": "sign; result"
+                "gloss": "sign"
               },
               {
                 "word": "あり",
-                "gloss": "exist"
+                "gloss": "exist.ADV"
               },
               {
                 "word": "て",
@@ -32735,8 +32821,8 @@
             ]
           },
           {
-            "phrase": "風浪たゝず",
-            "gloss": "the wind and waves did not rise",
+            "phrase": "風 浪 たゝず",
+            "gloss": "wind waves rise NEG",
             "words": [
               {
                 "word": "風",
