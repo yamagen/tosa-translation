@@ -24629,13 +24629,80 @@
         }
       },
       {
-        "date": "20250419",
+        "date": [
+          20250419,
+          20260408
+        ],
         "id": 273,
         "text": "廿二日、よんべのとまりよりことゞまりをおひてぞ行く。",
         "kana": "はつかあまりふつか、よんべのとまりよりことゞまりをおひてぞいく。",
         "koutei-yamagen": "二十二日、昨夜の泊より、異泊を追ひてぞ行く。",
         "translation-ja": "二十二日、昨夜の泊まりから、異なる泊まりを追って行く。",
         "translation-en": "On the 22nd, we left last night's stop, pursuing another harbor.",
+        "phrase-gloss": [
+          {
+            "phrase": "廿二日 よんべ の とまり より ことゞまり を おひ て ぞ 行く",
+            "gloss": "22nd last night GEN stop from different stop ACC pursue while EMPH go",
+            "words": [
+              {
+                "word": "廿二日",
+                "gloss": "22nd"
+              },
+              {
+                "word": "よんべ",
+                "gloss": "last.night"
+              },
+              {
+                "word": "の",
+                "gloss": "GEN"
+              },
+              {
+                "word": "とまり",
+                "gloss": "stop"
+              },
+              {
+                "word": "より",
+                "gloss": "from"
+              },
+              {
+                "word": "こと",
+                "gloss": "different"
+              },
+              {
+                "word": "ゞまり",
+                "gloss": "stop"
+              },
+              {
+                "word": "を",
+                "gloss": "ACC"
+              },
+              {
+                "word": "おひ",
+                "gloss": "pursue.ADV"
+              },
+              {
+                "word": "て",
+                "gloss": "CONJ"
+              },
+              {
+                "word": "ぞ",
+                "gloss": "EMPH"
+              },
+              {
+                "word": "行く",
+                "gloss": "go.ATTR"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "ACC": "accusative particle",
+          "ADV": "adverbial form",
+          "ATTR": "attributive form",
+          "CONJ": "conjunctive particle",
+          "EMPH": "emphatic particle",
+          "GEN": "genitive particle"
+        },
         "translation-ja-natural": "二十二日。昨夜の泊まりをあとにして、また別の泊まりを目指して進んだ。",
         "translation-en-natural": "On the 22nd, we left last night's anchorage and set off toward another."
       },
