@@ -24588,13 +24588,35 @@
         }
       },
       {
-        "date": "20250418",
+        "date": [
+          20250418,
+          20260407
+        ],
         "id": 272,
         "text": "楫取いへ」",
         "kana": "かぢとりいへ」",
         "koutei-yamagen": "楫取いへ」",
         "translation-ja": "楫取、言え」。",
         "translation-en": "Say it, the steersman.",
+        "phrase-gloss": [
+          {
+            "phrase": "楫取 いへ",
+            "gloss": "steersman say.IMP",
+            "words": [
+              {
+                "word": "楫取",
+                "gloss": "steersman"
+              },
+              {
+                "word": "いへ",
+                "gloss": "say.IMP"
+              }
+            ]
+          }
+        ],
+        "abbreviations": {
+          "IMP": "imperative form"
+        },
         "translation-ja-natural": "楫取さん、言ってみよ」。",
         "translation-en-natural": "So, tell me—which one, steersman?",
         "notes-ja": {
