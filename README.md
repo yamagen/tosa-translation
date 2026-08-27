@@ -2,86 +2,98 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15563257.svg)](https://doi.org/10.5281/zenodo.15563257)
 
-Translation sentences
-by Hilofumi Yamamoto Ph.D.
+Translation and annotation data  
+by Hilofumi Yamamoto, Ph.D.  
 Institute of Science Tokyo
 
 ## Overview
 
-This is a translation of the Tosa Diary (土佐日記, Tosa Nikki) by Hilofumi Yamamoto.
-The open text "Aozora bunko" was used.
+This repository provides a JSON edition of *Tosa Nikki* (土佐日記, *The Tosa Diary*) with Japanese and English translations and word-level gloss annotation.
 
-### **Data format**
+The source text is based on the open text provided through Aozora Bunko. The public JSON keeps the source text, kana reading, three translation layers, word-level glosses, and abbreviation definitions. Editorial working fields and research notes are not included in the public version.
 
-It is written in json format as follows:
+### Translation layers
 
-| tag                      | content                                          |
-| ------------------------ | ------------------------------------------------ |
-| "title"                  | title                                            |
-| "title_kana"             | kana notation of the title                       |
-| "title_roman"            | romaji of the title                              |
-| "author"                 | author                                           |
-| "author_kana"            | kana notation of the author                      |
-| "author_roman"           | romaji of the author                             |
-| "paragraph"              | text or poem sentence                            |
-| "date"                   | date of the revision                             |
-| "id"                     | id of the text                                   |
-| "text"                   | text of the sentence                             |
-| "poem"                   | poem sentence                                    |
-| "kana"                   | kana notation of the text/poem sentence          |
-| "translation-ja"         | contemporary translation (literal)               |
-| "translation-en"         | English translation (literal)                    |
-| "phrase-gloss"           | Gloss by each phrase                             |
-| "gloss-notes-ja"         | Gloss notes in Japanese                          |
-| "gloss-notes-en"         | Gloss notes in English                           |
-| "glossary-abbreviations" | Glossary abbreviations                           |
-| "translation-ja-natural" | contemporary Japanese translation (interpretive) |
-| "translation-en-natural" | English translation (interpretive)               |
-| "notes-ja"               | Notes in Japanese                                |
-| "notes-en"               | Notes in English                                 |
-| "commentary-ja"          | Related Notes in Japanese                        |
-| "commentary-en"          | Related Notes in English                         |
+The translation data are organized into three layers:
 
-### **Example**
+- `literal`: keeps the wording, order, and grammatical relations of the source text as far as practical.
+- `natural`: gives a more natural Japanese or English rendering without unnecessarily adding information not present in the source text.
+- `reading`: gives a context-sensitive reading where interpretation is needed, while keeping interpretation separate from the source text as far as possible.
+
+## Data format
+
+The data are written in JSON. The public version uses the following fields:
+
+| tag | content |
+| --- | --- |
+| `title` | title |
+| `title_kana` | kana notation of the title |
+| `title_roman` | romanization of the title |
+| `author` | author |
+| `author_kana` | kana notation of the author |
+| `author_roman` | romanization of the author |
+| `paragraph` | array of text or poem entries |
+| `date` | revision history |
+| `id` | entry ID, stored uniformly as a string |
+| `text` | prose text |
+| `poem` | poem text |
+| `kana` | kana notation of the text or poem |
+| `translation-ja-literal` | literal contemporary Japanese translation |
+| `translation-en-literal` | literal English translation |
+| `translation-ja-natural` | natural contemporary Japanese translation |
+| `translation-en-natural` | natural English translation |
+| `translation-ja-reading` | context-sensitive Japanese reading |
+| `translation-en-reading` | context-sensitive English reading |
+| `word-gloss` | word-level annotation |
+| `abbreviations` | abbreviations used in `word-gloss` |
+
+The public JSON does **not** include working fields such as `koutei-yamagen`, `notes-ja`, `notes-en`, `commentary-ja`, or `commentary-en`.
+
+### Example
+
+A paragraph entry has the following form. Fields are included when present in the source data.
 
 ```json
-[
-  {
-    "title": "土佐日記",
-    "title_kana": "とさにき",
-    "title_roman": "Tosa Nikki",
-    "author": "紀貫之",
-    "author_kana": "きのつらゆき",
-    "author_roman": "Ki no Tsurayuki",
-    "paragraph": [
-      {
-        "date": "20241026",
-        "id": "1",
-        "text": "男もすなる日記といふものを、女もしてみむとてするなり。",
-        "kana": "をとこもすなるにきといふものを、をんなもしてみむとてするなり。",
-        "translation-ja": "漢字で書く日記とかいうものを、仮名でしてみようとしてするものである。",
-        "translation-en": "A diary is something written in the masculine style, but I will try writing it in the feminine style.",
-        "translation-ja-natural": "男の書き方で書くという日記を、女の書き方で書いてみようと思って書いているのです。",
-        "translation-en-natural": "So, diaries are usually done up in this formal, masculine style... but here I am, giving it a go in a bit more of a feminine touch."
-      },
-      {
-        "date": "20241026",
-        "id": "2",
-        "text": "それの年のしはすの二十日あまり一日の、戌の時に門出す。",
-        "kana": "それのとしのしはすのはつかあまりついたちの、いぬのときにかどです。",
-        "translation-ja": "その年（承平四年）の師走の二十一日の、戌の時に出発しました。",
-        "translation-en": "On the twenty-first day of December in the 4th year of the Shohei era, we departed at the hour of the dog (around 8 to 10 PM).",
-        "translation-ja-natural": "その年（承平四年）の十二月二十一日、戌の刻に出発しました。",
-        "translation-en-natural": "December 21st, Shohei Era, Year 4. Set off around the hour of the dog (between 8 and 10 PM)."
-      }
-    ]
-  }
-]
+{
+  "date": [20250429, 20260512, 20260827],
+  "id": "317",
+  "text": "けさも。",
+  "kana": "けさも。",
+  "translation-ja-literal": "今朝も。",
+  "translation-en-literal": "This morning too.",
+  "translation-ja-natural": "今朝も。",
+  "translation-en-natural": "This morning too.",
+  "translation-ja-reading": "今朝も。",
+  "translation-en-reading": "This morning too."
+}
 ```
 
-### **To process the data**
+Entries with word-level annotation additionally contain `word-gloss` and `abbreviations`.
 
-This json file can be manipulated with the following command with jq:
+```json
+{
+  "word-gloss": [
+    {
+      "word": "うらうら",
+      "lemma": "うらうら",
+      "kana": "うらうら",
+      "lemma-kana": "うらうら",
+      "romaji": "uraura",
+      "lemma-romaji": "uraura",
+      "gloss": "gently-brightly",
+      "pos": "ADV",
+      "ku": 0
+    }
+  ],
+  "abbreviations": {
+    "ADV": "adverbial"
+  }
+}
+```
+
+## Preparing the public JSON
+
+The working JSON can be converted to the public GitHub / Zenodo version with `jq` as follows:
 
 ```sh
 #!/bin/bash
@@ -95,28 +107,29 @@ jq '[. |
     author_roman: .author_roman,
     paragraph: [
       .paragraph[] |
-      {date: .date, id: .id}
+      {date: .date, id: (.id | tostring)}
       + (if .text != null then {text: .text} else {} end)
       + (if .poem != null then {poem: .poem} else {} end)
       + (if .kana != null then {kana: .kana} else {} end)
-      + (if ."koutei-yamagen" != null then {"koutei-yamagen": ."koutei-yamagen"} else {} end)
-      + (if ."translation-ja" != null then {"translation-ja": ."translation-ja"} else {} end)
-      + (if ."translation-en" != null then {"translation-en": ."translation-en"} else {} end)
-
-      + (if ."phrase-gloss" != null then {"phrase-gloss": ."phrase-gloss"} else {} end)
-      + (if ."gloss-notes-ja" != null then {"gloss-notes-ja": ."gloss-notes-ja"} else {} end)
-      + (if ."gloss-notes-en" != null then {"gloss-notes-en": ."gloss-notes-en"} else {} end)
-      + (if ."glossary-abbreviations" != null then {"glossary-abbreviations": ."glossary-abbreviations"} else {} end)
+#      + (if ."koutei-yamagen" != null then {"koutei-yamagen": ."koutei-yamagen"} else {} end)
+      + (if ."translation-ja-literal" != null then {"translation-ja-literal": ."translation-ja-literal"} else {} end)
+      + (if ."translation-en-literal" != null then {"translation-en-literal": ."translation-en-literal"} else {} end)
       + (if ."translation-ja-natural" != null then {"translation-ja-natural": ."translation-ja-natural"} else {} end)
       + (if ."translation-en-natural" != null then {"translation-en-natural": ."translation-en-natural"} else {} end)
-      + (if ."notes-ja" != null then {"notes-ja": ."notes-ja"} else {} end)
-      + (if ."notes-en" != null then {"notes-en": ."notes-en"} else {} end)
+      + (if ."translation-ja-reading" != null then {"translation-ja-reading": ."translation-ja-reading"} else {} end)
+      + (if ."translation-en-reading" != null then {"translation-en-reading": ."translation-en-reading"} else {} end)
+      + (if ."word-gloss" != null then {"word-gloss": ."word-gloss"} else {} end)
+      + (if ."abbreviations" != null then {"abbreviations": ."abbreviations"} else {} end)
+#      + (if ."notes-ja" != null then {"notes-ja": ."notes-ja"} else {} end)
+#      + (if ."notes-en" != null then {"notes-en": ."notes-en"} else {} end)
 #      + (if ."commentary-ja" != null then {"commentary-ja": ."commentary-ja"} else {} end)
 #      + (if ."commentary-en" != null then {"commentary-en": ."commentary-en"} else {} end)
     ]
   }
-]' $1
+]' "$1"
 ```
+
+The conversion normalizes all entry IDs to strings. Thus both numeric IDs such as `1` and compound IDs such as `4-1` are represented consistently as JSON strings (`"1"`, `"4-1"`).
 
 ### **Reference**
 
