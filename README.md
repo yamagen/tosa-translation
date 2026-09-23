@@ -1,6 +1,8 @@
 # Tosa Nikki / The Tosa Diary
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15563257.svg)](https://doi.org/10.5281/zenodo.15563257)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22910967.svg)](https://doi.org/10.5281/zenodo.22910967)
+
+Version 1.1.1
 
 Translation and annotation data  
 by Hilofumi Yamamoto, Ph.D.  
@@ -8,7 +10,7 @@ Institute of Science Tokyo
 
 ## Overview
 
-This repository provides a JSON edition of *Tosa Nikki* (土佐日記, *The Tosa Diary*) with Japanese and English translations and word-level gloss annotation.
+This repository provides a JSON edition of _Tosa Nikki_ (土佐日記, _The Tosa Diary_) with Japanese and English translations and word-level gloss annotation.
 
 The source text is based on the open text provided through Aozora Bunko. The public JSON keeps the source text, kana reading, three translation layers, word-level glosses, and abbreviation definitions. Editorial working fields and research notes are not included in the public version.
 
@@ -24,28 +26,28 @@ The translation data are organized into three layers:
 
 The data are written in JSON. The public version uses the following fields:
 
-| tag | content |
-| --- | --- |
-| `title` | title |
-| `title_kana` | kana notation of the title |
-| `title_roman` | romanization of the title |
-| `author` | author |
-| `author_kana` | kana notation of the author |
-| `author_roman` | romanization of the author |
-| `paragraph` | array of text or poem entries |
-| `date` | revision history |
-| `id` | entry ID, stored uniformly as a string |
-| `text` | prose text |
-| `poem` | poem text |
-| `kana` | kana notation of the text or poem |
+| tag                      | content                                   |
+| ------------------------ | ----------------------------------------- |
+| `title`                  | title                                     |
+| `title_kana`             | kana notation of the title                |
+| `title_roman`            | romanization of the title                 |
+| `author`                 | author                                    |
+| `author_kana`            | kana notation of the author               |
+| `author_roman`           | romanization of the author                |
+| `paragraph`              | array of text or poem entries             |
+| `date`                   | revision history                          |
+| `id`                     | entry ID, stored uniformly as a string    |
+| `text`                   | prose text                                |
+| `poem`                   | poem text                                 |
+| `kana`                   | kana notation of the text or poem         |
 | `translation-ja-literal` | literal contemporary Japanese translation |
-| `translation-en-literal` | literal English translation |
+| `translation-en-literal` | literal English translation               |
 | `translation-ja-natural` | natural contemporary Japanese translation |
-| `translation-en-natural` | natural English translation |
-| `translation-ja-reading` | context-sensitive Japanese reading |
-| `translation-en-reading` | context-sensitive English reading |
-| `word-gloss` | word-level annotation |
-| `abbreviations` | abbreviations used in `word-gloss` |
+| `translation-en-natural` | natural English translation               |
+| `translation-ja-reading` | context-sensitive Japanese reading        |
+| `translation-en-reading` | context-sensitive English reading         |
+| `word-gloss`             | word-level annotation                     |
+| `abbreviations`          | abbreviations used in `word-gloss`        |
 
 The public JSON does **not** include working fields such as `koutei-yamagen`, `notes-ja`, `notes-en`, `commentary-ja`, or `commentary-en`.
 
