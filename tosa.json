@@ -1,7 +1,7 @@
 {
   "file": "Dropbox/pub/tosa/tosanikki.json",
   "check": "mkdir -p backup && cp tosanikki.json backup/tosanikki.$(date +%Y%m%d-%H%M).json",
-  "Last change": "Last change: 2026/10/08-12:49:15.",
+  "Last change": "Last change: 2026/10/08-13:06:47.",
   "title": "土佐日記",
   "title_kana": "とさにっき",
   "title_roman": "Tosa Nikki",
@@ -3674,7 +3674,7 @@
         { "word": "大湊", "lemma": "大湊", "kana": "おほみなと", "lemma-kana": "おほみなと", "romaji": "ohominato", "lemma-romaji": "ohominato", "gloss": "Ominato", "pos": "PN", "ku": 0 },
         { "word": "に", "lemma": "に", "kana": "に", "lemma-kana": "に", "romaji": "ni", "lemma-romaji": "ni", "gloss": "DAT", "pos": "P", "ku": 0 },
         { "word": "泊まれ", "lemma": "泊まる", "kana": "とまれ", "lemma-kana": "とまる", "romaji": "tomare", "lemma-romaji": "tomaru", "gloss": "stay.REALIS", "pos": "V", "ku": 0 },
-        { "word": "り", "lemma": "り", "kana": "り", "lemma-kana": "り", "romaji": "ri", "lemma-romaji": "ri", "gloss": "CONT.FIN", "pos": "AUX", "ku": 0 }
+        { "word": "り", "lemma": "り", "kana": "り", "lemma-kana": "り", "romaji": "ri", "lemma-romaji": "ri", "gloss": "PERF.FIN", "pos": "AUX", "ku": 0 }
       ],
       "abbreviations": {
         "ADV": "adverbial form in gloss, and adverb in pos",
@@ -3695,7 +3695,6 @@
       "text": "講師、物、酒などおこせたり。",
       "kana": "こうじ、もの、さけなどおこせたり。",
       "koutei-yamagen": "講師、物、酒など起こせたり。",
-      "koutei-yamagen": "講師、物、酒などおこせたり。",
       "koutei-kikuchi": "講師、物、酒おこせたり。",
       "kikuchi": "例の国分寺の僧が食物や酒を贈ってよこした。",
       "translation-ja-literal": "講師が、物や酒などを送ってよこした。",
